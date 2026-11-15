@@ -1,0 +1,217 @@
+{
+ "name": "Tipped Minimum Wage",
+ "slug": "tipped-minimum-wage",
+ "description": "Amendments to employer gratuity allowances and hourly wage rules for tipped workers.",
+ "queries": [
+  "gratuity allowance hourly wage",
+  "tipped worker wage ordinance",
+  "Section 6-105 gratuities"
+ ],
+ "title_keywords": [
+  "gratuities",
+  "hourly wage",
+  "6-105",
+  "employer allowance"
+ ],
+ "status": "voted",
+ "summary": "The contested item was the future of Chicago's One Fair Wage phase-out of the tipped subminimum wage. SO2025-0017549, amending Municipal Code Section 6-105-030 on employer gratuity allowances, was introduced 2025-05-21 and passed City Council 30 Yea / 18 Nay on 2026-03-18, after testimony both opposing changes to the ordinance and criticizing its effects on businesses [5][8]. A follow-up measure, SO2026-0024043, modifying timelines for employer allowance minimums, was introduced 2026-03-18 and taken up by the Committee on Workforce Development on 2026-05-12. The negotiated substitute, per Alderman Burnett, freezes the tip credit wage at 24% for two years, with a longer four-year ramp-up for small businesses, phasing out until 2030 [7][4][6]. Industry representatives said the substitute was not ideal but more workable than the existing phase-out, while One Fair Wage advocates said they could live with it but urged enforcement against wage theft [1][4][6]. The committee recommended do pass by unanimous voice vote [3][9][12], and City Council passed SO2026-0024043 49 Yea / 1 Nay on 2026-05-20, with speakers describing it as a compromise or 'pause' while reaffirming a commitment to eventual full minimum wage for tipped workers [2]. Still open are implementation of the freeze and ramp-up timeline, enforcement of wage-theft claims, and whether the promised eventual wage increase for tipped workers will occur [2][7].",
+ "one_line": "Council passed SO2026-0024043 (49-1) freezing the 24% tip credit through 2028, phasing out by 2030; enforcement details remain open.",
+ "cited_excerpts": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  12
+ ],
+ "records_cited_not_in_trail": [],
+ "trail": [
+  {
+   "record_number": "SO2025-0017549",
+   "title": "Amendment of Municipal Code Section 6-105-030 entitling employers of occupations where gratuities are customary to an allowance for gratuities as part of hourly wage rate not to exceed 24 percent of minimum wage rate",
+   "sponsor": "Lawson, Bennett R.",
+   "date": "2025-05-21",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Committees and Rules"
+  },
+  {
+   "record_number": "SO2025-0017549",
+   "title": "Amendment of Municipal Code Section 6-105-030 entitling employers of occupations where gratuities are customary to an allowance for gratuities as part of hourly wage rate not to exceed 24 percent of minimum wage rate",
+   "sponsor": "Lawson, Bennett R.",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Nugent, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "30 Yea / 18 Nay"
+  },
+  {
+   "record_number": "SO2026-0024043",
+   "title": "Amendment of Municipal Code Chapter 6-105 modifying timelines for employer allowance minimums in hourly wage occupations receiving gratuities",
+   "sponsor": "Burnett, Walter R.",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Workforce Development"
+  },
+  {
+   "record_number": "SO2026-0024043",
+   "title": "Amendment of Municipal Code Chapter 6-105 modifying timelines for employer allowance minimums in hourly wage occupations receiving gratuities",
+   "sponsor": "Burnett, Walter R.",
+   "date": "2026-05-12",
+   "body": "Committee on Workforce Development",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Workforce Summary 5.12.26.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5e94a040-5376-48ed-9ad2-eb4990c56664.pdf"
+  },
+  {
+   "record_number": "SO2026-0024043",
+   "title": "Amendment of Municipal Code Chapter 6-105 modifying timelines for employer allowance minimums in hourly wage occupations receiving gratuities",
+   "sponsor": "Burnett, Walter R.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Rodriguez, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 1 Nay"
+  }
+ ],
+ "trail_records": 2,
+ "citywide_records": 2,
+ "unverified_in_summary": [],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1191586511-2250",
+   "date": "2026-05-12",
+   "body": "Committee on Workforce Development",
+   "video_url": "https://vimeo.com/1191586511#t=2250s",
+   "at": "0:37:30",
+   "n": 1,
+   "snippet": "Thank you so much, Chair Rodriguez, and to the committee for having me. I want to start by just reminding us why Chicago City Council passed this ordinance to begin with. The sub-minimum wage for tipped workers is a direct legacy of post-emancipation era in the United States, when restaurants were a"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1193694170-19563",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=19563s",
+   "at": "5:26:03",
+   "n": 2,
+   "snippet": "their bills at home. That not all restaurants are able to send their tipped workers home with an average hourly rate of $25 an hour. That so many tipped workers in the city of Chicago do not report wage theft because we currently have a system that takes about two to three years to reach a verdict o"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1191586511-3150",
+   "date": "2026-05-12",
+   "body": "Committee on Workforce Development",
+   "video_url": "https://vimeo.com/1191586511#t=3150s",
+   "at": "0:52:30",
+   "n": 3,
+   "snippet": "committed to those tipped employees that they will one day receive a full minimum wage. And so I ask for my colleagues' favorable support on this ordinance, an ordinance and a substitute that all parties have articulated in testimony today that they can live with, and one that I will live with. And "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1191586511-2100",
+   "date": "2026-05-12",
+   "body": "Committee on Workforce Development",
+   "video_url": "https://vimeo.com/1191586511#t=2100s",
+   "at": "0:35:00",
+   "n": 4,
+   "snippet": "supporters of eliminating tip credit. Under our proposal, operators who committed to the higher guaranteed wage would have been able to maintain the 24% tip credit. We continue to believe that was the better policy. It preserved the tipping model while also guaranteeing a premium outcome for workers"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1174131349-8919",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=8919s",
+   "at": "2:28:39",
+   "n": 5,
+   "snippet": "Good afternoon. Yes, we can. Good afternoon. Yes. Thank you. My name is Sarah Arndt. I am an attorney with Worm & Salas PC and a resident of Chicago's Third Ward. I'm speaking today on behalf of the National Employment Lawyers Association, Illinois Affiliate, known as NELA Illinois. We are a bar ass"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1193694170-2163",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=2163s",
+   "at": "0:36:03",
+   "n": 6,
+   "snippet": "where the discussion stands today. This ordinance is not the ideal outcome for our industry, but it is more workable and less harmful than allowing the current phase-out to continue. The most important part of this ordinance is that it extends the current 24% tip credit allowance through June 30th, "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1191586511-1800",
+   "date": "2026-05-12",
+   "body": "Committee on Workforce Development",
+   "video_url": "https://vimeo.com/1191586511#t=1800s",
+   "at": "0:30:00",
+   "n": 7,
+   "snippet": "from One Fair Wage online remotely, as well as in-person, Sam Toia from the Illinois Restaurant Association. In addition, we have Director of Labor Standards, Miguel Campos, here to answer any questions. Alderman Burnett, you have the floor, my friend. Thank you, Chairman, and thank you to everyone "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1174131349-17619",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=17619s",
+   "at": "4:53:39",
+   "n": 8,
+   "snippet": "I talk about working documents that we have. Well, we realize this working document was a mistake. I'm proud to say I wasn't one of the individuals that made a mistake. I believe I was one of the 10 people that thought this was a terrible idea. I'm hearing from my businesses by it. I'm hearing from "
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-f63fbe192c66e752-0",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "doc_name": "SO2026-0024043 CL.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/matterattachmentspublic/8443b26e-3135-4ddc-91f3-3d0571d53c45.pdf",
+   "n": 9,
+   "snippet": "CHICAGO, MAY 20th 2026\n\nTo the President and Members of the City Council:\n\n The Committee on Workforce Development, having had under consideration an ordinance,\nSO2026-0024043 \u2013 Amendment of Municipal Code Chapter 6-105 modifying timelines for employer\nallowance minimums in hourly wage occupations r"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-36679dd599ecbac7-169",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "doc_name": "2026-09-23 Council Agenda V3 optimized bookmarked.pdf",
+   "page": 109,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3c45558c-4276-444e-8e33-940aedd27693.pdf",
+   "n": 10,
+   "snippet": "(d) Upon request, every Employer shall turn over data and records on all heat-\nrelated illnesses and fatalities which occurred at an outdoor worksite to the Office of Labor\nStandards.\n\n ( e) Failure to maintain or tum over data and records upon request shall be\nconsidered a violation subject to pena"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-36679dd599ecbac7-171",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "doc_name": "2026-09-23 Council Agenda V3 optimized bookmarked.pdf",
+   "page": 110,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3c45558c-4276-444e-8e33-940aedd27693.pdf",
+   "n": 11,
+   "snippet": "6-140-080 Violation - Penalty.\n\n (a) Any Employer found in violation of Sections 6-140-050, 6-140-055, 6-140-\n060, or 6-140-065 or any rule promulgated thereunder shall be subject to a fine of not less\nthan $100 nor more than $300 for the first offense. Subsequent violations shall be subject\nto a fi"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-3f59c83654b3640f-0",
+   "date": "2026-05-12",
+   "body": "Committee on Workforce Development",
+   "doc_name": "Workforce Amended Summary 5.12.26.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c44ad8b6-aa58-41e0-a94e-07a93fb5f9bc.pdf",
+   "n": 12,
+   "snippet": "AMENDED SUMMARY OF REPORTS\n COMMITTEE ON WORKFORCE DEVELOPMENT MAY 12th 2026 MEETING\n\n TO BE SUBMITTED TO THE CITY COUNCIL\n ____________________________________________________________________\n\n\nR2026-0024901: Call on U.S. Congress to pass and President Donald Trump to\n\nsign Living Wage for Musician"
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}

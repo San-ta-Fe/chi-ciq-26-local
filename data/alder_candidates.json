@@ -1,0 +1,850 @@
+{
+ "caption_files": 193,
+ "archive": "/Users/z/Downloads/chicago-city-council-archive",
+ "alders": [
+  {
+   "name": "Lopez, Raymond A.",
+   "surname": "Lopez",
+   "variants": [
+    "lopez"
+   ],
+   "caption_mentions": 760,
+   "meetings_mentioned": 113,
+   "chair_mentions": 4,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 760,
+   "sponsored_items": 276,
+   "rollcall_items": 5832,
+   "yea": 5808,
+   "nay": 20
+  },
+  {
+   "name": "Moore, David H.",
+   "surname": "Moore",
+   "variants": [
+    "moore"
+   ],
+   "caption_mentions": 656,
+   "meetings_mentioned": 123,
+   "chair_mentions": 2,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 135,
+   "rollcall_items": 5852,
+   "yea": 5820,
+   "nay": 12
+  },
+  {
+   "name": "Ervin, Jason C.",
+   "surname": "Ervin",
+   "variants": [
+    "ervin",
+    "erwin",
+    "irvin",
+    "irving"
+   ],
+   "caption_mentions": 637,
+   "meetings_mentioned": 111,
+   "chair_mentions": 184,
+   "likely_chair_of": "Committee on Budget and Government Operations",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 120,
+   "rollcall_items": 5832,
+   "yea": 5818,
+   "nay": 12
+  },
+  {
+   "name": "Mitchell, Gregory I.",
+   "surname": "Mitchell",
+   "variants": [
+    "mitchell"
+   ],
+   "caption_mentions": 625,
+   "meetings_mentioned": 111,
+   "chair_mentions": 107,
+   "likely_chair_of": "Committee on Housing and Real Estate",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 91,
+   "rollcall_items": 5831,
+   "yea": 5826,
+   "nay": 5
+  },
+  {
+   "name": "Burnett, Walter R.",
+   "surname": "Burnett",
+   "variants": [
+    "burnett"
+   ],
+   "caption_mentions": 567,
+   "meetings_mentioned": 109,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 123,
+   "rollcall_items": 5832,
+   "yea": 5824,
+   "nay": 7
+  },
+  {
+   "name": "Conway, William",
+   "surname": "Conway",
+   "variants": [
+    "conway"
+   ],
+   "caption_mentions": 547,
+   "meetings_mentioned": 103,
+   "chair_mentions": 111,
+   "likely_chair_of": "Committee on Finance",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 32,
+   "rollcall_items": 5852,
+   "yea": 5823,
+   "nay": 8
+  },
+  {
+   "name": "Villegas, Gilbert",
+   "surname": "Villegas",
+   "variants": [
+    "viegas",
+    "vilegas",
+    "villages",
+    "villegas"
+   ],
+   "caption_mentions": 525,
+   "meetings_mentioned": 106,
+   "chair_mentions": 81,
+   "likely_chair_of": "Committee on Zoning, Landmarks and Building Standards",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 110,
+   "rollcall_items": 5852,
+   "yea": 4866,
+   "nay": 7
+  },
+  {
+   "name": "Reilly, Brendan",
+   "surname": "Reilly",
+   "variants": [
+    "reilley",
+    "reilly",
+    "riley"
+   ],
+   "caption_mentions": 506,
+   "meetings_mentioned": 103,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 42,
+   "rollcall_items": 5852,
+   "yea": 5821,
+   "nay": 12
+  },
+  {
+   "name": "Vasquez, Jr., Andre",
+   "surname": "Vasquez",
+   "variants": [
+    "vasquez",
+    "vazquez"
+   ],
+   "caption_mentions": 506,
+   "meetings_mentioned": 111,
+   "chair_mentions": 58,
+   "likely_chair_of": "Committee on Transportation and Public Way",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 75,
+   "rollcall_items": 5832,
+   "yea": 5517,
+   "nay": 11
+  },
+  {
+   "name": "Dowell, Pat",
+   "surname": "Dowell",
+   "variants": [
+    "dowell"
+   ],
+   "caption_mentions": 504,
+   "meetings_mentioned": 87,
+   "chair_mentions": 241,
+   "likely_chair_of": "Committee on Finance",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 65,
+   "rollcall_items": 5832,
+   "yea": 5822,
+   "nay": 8
+  },
+  {
+   "name": "Taylor, Jeanette B.",
+   "surname": "Taylor",
+   "variants": [
+    "taylor"
+   ],
+   "caption_mentions": 498,
+   "meetings_mentioned": 85,
+   "chair_mentions": 26,
+   "likely_chair_of": "Committee on Education and Child Development",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 46,
+   "rollcall_items": 5832,
+   "yea": 5514,
+   "nay": 8
+  },
+  {
+   "name": "Lee, Nicole T.",
+   "surname": "Lee",
+   "variants": [
+    "lee"
+   ],
+   "caption_mentions": 496,
+   "meetings_mentioned": 100,
+   "chair_mentions": 144,
+   "likely_chair_of": "Committee on Budget and Government Operations",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 126,
+   "rollcall_items": 5832,
+   "yea": 5824,
+   "nay": 7
+  },
+  {
+   "name": "Martin, Matthew J.",
+   "surname": "Martin",
+   "variants": [
+    "martin"
+   ],
+   "caption_mentions": 481,
+   "meetings_mentioned": 106,
+   "chair_mentions": 58,
+   "likely_chair_of": "Committee on Ethics and Government Oversight",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 53,
+   "rollcall_items": 5852,
+   "yea": 5823,
+   "nay": 11
+  },
+  {
+   "name": "Mosley, Ronnie L.",
+   "surname": "Mosley",
+   "variants": [
+    "moseley",
+    "mosely",
+    "mosley"
+   ],
+   "caption_mentions": 450,
+   "meetings_mentioned": 108,
+   "chair_mentions": 19,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 162,
+   "rollcall_items": 5832,
+   "yea": 5825,
+   "nay": 4
+  },
+  {
+   "name": "Harris, Michelle A.",
+   "surname": "Harris",
+   "variants": [
+    "harris"
+   ],
+   "caption_mentions": 442,
+   "meetings_mentioned": 98,
+   "chair_mentions": 44,
+   "likely_chair_of": "Committee on Zoning, Landmarks and Building Standards",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 285,
+   "rollcall_items": 5832,
+   "yea": 5825,
+   "nay": 6
+  },
+  {
+   "name": "Beale, Anthony",
+   "surname": "Beale",
+   "variants": [
+    "beal",
+    "beale",
+    "beel"
+   ],
+   "caption_mentions": 421,
+   "meetings_mentioned": 77,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 66,
+   "rollcall_items": 5832,
+   "yea": 5825,
+   "nay": 6
+  },
+  {
+   "name": "Hall, William E.",
+   "surname": "Hall",
+   "variants": [
+    "hall"
+   ],
+   "caption_mentions": 406,
+   "meetings_mentioned": 88,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 138,
+   "rollcall_items": 5832,
+   "yea": 5818,
+   "nay": 12
+  },
+  {
+   "name": "Hopkins, Brian",
+   "surname": "Hopkins",
+   "variants": [
+    "hopkins"
+   ],
+   "caption_mentions": 404,
+   "meetings_mentioned": 90,
+   "chair_mentions": 60,
+   "likely_chair_of": "Committee on Public Safety",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 35,
+   "rollcall_items": 5832,
+   "yea": 5822,
+   "nay": 9
+  },
+  {
+   "name": "Lawson, Bennett R.",
+   "surname": "Lawson",
+   "variants": [
+    "lawson"
+   ],
+   "caption_mentions": 366,
+   "meetings_mentioned": 80,
+   "chair_mentions": 115,
+   "likely_chair_of": "Committee on Zoning, Landmarks and Building Standards",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 35,
+   "rollcall_items": 5852,
+   "yea": 5826,
+   "nay": 8
+  },
+  {
+   "name": "Robinson, Lamont J.",
+   "surname": "Robinson",
+   "variants": [
+    "robinson"
+   ],
+   "caption_mentions": 353,
+   "meetings_mentioned": 95,
+   "chair_mentions": 31,
+   "likely_chair_of": "Committee on Police and Fire",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 46,
+   "rollcall_items": 5832,
+   "yea": 5820,
+   "nay": 11
+  },
+  {
+   "name": "Quinn, Marty",
+   "surname": "Quinn",
+   "variants": [
+    "quinn"
+   ],
+   "caption_mentions": 327,
+   "meetings_mentioned": 89,
+   "chair_mentions": 1,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 139,
+   "rollcall_items": 5832,
+   "yea": 5821,
+   "nay": 10
+  },
+  {
+   "name": "Curtis, Derrick G.",
+   "surname": "Curtis",
+   "variants": [
+    "curtis"
+   ],
+   "caption_mentions": 325,
+   "meetings_mentioned": 85,
+   "chair_mentions": 30,
+   "likely_chair_of": "Committee on Economic, Capital and Technology Development",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 90,
+   "rollcall_items": 5832,
+   "yea": 5522,
+   "nay": 7
+  },
+  {
+   "name": "Sposato, Nicholas",
+   "surname": "Sposato",
+   "variants": [
+    "sposato"
+   ],
+   "caption_mentions": 324,
+   "meetings_mentioned": 80,
+   "chair_mentions": 16,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 74,
+   "rollcall_items": 5852,
+   "yea": 5822,
+   "nay": 9
+  },
+  {
+   "name": "Knudsen, Timothy R.",
+   "surname": "Knudsen",
+   "variants": [
+    "knudsen",
+    "knudson",
+    "knutsen",
+    "knutson"
+   ],
+   "caption_mentions": 321,
+   "meetings_mentioned": 94,
+   "chair_mentions": 10,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 40,
+   "rollcall_items": 5832,
+   "yea": 5523,
+   "nay": 5
+  },
+  {
+   "name": "Fuentes, Jessica L.",
+   "surname": "Fuentes",
+   "variants": [
+    "fuentes"
+   ],
+   "caption_mentions": 320,
+   "meetings_mentioned": 76,
+   "chair_mentions": 1,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 119,
+   "rollcall_items": 5832,
+   "yea": 5820,
+   "nay": 11
+  },
+  {
+   "name": "Rodriguez, Michael D.",
+   "surname": "Rodriguez",
+   "variants": [
+    "rodriguez"
+   ],
+   "caption_mentions": 317,
+   "meetings_mentioned": 88,
+   "chair_mentions": 41,
+   "likely_chair_of": "Committee on Workforce Development",
+   "ambiguous_mentions": 317,
+   "sponsored_items": 103,
+   "rollcall_items": 5832,
+   "yea": 5821,
+   "nay": 9
+  },
+  {
+   "name": "Hadden, Maria E.",
+   "surname": "Hadden",
+   "variants": [
+    "hadden"
+   ],
+   "caption_mentions": 309,
+   "meetings_mentioned": 75,
+   "chair_mentions": 59,
+   "likely_chair_of": "Committee on Environmental Protection and Energy",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 60,
+   "rollcall_items": 5832,
+   "yea": 4867,
+   "nay": 11
+  },
+  {
+   "name": "Waguespack, Scott",
+   "surname": "Waguespack",
+   "variants": [
+    "wagaspack",
+    "waguespack",
+    "waguespak"
+   ],
+   "caption_mentions": 299,
+   "meetings_mentioned": 80,
+   "chair_mentions": 1,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 44,
+   "rollcall_items": 5852,
+   "yea": 5821,
+   "nay": 12
+  },
+  {
+   "name": "Scott, Monique L.",
+   "surname": "Scott",
+   "variants": [
+    "scott"
+   ],
+   "caption_mentions": 285,
+   "meetings_mentioned": 81,
+   "chair_mentions": 12,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 67,
+   "rollcall_items": 5852,
+   "yea": 4415,
+   "nay": 6
+  },
+  {
+   "name": "Rodriguez Sanchez, Rossana",
+   "surname": "Rodriguez Sanchez",
+   "variants": [
+    "rodriguez sanchez",
+    "rodriguezsanchez",
+    "sanchez"
+   ],
+   "caption_mentions": 270,
+   "meetings_mentioned": 82,
+   "chair_mentions": 30,
+   "likely_chair_of": "Committee on Health and Human Relations",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 66,
+   "rollcall_items": 5832,
+   "yea": 5819,
+   "nay": 10
+  },
+  {
+   "name": "Clay, Angela",
+   "surname": "Clay",
+   "variants": [
+    "clay"
+   ],
+   "caption_mentions": 265,
+   "meetings_mentioned": 78,
+   "chair_mentions": 1,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 90,
+   "rollcall_items": 5852,
+   "yea": 5819,
+   "nay": 12
+  },
+  {
+   "name": "La Spata, Daniel",
+   "surname": "La Spata",
+   "variants": [
+    "la spada",
+    "la spata",
+    "las spata",
+    "laspada",
+    "laspata",
+    "lospada"
+   ],
+   "caption_mentions": 265,
+   "meetings_mentioned": 73,
+   "chair_mentions": 21,
+   "likely_chair_of": "Committee on Pedestrian and Traffic Safety",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 118,
+   "rollcall_items": 5832,
+   "yea": 5819,
+   "nay": 11
+  },
+  {
+   "name": "Gutierrez, Jeylu B.",
+   "surname": "Gutierrez",
+   "variants": [
+    "gutierrez"
+   ],
+   "caption_mentions": 260,
+   "meetings_mentioned": 81,
+   "chair_mentions": 13,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 85,
+   "rollcall_items": 5832,
+   "yea": 5820,
+   "nay": 11
+  },
+  {
+   "name": "O'Shea, Matthew J.",
+   "surname": "O'Shea",
+   "variants": [
+    "o'shea"
+   ],
+   "caption_mentions": 259,
+   "meetings_mentioned": 77,
+   "chair_mentions": 13,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 120,
+   "rollcall_items": 5852,
+   "yea": 5824,
+   "nay": 10
+  },
+  {
+   "name": "Ramirez, Julia M.",
+   "surname": "Ramirez",
+   "variants": [
+    "ramirez"
+   ],
+   "caption_mentions": 257,
+   "meetings_mentioned": 88,
+   "chair_mentions": 20,
+   "likely_chair_of": "Committee on Health and Human Relations",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 94,
+   "rollcall_items": 5832,
+   "yea": 5819,
+   "nay": 12
+  },
+  {
+   "name": "Silverstein, Debra L.",
+   "surname": "Silverstein",
+   "variants": [
+    "silverstein"
+   ],
+   "caption_mentions": 254,
+   "meetings_mentioned": 84,
+   "chair_mentions": 65,
+   "likely_chair_of": "Committee on License and Consumer Protection",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 70,
+   "rollcall_items": 5852,
+   "yea": 5820,
+   "nay": 10
+  },
+  {
+   "name": "Chico, Peter",
+   "surname": "Chico",
+   "variants": [
+    "chico"
+   ],
+   "caption_mentions": 240,
+   "meetings_mentioned": 75,
+   "chair_mentions": 29,
+   "likely_chair_of": "Committee on License and Consumer Protection",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 93,
+   "rollcall_items": 5852,
+   "yea": 5826,
+   "nay": 8
+  },
+  {
+   "name": "Coleman, Stephanie D.",
+   "surname": "Coleman",
+   "variants": [
+    "coleman"
+   ],
+   "caption_mentions": 239,
+   "meetings_mentioned": 65,
+   "chair_mentions": 4,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 184,
+   "rollcall_items": 5852,
+   "yea": 5822,
+   "nay": 7
+  },
+  {
+   "name": "Mitts, Emma",
+   "surname": "Mitts",
+   "variants": [
+    "mits",
+    "mitts",
+    "mitz"
+   ],
+   "caption_mentions": 230,
+   "meetings_mentioned": 77,
+   "chair_mentions": 17,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 136,
+   "rollcall_items": 5852,
+   "yea": 5355,
+   "nay": 6
+  },
+  {
+   "name": "Nugent, Samantha",
+   "surname": "Nugent",
+   "variants": [
+    "nugent"
+   ],
+   "caption_mentions": 230,
+   "meetings_mentioned": 93,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 109,
+   "rollcall_items": 5832,
+   "yea": 5823,
+   "nay": 8
+  },
+  {
+   "name": "Cruz, Ruth",
+   "surname": "Cruz",
+   "variants": [
+    "cruz"
+   ],
+   "caption_mentions": 218,
+   "meetings_mentioned": 78,
+   "chair_mentions": 30,
+   "likely_chair_of": "Committee on Pedestrian and Traffic Safety",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 84,
+   "rollcall_items": 5832,
+   "yea": 5823,
+   "nay": 4
+  },
+  {
+   "name": "Yancy, Desmon C.",
+   "surname": "Yancy",
+   "variants": [
+    "yancey",
+    "yancy"
+   ],
+   "caption_mentions": 207,
+   "meetings_mentioned": 78,
+   "chair_mentions": 14,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 24,
+   "rollcall_items": 5832,
+   "yea": 5824,
+   "nay": 5
+  },
+  {
+   "name": "Cardona, Jr., Felix",
+   "surname": "Cardona",
+   "variants": [
+    "cardona"
+   ],
+   "caption_mentions": 201,
+   "meetings_mentioned": 83,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 113,
+   "rollcall_items": 5852,
+   "yea": 5825,
+   "nay": 9
+  },
+  {
+   "name": "Gardiner, James M.",
+   "surname": "Gardiner",
+   "variants": [
+    "gardiner",
+    "gardner"
+   ],
+   "caption_mentions": 197,
+   "meetings_mentioned": 65,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 346,
+   "rollcall_items": 5852,
+   "yea": 5822,
+   "nay": 10
+  },
+  {
+   "name": "Quezada, Anthony J.",
+   "surname": "Quezada",
+   "variants": [
+    "quesada",
+    "quezada"
+   ],
+   "caption_mentions": 192,
+   "meetings_mentioned": 63,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 116,
+   "rollcall_items": 5832,
+   "yea": 5820,
+   "nay": 11
+  },
+  {
+   "name": "Napolitano, Anthony V.",
+   "surname": "Napolitano",
+   "variants": [
+    "napalitano",
+    "napolitano"
+   ],
+   "caption_mentions": 187,
+   "meetings_mentioned": 69,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 33,
+   "rollcall_items": 5852,
+   "yea": 5819,
+   "nay": 15
+  },
+  {
+   "name": "Taliaferro, Chris",
+   "surname": "Taliaferro",
+   "variants": [
+    "taliaferra",
+    "taliaferro",
+    "tolliver"
+   ],
+   "caption_mentions": 176,
+   "meetings_mentioned": 64,
+   "chair_mentions": 24,
+   "likely_chair_of": "City Council",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 124,
+   "rollcall_items": 5832,
+   "yea": 5818,
+   "nay": 10
+  },
+  {
+   "name": "Sigcho-Lopez, Byron",
+   "surname": "Sigcho-Lopez",
+   "variants": [
+    "cintra lopez",
+    "sicho lopez",
+    "sigcho",
+    "sigcho lopez",
+    "sigcholopez",
+    "sigo lopez",
+    "sintra lopez"
+   ],
+   "caption_mentions": 169,
+   "meetings_mentioned": 52,
+   "chair_mentions": 38,
+   "likely_chair_of": "City Council",
+   "ambiguous_mentions": 0,
+   "sponsored_items": 57,
+   "rollcall_items": 5832,
+   "yea": 5819,
+   "nay": 12
+  },
+  {
+   "name": "Tabares, Silvana",
+   "surname": "Tabares",
+   "variants": [
+    "tabares",
+    "tabarez",
+    "tavares"
+   ],
+   "caption_mentions": 129,
+   "meetings_mentioned": 45,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 112,
+   "rollcall_items": 5832,
+   "yea": 5822,
+   "nay": 9
+  },
+  {
+   "name": "Manaa-Hoppenworth, Leni",
+   "surname": "Manaa-Hoppenworth",
+   "variants": [
+    "hoppenworth",
+    "manaa hoppenworth",
+    "manaahoppenworth",
+    "manna hoppenworth"
+   ],
+   "caption_mentions": 41,
+   "meetings_mentioned": 22,
+   "chair_mentions": 0,
+   "likely_chair_of": null,
+   "ambiguous_mentions": 0,
+   "sponsored_items": 35,
+   "rollcall_items": 5832,
+   "yea": 5819,
+   "nay": 12
+  }
+ ]
+}

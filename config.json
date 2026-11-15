@@ -1,0 +1,45 @@
+{
+  "archive_dir": "~/Downloads/chicago-city-council-archive",
+  "db_dir": "db",
+  "data_dir": "data",
+
+  "embedding": {
+    "base_url": "http://localhost:11434/v1",
+    "model": "nomic-embed-text",
+    "api_key_env": null,
+    "doc_prefix": "search_document: ",
+    "query_prefix": "search_query: ",
+    "batch_size": 32
+  },
+
+  "llm_profiles": {
+    "local": {
+      "base_url": "http://localhost:11434/v1",
+      "model": "qwen2.5:3b",
+      "api_key_env": null,
+      "rag_source_chars": 900,
+      "rag_transcripts": 4,
+      "rag_documents": 2
+    },
+    "cloud": {
+      "base_url": "https://opencode.ai/inference/go/openai/v1",
+      "model": "glm-5.3-flash",
+      "api_key_env": "CLOUD_API_KEY",
+      "rag_source_chars": 2500,
+      "headers": {
+        "x-opencode-session": "kya-demo-precompute-1",
+        "User-Agent": "kya-demo/0.1"
+      }
+    }
+  },
+  "precompute_profile": "cloud",
+  "chat_profile": "local",
+
+  "doc_types": ["Agenda", "Summary", "Committee Letter"],
+  "transcript_window_sec": 180,
+  "transcript_step_sec": 150,
+  "doc_chunk_chars": 1500,
+  "doc_overlap_chars": 200,
+
+  "featured_alders": ["Lopez, Raymond A.", "Moore, David H.", "Ervin, Jason C.", "Mitchell, Gregory I."]
+}

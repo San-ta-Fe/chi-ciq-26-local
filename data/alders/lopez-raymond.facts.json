@@ -1,0 +1,4470 @@
+{
+ "name": "Lopez, Raymond A.",
+ "slug": "lopez-raymond",
+ "surname": "Lopez",
+ "votes": {
+  "source": "Official roll-call records (City Clerk)",
+  "rollcall_items": 5832,
+  "meetings": 16,
+  "yea": 5808,
+  "nay": 20,
+  "other": {
+   "Recused": 3,
+   "Not Voting": 1
+  },
+  "voted_differently_from_majority": [
+   {
+    "date": "2025-11-14",
+    "meeting_id": "079641F0-9BAB-F011-BBD2-001DD80B7FF7",
+    "record_number": "Or2025-0020785",
+    "title": "Settlement agreement regarding case of Mileidy Tejada Rivera and Helen Francisco v. City of Chicago, Officer L. Gorski, Officer Z. Nolfi, Officer A. Kulisek, cited as Case No. 2024 L 005851",
+    "their_vote": "Nay",
+    "tally": "42 Yea / 2 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2025-12-10",
+    "meeting_id": "D126676D-A1C4-F011-BBD2-001DD8020E93",
+    "record_number": "Or2025-0021480",
+    "title": "Settlement agreement regarding case of Shanae Flowers James v. City of Chicago, cited as 2023 L 6913",
+    "their_vote": "Nay",
+    "tally": "46 Yea / 2 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-01-21",
+    "meeting_id": "50866F51-63DF-F011-8543-001DD80E9311",
+    "record_number": "Or2026-0022295",
+    "title": "Settlement agreement regarding case of Tim Anderson, et al. v. David Brown, et al., cited as Case No. 1:23-cv-2245",
+    "their_vote": "Nay",
+    "tally": "31 Yea / 16 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-02-18",
+    "meeting_id": "AADBA854-DDF6-F011-8406-001DD8080DE8",
+    "record_number": "SO2025-0018183",
+    "title": "Amendment of Municipal Code Title 17 by modifying Section 17-3-0207 to remove permit requirements for gas stations in B3, C1, and C2 zoning districts and by modifying Section 17-9-0109 restricting expansions of gas stations in certain circumstances",
+    "their_vote": "Nay",
+    "tally": "48 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-03-18",
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "record_number": "O2025-0018794",
+    "title": "Support of Class 6(b) tax incentive for property at 501 N Sacramento Blvd",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-03-18",
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "record_number": "O2026-0023325",
+    "title": "First amendment to intergovernmental agreement with Chicago Park District to provide tax increment financing (TIF) assistance for improvements at Avondale Park at 3516 W School St",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-03-18",
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "record_number": "O2026-0023326",
+    "title": "Third amendment to intergovernmental agreement with Chicago Park District to provide tax increment financing (TIF) assistance for improvements at Clarendon Park at 4532-4534 and 4538 N Clarendon Ave",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-03-18",
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "record_number": "O2026-0023327",
+    "title": "Intergovernmental agreement with Chicago Park District to provide tax increment financing (TIF) assistance for improvements at Hermosa Park at 2240 N Kilbourn Ave",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-03-18",
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "record_number": "O2026-0023328",
+    "title": "Intergovernmental agreement with Chicago Board of Education to provide tax increment financing (TIF) assistance for improvements at Carter G. Woodson Elementary School at 4414 S Evans Ave",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-04-15",
+    "meeting_id": "2EA74F29-8923-F111-8341-001DD80B1275",
+    "record_number": "O2026-0024095",
+    "title": "Seventeenth Supplemental Indenture securing Second Lien Water Revenue Bonds, Refunding Series 2026A",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-05-20",
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "record_number": "Or2026-0025269",
+    "title": "Settlement agreement regarding case of Access Living v. City of Chicago, cited as 18 CV 3399",
+    "their_vote": "Nay",
+    "tally": "49 Yea / 1 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-05-20",
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "record_number": "R2025-0018197",
+    "title": "Submission of public question by referendum to Chicago voters at March 17, 2026 primary election on whether Chicago should establish 100-day non-salaried Office of Chicago Reform Commission to reform and improve city government by drafting City charter proposal",
+    "their_vote": "Yea",
+    "tally": "15 Yea / 30 Nay",
+    "result": "failed"
+   },
+   {
+    "date": "2026-05-20",
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "record_number": "SO2025-0015584",
+    "title": "Amendment of Municipal Code Title 2 by amending Section 2-78-120 (e-5) and adding new Section 2-84-530 prohibiting members of Chicago Police Department from participating in any extremist activity",
+    "their_vote": "Nay",
+    "tally": "28 Yea / 21 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-05-20",
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "record_number": "SO2026-0024036",
+    "title": "Amendment of Municipal Code Title 2 by adding new Chapter 2-200 titled The Reverend Jesse L. Jackson Sr. Fair Access to Democracy Ordinance and establishment of The Reverend Jesse L. Jackson Sr. Advisory Council on Access to Democracy",
+    "their_vote": "Nay",
+    "tally": "42 Yea / 8 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-06-17",
+    "meeting_id": "73347594-0E55-F111-BEC6-001DD80B0E39",
+    "record_number": "Or2026-0026210",
+    "title": "Settlement agreement regarding case of Maria Navarro Escobedo and Yadira Navarro Escobedo v. Julian Martha Juarez, Tobias M. Houston, Michael Kocerka, and City of Chicago, cited as 2023 L 10937",
+    "their_vote": "Nay",
+    "tally": "36 Yea / 12 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-06-17",
+    "meeting_id": "73347594-0E55-F111-BEC6-001DD80B0E39",
+    "record_number": "SO2026-0024076",
+    "title": "Amendment of Municipal Code Chapter 4-156 by defining and prohibiting the installation or use of sweepstakes machines",
+    "their_vote": "Yea",
+    "tally": "15 Yea / 33 Nay",
+    "result": "failed"
+   },
+   {
+    "date": "2026-07-15",
+    "meeting_id": "DF5C52EA-0D6B-F111-A823-001DD8019941",
+    "record_number": "A2026-0027110",
+    "title": "Appointment of Lester Barclay as member of Northern Illinois Transit Authority Board and Chicago Transit Board",
+    "their_vote": "Nay",
+    "tally": "25 Yea / 19 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-07-15",
+    "meeting_id": "DF5C52EA-0D6B-F111-A823-001DD8019941",
+    "record_number": "A2026-0027111",
+    "title": "Appointment of Christian Diaz as member of Northern Illinois Transit Authority Board and Chicago Transit Board",
+    "their_vote": "Nay",
+    "tally": "32 Yea / 11 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-10-14",
+    "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+    "record_number": "SO2026-0026950",
+    "title": "Amendment of Municipal Code Chapter 10-8 regarding Charitable Solicitation on public way",
+    "their_vote": "Nay",
+    "tally": "47 Yea / 2 Nay",
+    "result": "passed"
+   }
+  ]
+ },
+ "sponsored": {
+  "source": "Official legislation records (City Clerk), filing sponsor",
+  "count": 276,
+  "by_category": {
+   "COMMENDATIONS & DECLARATIONS": 175,
+   "PARKING | Disabled": 67,
+   "PARKING | Handicapped": 11,
+   "MUNICIPAL CODE AMENDMENTS": 5,
+   "TRIBUTES": 2,
+   "MUNICIPAL CODE AMENDMENTS | 4-60-023 Package Goods": 2,
+   "MUNICIPAL CODE AMENDMENTS | 4-60-022 Liquor Dealers": 2,
+   "TRAFFIC | Signs": 2,
+   "STREETS | Honorary Designations": 1,
+   "RESTRICTED RESIDENTIAL ZONES": 1,
+   "ZONING RECLASSIFICATIONS": 1,
+   "SIGNS/SIGNBOARDS": 1,
+   "CITY COUNCIL | RULES OF ORDER & PROCEDURE": 1,
+   "BUDGET & APPROPRIATIONS": 1,
+   "PARKING | Buffer Zones": 1,
+   "PARKING | Residential Permit": 1,
+   "WATER": 1,
+   "CITY COUNCIL | Miscellaneous": 1
+  },
+  "items": [
+   {
+    "record_number": "O2026-0029079",
+    "title": "Disabled Parking Permit No. 131805 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029128",
+    "title": "Disabled Parking Permit No. 138148",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029129",
+    "title": "Disabled Parking Permit No. 138347",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0027564",
+    "title": "Honorary street designation as \"Claudette Soto Way\"",
+    "type": "Ordinance",
+    "category": "STREETS | Honorary Designations",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Transportation and Public Way"
+   },
+   {
+    "record_number": "O2026-0028490",
+    "title": "Disabled Parking Permit No. 139499",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0028497",
+    "title": "Disabled Parking Permit No. 138945",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0028923",
+    "title": "Designation of 16th Precinct of 15th Ward as Restricted Residential Zone prohibiting additional shared housing units",
+    "type": "Ordinance",
+    "category": "RESTRICTED RESIDENTIAL ZONES",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on License and Consumer Protection"
+   },
+   {
+    "record_number": "O2026-0026685",
+    "title": "Disabled Parking Permit No. 44910 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-15",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0027173",
+    "title": "Zoning Reclassification Map No. 10-F at 4639-4643 S Wallace St - App No. A-9144",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-07-15",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "SO2026-0027237",
+    "title": "Amendment of Municipal Code Section 2-45-165 by including additional review and decision-making criteria when considering revocation of property tax incentives",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2026-07-15",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Economic, Capital and Technology Development"
+   },
+   {
+    "record_number": "O2026-0026493",
+    "title": "Disabled Parking Permit No. 138225",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026502",
+    "title": "Disabled Parking Permit No. 138365",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026683",
+    "title": "Disabled Parking Permit No. 14755 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026684",
+    "title": "Disabled Parking Permit No. 42063 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026686",
+    "title": "Disabled Parking Permit No. 49913 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026687",
+    "title": "Disabled Parking Permit No. 111052 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026688",
+    "title": "Disabled Parking Permit No. 115565 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "R2026-0026135",
+    "title": "Tribute to late Dr. Frank Hayden",
+    "type": "Resolution",
+    "category": "TRIBUTES",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026139",
+    "title": "Congratulations extended to Eva Candido on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026140",
+    "title": "Congratulations extended to Elizabeth Cruz on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026141",
+    "title": "Congratulations extended to Martha Montes on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026142",
+    "title": "Congratulations extended to Alicia Moreno on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026143",
+    "title": "Congratulations extended to Maria Munoz Depena on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026144",
+    "title": "Congratulations extended to Jose Orozco on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026145",
+    "title": "Congratulations extended to Consuelo Romero on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026146",
+    "title": "Congratulations extended to Manuel Salcedo on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026147",
+    "title": "Congratulations extended to Maria Vargas on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026148",
+    "title": "Congratulations extended to Tyrone Weatherall on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026149",
+    "title": "Congratulations extended to Barbara Balls on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026150",
+    "title": "Congratulations extended to Juan Fuentes on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026151",
+    "title": "Congratulations extended to Maria Gonzalez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026152",
+    "title": "Congratulations extended to Mary McBride on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026153",
+    "title": "Congratulations extended to Roberto Perrusquia on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026154",
+    "title": "Congratulations extended to Audias Roldan on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026155",
+    "title": "Congratulations extended to Janice Boykin on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026156",
+    "title": "Congratulations extended to Daniel Dennis on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026157",
+    "title": "Congratulations extended to George Daniel on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026158",
+    "title": "Congratulations extended to James Graham on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026159",
+    "title": "Congratulations extended to Stanley Raschke on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026160",
+    "title": "Congratulations extended to Maria Vargas on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026161",
+    "title": "Congratulations extended to Joe Gray on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026162",
+    "title": "Congratulations extended to Jesus Ibarra on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0026163",
+    "title": "Congratulations extended to Pedro Olmos on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0026046",
+    "title": "Amendment of Municipal Code Section 4-60-023 (12.109) to allow additional package goods licenses on portion(s) of S Ashland Ave",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS | 4-60-023 Package Goods",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-07-15",
+    "committee": "Committee on License and Consumer Protection"
+   },
+   {
+    "record_number": "O2026-0025788",
+    "title": "Disabled Parking Permit No. 108098 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025806",
+    "title": "Disabled Parking Permit No. 116314 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025808",
+    "title": "Disabled Parking Permit No. 116316 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025820",
+    "title": "Disabled Parking Permit No. 120625 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025825",
+    "title": "Disabled Parking Permit No. 121764 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025827",
+    "title": "Disabled Parking Permit No. 121766 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025829",
+    "title": "Disabled Parking Permit No. 123572 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025834",
+    "title": "Disabled Parking Permit No. 125661 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025873",
+    "title": "Disabled Parking Permit No. 132585 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025901",
+    "title": "Disabled Parking Permit No. 137940",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025902",
+    "title": "Disabled Parking Permit No. 138102",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025903",
+    "title": "Disabled Parking Permit No. 138140",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025904",
+    "title": "Disabled Parking Permit No. 138181",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025905",
+    "title": "Disabled Parking Permit No. 138414",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "R2026-0025089",
+    "title": "Congratulations extended to Steve Gonzalez on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025090",
+    "title": "Congratulations extended to Edna Hutchinson on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025091",
+    "title": "Congratulations extended to Jerome Williams on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025092",
+    "title": "Congratulations extended to Jeffrey Mantlo on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025093",
+    "title": "Congratulations extended to Samella Johnson-Hargro on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025094",
+    "title": "Congratulations extended to Pedro Luna on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025095",
+    "title": "Congratulations extended to Robert Jones on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025096",
+    "title": "Congratulations extended to Luz Campos on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025097",
+    "title": "Congratulations extended to James Ewings on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025098",
+    "title": "Congratulations extended German Palomino on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025099",
+    "title": "Congratulations extended to James Smith on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025100",
+    "title": "Congratulations extended to Concepcion Arizaga on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025101",
+    "title": "Congratulations extended to Eugene Murphy on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0025333",
+    "title": "Tribute to late Lola Maye Jones",
+    "type": "Resolution",
+    "category": "TRIBUTES",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "Or2026-0025289",
+    "title": "Issuance of permits for sign(s)/signboard(s) at 5943 N Lincoln Ave - Permit No. 101077078",
+    "type": "Order",
+    "category": "SIGNS/SIGNBOARDS",
+    "status": "90-Final",
+    "intro_date": "2026-05-06",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "R2026-0024557",
+    "title": "Congratulation extended to Carlos Juarez on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024563",
+    "title": "Congratulations extended to Carol Henderson on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024564",
+    "title": "Congratulations extended to David Cruise on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024566",
+    "title": "Congratulation extended to Debra Scott on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024568",
+    "title": "Congratulations extended Estela Almanza on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024569",
+    "title": "Congratulations extended to Jose Reynosa on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024570",
+    "title": "Congratulations extended to Marvin Davenport on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024571",
+    "title": "Congratulations extended to Sandra McKinney on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024572",
+    "title": "Congratulation extended to Sylvia Robinson on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024573",
+    "title": "Congratulations extended to Vanessa Clarett on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024574",
+    "title": "Congratulations extended to Caryn Bloxton on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024576",
+    "title": "Congratulations to Edward Chestnut on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024577",
+    "title": "Congratulations extended to Emma Garcia on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024578",
+    "title": "Congratulations extended to Gerardo Puga on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024579",
+    "title": "Congratulations extended to Gregory Wimpie on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024580",
+    "title": "Congratulations extended to Heriberto Colon on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024581",
+    "title": "Congratulations extended to Javier Sanchez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024582",
+    "title": "Congratulations extended to Jose Lozano on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024583",
+    "title": "Congratulations extended to Jose Ochoa on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024585",
+    "title": "Congratulations extended to Kellis Staton on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024586",
+    "title": "Congratulations extended to Odilia Aguilar on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024587",
+    "title": "Congratulations extended to Pamela Walker on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024593",
+    "title": "Congratulations extended to Delois Bady on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024595",
+    "title": "Congratulations extended to Juan Mendez on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024596",
+    "title": "Congratulations extended to Laura Medina on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024597",
+    "title": "Congratulations extended to Mario Lopez on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024600",
+    "title": "Congratulations extended to Rufina Delpilar-Perez on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024602",
+    "title": "Congratulations extended to Thelma Williams on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024603",
+    "title": "Congratulations extended to Wanda Lemond on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024605",
+    "title": "Congratulations extended to Alfredo Vasquez on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024607",
+    "title": "Congratulations extended to Fannie Felton on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024608",
+    "title": "Congratulations extended to Joeannia Moore on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024609",
+    "title": "Congratulations extended to Julia Luna on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024610",
+    "title": "Congratulations extended to Klara Opechowski on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0024611",
+    "title": "Congratulations extended to Sammy Hogan on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0024913",
+    "title": "Amendment of Municipal Code Section 4-60-022 (11.111) to allow additional alcoholic liquor licenses on portion(s) of S Ashland Ave",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS | 4-60-022 Liquor Dealers",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-05-20",
+    "committee": "Committee on License and Consumer Protection"
+   },
+   {
+    "record_number": "O2026-0024420",
+    "title": "Disabled Parking Permit No. 125439 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024421",
+    "title": "Disabled Parking Permit No. 122547 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024422",
+    "title": "Disabled Parking Permit No. 121794 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024423",
+    "title": "Disabled Parking Permit No. 121749 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024424",
+    "title": "Disabled Parking Permit No. 120675 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024425",
+    "title": "Disabled Parking Permit No. 119719 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024426",
+    "title": "Disabled Parking Permit No. 119133 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024499",
+    "title": "Disabled Parking Permit No. 136389",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "R2026-0023886",
+    "title": "Recognition of celebration of Lighting of the Torch of Forgiveness and Peace at St. Rita of Cascia Parish in Chicago and Basilica of St. Rita of Cascia in Cascia, Italy",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-03-18",
+    "final_date": "2026-03-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0023637",
+    "title": "Traffic sign(s)/signal(s) at W 51st St and S Washtenaw Ave - All-Way Stop",
+    "type": "Ordinance",
+    "category": "TRAFFIC | Signs",
+    "status": "90-Final",
+    "intro_date": "2026-03-18",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023643",
+    "title": "Disabled Parking Permit No. 115573 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023644",
+    "title": "Disabled Parking Permit No. 111625 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023645",
+    "title": "Disabled Parking Permit No. 111204 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023646",
+    "title": "Disabled Parking Permit No. 109606 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023648",
+    "title": "Disabled Parking Permit No. 109595 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023649",
+    "title": "Disabled Parking Permit No. 109588 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023650",
+    "title": "Disabled Parking Permit No. 107863 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023651",
+    "title": "Disabled Parking Permit No. 107220 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023652",
+    "title": "Disabled Parking Permit No. 106697 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023653",
+    "title": "Disabled Parking Permit No. 105427 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023665",
+    "title": "Disabled Parking Permit No. 104241 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023666",
+    "title": "Disabled Parking Permit No. 103632 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023667",
+    "title": "Disabled Parking Permit No. 102383 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023668",
+    "title": "Disabled Parking Permit No. 102380 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023669",
+    "title": "Disabled Parking Permit No. 102303 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023670",
+    "title": "Disabled Parking Permit No. 102023 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0023671",
+    "title": "Disabled Parking Permit No. 100197 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-10",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "R2026-0022911",
+    "title": "Congratulations extended to Lieutenant Fred L. Hughes on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022913",
+    "title": "Congratulations extended to Sergeant Robert S. Giglio on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022914",
+    "title": "Congratulations extended to Officer Lynette Brady on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022915",
+    "title": "Congratulations extended to Officer Hector E. Olmeda on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022917",
+    "title": "Congratulations extended to Officer Lorraine C. Grandberry on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022919",
+    "title": "Congratulations extended to Officer Edward Winstead on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022921",
+    "title": "Congratulations extended to Officer Andrew J. Stokilo on retirement from Chicago Police Department",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0022922",
+    "title": "Congratulations extended to Tony Hernandez on 103rd birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023223",
+    "title": "Congratulations extended to Eddie Cohens on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023224",
+    "title": "Congratulations extended to Guillermo Santos on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023225",
+    "title": "Congratulations extended to Jose Marin on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023226",
+    "title": "Congratulations extended to Kenneth Barksdale on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023227",
+    "title": "Congratulations extended to Laurentino Sanchez on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023228",
+    "title": "Congratulations extended to Michael Lynch on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023229",
+    "title": "Congratulations extended to Rosa Garcia on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023230",
+    "title": "Congratulations extended to Sharon Thompson on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023231",
+    "title": "Congratulations extended to Silvia Escobar on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023232",
+    "title": "Congratulations extended to Celerina Garcia on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023233",
+    "title": "Congratulations extended to Edna Godinez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023234",
+    "title": "Congratulations extended to Enisefero Garcia on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023235",
+    "title": "Congratulations extended to Gerardo Marroquin on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023236",
+    "title": "Congratulations extended to Humberto Gonzalez-Morales on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023237",
+    "title": "Congratulations extended to Jacqueline Turner on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023238",
+    "title": "Congratulations extended to Jose Castro on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023239",
+    "title": "Congratulations extended to Joseph Irving on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023240",
+    "title": "Congratulations extended to Justus Weathersby on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023241",
+    "title": "Congratulations extended to Lamont Mahone on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023242",
+    "title": "Congratulations extended to Maria Barrera on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023243",
+    "title": "Congratulations extended to Mariano Celso on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023244",
+    "title": "Congratulations extended to Raynard Wallace on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023245",
+    "title": "Congratulations extended to Richard Cadena on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023246",
+    "title": "Congratulations extended to Rodolfo Perez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023247",
+    "title": "Congratulations extended to Rosemarta Latona on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023248",
+    "title": "Congratulations extended to Ruben Medel on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023249",
+    "title": "Congratulations extended to Dora Morris on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023250",
+    "title": "Congratulations extended to Elizabeth Brazel on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023251",
+    "title": "Congratulations extended to Howard Robinson on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023252",
+    "title": "Congratulations extended to Ignacio Chavez on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023253",
+    "title": "Congratulations extended to Irene Sanchez De Sandaal on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023254",
+    "title": "Congratulations extended to Shirley Dove on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023255",
+    "title": "Congratulations extended to Tommy West on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023256",
+    "title": "Congratulations extended to Verdell Taylor on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023257",
+    "title": "Congratulations extended to Elizabeth Carreon on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023258",
+    "title": "Congratulations extended to Guillivaldo Luna on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023259",
+    "title": "Congratulations extended to Jose Hernandez on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023260",
+    "title": "Congratulations extended to Mauro Aguilar on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023261",
+    "title": "Congratulations extended to Melvin Muhammad on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023262",
+    "title": "Congratulations extended to Patricia Magsby on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023263",
+    "title": "Congratulations extended to Ronald Muller on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2026-0023264",
+    "title": "Congratulations extended to Sandra Mann on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-02-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0023381",
+    "title": "Amendment of Municipal Code Section 4-60-023 (15.111) to allow additional package goods licenses on portion(s) of S Hermitage Ave",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS | 4-60-023 Package Goods",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-03-18",
+    "committee": "Committee on License and Consumer Protection"
+   },
+   {
+    "record_number": "R2026-0023364",
+    "title": "Amendment of City Council Rules of Order and Procedure for 2023-2027 term by modifying Rule 55 to require that video recordings of City Council and Committee meetings be downloadable",
+    "type": "Resolution",
+    "category": "CITY COUNCIL | RULES OF ORDER & PROCEDURE",
+    "status": "90-Final",
+    "intro_date": "2026-02-18",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Committees and Rules"
+   },
+   {
+    "record_number": "O2026-0022886",
+    "title": "Disabled Parking Permit No. 91286 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022887",
+    "title": "Disabled Parking Permit No. 89689 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022888",
+    "title": "Disabled Parking Permit No. 70566 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022973",
+    "title": "Disabled Parking Permit No. 137744",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022983",
+    "title": "Disabled Parking Permit No. 137848",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022984",
+    "title": "Disabled Parking Permit No. 137938",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022041",
+    "title": "Disabled Parking Permit No. 136432",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022042",
+    "title": "Disabled Parking Permit No. 137343",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022043",
+    "title": "Disabled Parking Permit No. 137491",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022044",
+    "title": "Disabled Parking Permit No. 137514",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022045",
+    "title": "Disabled Parking Permit No. 137525",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022046",
+    "title": "Disabled Parking Permit No. 137913",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022047",
+    "title": "Disabled Parking Permit No. 138146",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022239",
+    "title": "Disabled Parking Permit No. 13750 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022240",
+    "title": "Disabled Parking Permit No. 7687 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "SO2025-0021918",
+    "title": "Amendment of Annual Appropriation Ordinance to transfer funds from 15th Ward Wage Allowance to Aldermanic Expense Account for Year 2025",
+    "type": "Ordinance",
+    "category": "BUDGET & APPROPRIATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-12-19",
+    "final_date": "2025-12-29",
+    "committee": "Committee on Budget and Government Operations"
+   },
+   {
+    "record_number": "O2025-0021821",
+    "title": "Handicapped Parking Permit No. 137833",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-18",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021386",
+    "title": "Handicapped Parking Permit No. 119724 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-10",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021230",
+    "title": "Buffer zone(s) for residential permit parking at 2825 W 55th St - Zone No. 1586",
+    "type": "Ordinance",
+    "category": "PARKING | Buffer Zones",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021266",
+    "title": "Handicapped Parking Permit No. 135263",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021267",
+    "title": "Handicapped Parking Permit No. 135672",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021268",
+    "title": "Handicapped Parking Permit No. 136391",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021269",
+    "title": "Handicapped Parking Permit No. 136667",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021270",
+    "title": "Handicapped Parking Permit No. 136760",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021271",
+    "title": "Handicapped Parking Permit No. 136841",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021272",
+    "title": "Handicapped Parking Permit No. 137326",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "R2025-0020667",
+    "title": "Congratulations extended to Adauto Lagunas Sanchez on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020670",
+    "title": "Congratulations extended to Belinda Canchola on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020671",
+    "title": "Congratulations extended to Carlos Pena on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020672",
+    "title": "Congratulations extended to David Kula on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020673",
+    "title": "Congratulations extended to Fredis Barahona on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020674",
+    "title": "Congratulations extended to Kelly McKaig on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020675",
+    "title": "Congratulations extended to Marjorie Gayden on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020676",
+    "title": "Congratulations extended to Nathan Gregory on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020677",
+    "title": "Congratulations extended to Rafael Munoz on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020678",
+    "title": "Congratulations extended to Richard Whittmore on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020679",
+    "title": "Congratulations extended to Rosemary Sanchez on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020680",
+    "title": "Congratulations extended to Ruth Lopez on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020681",
+    "title": "Congratulations extended to Theresa Campbell-Payne on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020682",
+    "title": "Congratulations extended to Veronica Sahagun on 65th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020683",
+    "title": "Congratulations extended to Brenda Johnson on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020684",
+    "title": "Congratulations extended to Bulmaro Paz on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020685",
+    "title": "Congratulations extended to Connie Czelatdko on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020686",
+    "title": "Congratulations extended to David Pitts on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020687",
+    "title": "Congratulations extended to Edmundo Marquez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020688",
+    "title": "Congratulations extended to Eliseo Acosta on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020689",
+    "title": "Congratulations extended to Enrique Gonzalez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020690",
+    "title": "Congratulations extended to Eustolia Favela on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020691",
+    "title": "Congratulations extended to Eva Coronado on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020692",
+    "title": "Congratulations extended to Francisca Rose on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020693",
+    "title": "Congratulations extended to Iretha Green on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020694",
+    "title": "Congratulations extended to Jeffrey McCutchen on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020695",
+    "title": "Congratulations extended to Jessie Hightower on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020696",
+    "title": "Congratulations extended to Jesus Guzman on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020697",
+    "title": "Congratulations extended to Leroy Tolbert on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020698",
+    "title": "Congratulations extended to Mazalene Gardner on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020699",
+    "title": "Congratulations extended to Michael Dodge on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020700",
+    "title": "Congratulations extended to Michelle Covarrubias on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020701",
+    "title": "Congratulations extended to Mireya Vasquez on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020702",
+    "title": "Congratulations extended to Modesto Estrada on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020703",
+    "title": "Congratulations extended to Tyrone Johnson on 70th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020704",
+    "title": "Congratulations extended to Aaron Barker on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020705",
+    "title": "Congratulations extended to Charlene Librizzi on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020706",
+    "title": "Congratulations extended to Cuauhtemoc Alvarez on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020707",
+    "title": "Congratulations extended to Deborah Johnson on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020708",
+    "title": "Congratulations extended to Fred Jones on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020709",
+    "title": "Congratulations extended to Gregory Thurmond on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020710",
+    "title": "Congratulations extended to Harriet Terrett on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020711",
+    "title": "Congratulations extended to James Placzkiewicz on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020712",
+    "title": "Congratulations extended to Mark Kongrecki on 75th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020713",
+    "title": "Congratulations extended to Elena Paz on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020714",
+    "title": "Congratulations extended to Estella Quintanilla on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020715",
+    "title": "Congratulations extended to Gerardo Leon on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020716",
+    "title": "Congratulations extended to Laura Ball on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020717",
+    "title": "Congratulations extended to Liduvina Magdaleno on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020718",
+    "title": "Congratulations extended to Maria Flores on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "R2025-0020719",
+    "title": "Congratulations extended to Ollie Applewhite on 80th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2025-0020117",
+    "title": "Handicapped Parking Permit No. 131550",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-10-16",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0020317",
+    "title": "Amendment of Municipal Code Section 4-60-022 (15.90) to allow additional alcoholic liquor licenses on portion(s) of S McDowell Ave",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS | 4-60-022 Liquor Dealers",
+    "status": "90-Final",
+    "intro_date": "2025-10-16",
+    "final_date": "2025-12-10",
+    "committee": "Committee on License and Consumer Protection"
+   },
+   {
+    "record_number": "O2025-0020453",
+    "title": "Handicapped Parking Permit No. 136813",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-10-16",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "Or2025-0020359",
+    "title": "Residential permit parking at 5914-5959 and 5901-5915 S Richmond St",
+    "type": "Order",
+    "category": "PARKING | Residential Permit",
+    "status": "90-Final",
+    "intro_date": "2025-10-16",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0020106",
+    "title": "Traffic sign(s)/signal(s) at W 51st St from S Rockwell St to S California Ave - Two Hour Parking",
+    "type": "Ordinance",
+    "category": "TRAFFIC | Signs",
+    "status": "90-Final",
+    "intro_date": "2025-10-16",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0019984",
+    "title": "Amendment of Municipal Code Chapter 6-10 by modifying Sections 6-10-010 and 6-10-020 to include antisemitism as discrimination in Chicago City Council declaration of general human rights",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2025-09-25",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Public Safety"
+   },
+   {
+    "record_number": "SOr2025-0019996",
+    "title": "City Comptroller directed to activate provisions of Municipal Code Section 11-12-470 (Leak Relief Pilot Program) for property at 5434 S. Wolcott Ave",
+    "type": "Order",
+    "category": "WATER",
+    "status": "90-Final",
+    "intro_date": "2025-09-25",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Economic, Capital and Technology Development"
+   },
+   {
+    "record_number": "SO2025-0019977",
+    "title": "Amendment of Municipal Code Chapter 2-74 by adding new Section 2-74-076 to establish Department of Human Resources hiring preference for children and spouses of Chicago first responders killed in line of duty",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2025-09-25",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Budget and Government Operations"
+   },
+   {
+    "record_number": "R2025-0018197",
+    "title": "Submission of public question by referendum to Chicago voters at March 17, 2026 primary election on whether Chicago should establish 100-day non-salaried Office of Chicago Reform Commission to reform and improve city government by drafting City charter proposal",
+    "type": "Resolution",
+    "category": "CITY COUNCIL | Miscellaneous",
+    "status": "4-In Committee",
+    "intro_date": "2025-06-18",
+    "final_date": "",
+    "committee": "Committee on Committees and Rules"
+   },
+   {
+    "record_number": "SO2025-0015393",
+    "title": "Amendment of Municipal Code Section 7-12-290 regarding cruelty to animals and increasing fines to $5,000 for each offense. Passed as amended in committee.",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2025-02-19",
+    "final_date": "2026-03-18",
+    "committee": "Committee on Public Safety"
+   },
+   {
+    "record_number": "O2023-0005298",
+    "title": "Amendment of Municipal Code Chapter 8-16 to establish prohibitions and penalties for minors who violate curfew, engage in drag racing, flipping of cars, intoxication, or use of paintball guns and provisions to hold parents accountable for their minor children's illegal actions",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2023-10-16",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Public Safety"
+   }
+  ]
+ },
+ "named_in_meetings": {
+  "source": "Vimeo auto-captions; names matched by text, so this is likely, not official. Includes roll calls.",
+  "meetings": 113,
+  "by_body": {
+   "Committee on Budget and Government Operations": 20,
+   "City Council": 17,
+   "Committee on Finance": 17,
+   "Committee on Economic, Capital and Technology Development": 11,
+   "Committee on Public Safety": 8,
+   "Committee on Health and Human Relations": 7,
+   "Committee on License and Consumer Protection": 6,
+   "Committee on Environmental Protection and Energy": 6,
+   "Committee on Housing and Real Estate": 6,
+   "Committee on Zoning, Landmarks and Building Standards": 4,
+   "Committee on Aviation": 3,
+   "Joint Committee: Public Safety; Police and Fire": 2,
+   "Committee on Pedestrian and Traffic Safety": 1,
+   "Joint Committee:  Budget and Government Operations; Economic, Capital and Technology Development": 1,
+   "Committee on Education and Child Development": 1,
+   "Committee on Workforce Development: Subcommittee on Youth Employment": 1,
+   "Committee on Special Events, Cultural Affairs and Recreation": 1,
+   "Committee on Contracting Oversight and Equity": 1
+  },
+  "list": [
+   {
+    "meeting_id": "87415BD7-C89F-F011-B4CB-001DD8001AAF",
+    "date": "2025-11-12",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 12,
+    "videos": [
+     {
+      "video_id": "1135569237",
+      "first_mention_sec": 2655,
+      "video_url": "https://vimeo.com/1135569237#t=2655s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E7F6F5F9-70BE-F011-BBD2-001DD80C6CBA",
+    "date": "2025-11-12",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1135462361",
+      "first_mention_sec": 2120,
+      "video_url": "https://vimeo.com/1135462361#t=2120s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "079641F0-9BAB-F011-BBD2-001DD80B7FF7",
+    "date": "2025-11-14",
+    "body": "City Council",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1136745770",
+      "first_mention_sec": 5068,
+      "video_url": "https://vimeo.com/1136745770#t=5068s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "97958912-D7AD-F011-BBD2-001DD80C6DBC",
+    "date": "2025-11-17",
+    "body": "Committee on Finance",
+    "mentions": 10,
+    "videos": [
+     {
+      "video_id": "1137016421",
+      "first_mention_sec": 719,
+      "video_url": "https://vimeo.com/1137016421#t=719s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B614BB2E-A9C0-F011-BBD2-001DD80C6CBA",
+    "date": "2025-11-18",
+    "body": "City Council",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1137802473",
+      "first_mention_sec": 3801,
+      "video_url": "https://vimeo.com/1137802473#t=3801s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "71CAEB7D-4BC6-F011-BBD2-001DD8020E93",
+    "date": "2025-12-01",
+    "body": "Joint Committee: Public Safety; Police and Fire",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1138170250",
+      "first_mention_sec": 2418,
+      "video_url": "https://vimeo.com/1138170250#t=2418s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DCD69BB1-66C9-F011-BBD2-001DD8016C9C",
+    "date": "2025-12-02",
+    "body": "Committee on Finance",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1142138848",
+      "first_mention_sec": 1101,
+      "video_url": "https://vimeo.com/1142138848#t=1101s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7CC5531D-C6C4-F011-BBD2-001DD8022C4F",
+    "date": "2025-12-03",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1143153265",
+      "first_mention_sec": 6246,
+      "video_url": "https://vimeo.com/1143153265#t=6246s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E94B026B-AEC4-F011-BBD2-001DD81024B7",
+    "date": "2025-12-04",
+    "body": "Committee on Finance",
+    "mentions": 8,
+    "videos": [
+     {
+      "video_id": "1143223114",
+      "first_mention_sec": 1360,
+      "video_url": "https://vimeo.com/1143223114#t=1360s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5E4F4112-CEC4-F011-BBD2-001DD8020E93",
+    "date": "2025-12-09",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1144934697",
+      "first_mention_sec": 3075,
+      "video_url": "https://vimeo.com/1144934697#t=3075s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C4E209CC-B3C4-F011-BBD2-001DD8020E93",
+    "date": "2025-12-09",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1143545294",
+      "first_mention_sec": 7491,
+      "video_url": "https://vimeo.com/1143545294#t=7491s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D126676D-A1C4-F011-BBD2-001DD8020E93",
+    "date": "2025-12-10",
+    "body": "City Council",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1144987889",
+      "first_mention_sec": 1265,
+      "video_url": "https://vimeo.com/1144987889#t=1265s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "48A8ADC6-F4D5-F011-8543-001DD8066465",
+    "date": "2025-12-16",
+    "body": "City Council",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1146638281",
+      "first_mention_sec": 2404,
+      "video_url": "https://vimeo.com/1146638281#t=2404s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DCEC1C7C-68D7-F011-8543-001DD8018EAF",
+    "date": "2025-12-16",
+    "body": "Committee on Finance",
+    "mentions": 19,
+    "videos": [
+     {
+      "video_id": "1144986653",
+      "first_mention_sec": 2463,
+      "video_url": "https://vimeo.com/1144986653#t=2463s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4C34E733-94D7-F011-8543-001DD8018EAF",
+    "date": "2025-12-17",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1147777779",
+      "first_mention_sec": 3642,
+      "video_url": "https://vimeo.com/1147777779#t=3642s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "FFD2DC30-AFDA-F011-8543-001DD80C6DA5",
+    "date": "2025-12-19",
+    "body": "City Council",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1147756540",
+      "first_mention_sec": 6382,
+      "video_url": "https://vimeo.com/1147756540#t=6382s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E6535C21-B0DA-F011-8543-001DD80C6DA5",
+    "date": "2025-12-20",
+    "body": "City Council",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1148129733",
+      "first_mention_sec": 9212,
+      "video_url": "https://vimeo.com/1148129733#t=9212s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7E609E74-D9E0-F011-8543-001DD8029F6B",
+    "date": "2025-12-29",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1148736982",
+      "first_mention_sec": 3914,
+      "video_url": "https://vimeo.com/1148736982#t=3914s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4832ACBD-3DDC-F011-8543-001DD802FB0D",
+    "date": "2026-01-07",
+    "body": "Committee on Public Safety",
+    "mentions": 12,
+    "videos": [
+     {
+      "video_id": "1150146920",
+      "first_mention_sec": 586,
+      "video_url": "https://vimeo.com/1150146920#t=586s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7345CB2B-C7DA-F011-8543-001DD8088ED0",
+    "date": "2026-01-13",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 9,
+    "videos": [
+     {
+      "video_id": "1152305857",
+      "first_mention_sec": 1665,
+      "video_url": "https://vimeo.com/1152305857#t=1665s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7E187841-20E0-F011-8543-001DD80F73A3",
+    "date": "2026-01-14",
+    "body": "Committee on Finance",
+    "mentions": 8,
+    "videos": [
+     {
+      "video_id": "1154082574",
+      "first_mention_sec": 1305,
+      "video_url": "https://vimeo.com/1154082574#t=1305s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "8B76E1EC-2DF2-F011-8406-001DD80E69F9",
+    "date": "2026-01-20",
+    "body": "Committee on Aviation",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1156548262",
+      "first_mention_sec": 458,
+      "video_url": "https://vimeo.com/1156548262#t=458s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "50866F51-63DF-F011-8543-001DD80E9311",
+    "date": "2026-01-21",
+    "body": "City Council",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1156547113",
+      "first_mention_sec": 4283,
+      "video_url": "https://vimeo.com/1156547113#t=4283s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "BB0CE7C7-FFEF-F011-8406-001DD80ACDDF",
+    "date": "2026-01-27",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1157294526",
+      "first_mention_sec": 1373,
+      "video_url": "https://vimeo.com/1157294526#t=1373s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1B2D4784-14F7-F011-8406-001DD8080DE8",
+    "date": "2026-02-03",
+    "body": "Committee on Public Safety",
+    "mentions": 8,
+    "videos": [
+     {
+      "video_id": "1158973621",
+      "first_mention_sec": 736,
+      "video_url": "https://vimeo.com/1158973621#t=736s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B7DA1B04-62F1-F011-8406-001DD808A8BA",
+    "date": "2026-02-03",
+    "body": "Committee on Environmental Protection and Energy",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1158916571",
+      "first_mention_sec": 787,
+      "video_url": "https://vimeo.com/1158916571#t=787s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "40B243BF-FDF6-F011-8406-001DD8080DE8",
+    "date": "2026-02-09",
+    "body": "Committee on Finance",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1161514473",
+      "first_mention_sec": 1154,
+      "video_url": "https://vimeo.com/1161514473#t=1154s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7C4F9458-C1F7-F011-8406-001DD8071B7F",
+    "date": "2026-02-09",
+    "body": "Committee on Pedestrian and Traffic Safety",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1161566002",
+      "first_mention_sec": 946,
+      "video_url": "https://vimeo.com/1161566002#t=946s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AA00C9FE-0F02-F111-8406-001DD80D6961",
+    "date": "2026-02-10",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1163419425",
+      "first_mention_sec": 1333,
+      "video_url": "https://vimeo.com/1163419425#t=1333s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C3D0B4DA-67F1-F011-8406-001DD80E69F9",
+    "date": "2026-02-10",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1163382552",
+      "first_mention_sec": 1875,
+      "video_url": "https://vimeo.com/1163382552#t=1875s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "28A92C38-FEF6-F011-8406-001DD8080DE8",
+    "date": "2026-02-11",
+    "body": "Committee on Finance",
+    "mentions": 13,
+    "videos": [
+     {
+      "video_id": "1163741392",
+      "first_mention_sec": 728,
+      "video_url": "https://vimeo.com/1163741392#t=728s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AADBA854-DDF6-F011-8406-001DD8080DE8",
+    "date": "2026-02-18",
+    "body": "City Council",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1165773679",
+      "first_mention_sec": 10464,
+      "video_url": "https://vimeo.com/1165773679#t=10464s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4C319AF6-F3FA-F011-8406-001DD8065D06",
+    "date": "2026-02-27",
+    "body": "Committee on Finance",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1166129365",
+      "first_mention_sec": 1136,
+      "video_url": "https://vimeo.com/1166129365#t=1136s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "00AA57A8-690E-F111-8406-001DD812D049",
+    "date": "2026-03-03",
+    "body": "Committee on Environmental Protection and Energy",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1164094779",
+      "first_mention_sec": 2312,
+      "video_url": "https://vimeo.com/1164094779#t=2312s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "EE995EFA-D30D-F111-8406-001DD812D113",
+    "date": "2026-03-03",
+    "body": "Committee on Public Safety",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1168928919",
+      "first_mention_sec": 2203,
+      "video_url": "https://vimeo.com/1168928919#t=2203s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2C51C80B-01F0-F011-8406-001DD80ACDDF",
+    "date": "2026-03-10",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1170724330",
+      "first_mention_sec": 644,
+      "video_url": "https://vimeo.com/1170724330#t=644s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D321DF7B-AB18-F111-8406-001DD8131156",
+    "date": "2026-03-11",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1172267409",
+      "first_mention_sec": 727,
+      "video_url": "https://vimeo.com/1172267409#t=727s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "0C8CDB34-CD18-F111-8406-001DD803E075",
+    "date": "2026-03-12",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1172257730",
+      "first_mention_sec": 8578,
+      "video_url": "https://vimeo.com/1172257730#t=8578s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "51821342-F613-F111-8406-001DD80A7EA1",
+    "date": "2026-03-12",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1172985739",
+      "first_mention_sec": 2467,
+      "video_url": "https://vimeo.com/1172985739#t=2467s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AC27D13B-DD0D-F111-8406-001DD812D049",
+    "date": "2026-03-12",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 12,
+    "videos": [
+     {
+      "video_id": "1172608190",
+      "first_mention_sec": 2017,
+      "video_url": "https://vimeo.com/1172608190#t=2017s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E9AEA222-150D-F111-8406-001DD802B467",
+    "date": "2026-03-13",
+    "body": "Committee on Finance",
+    "mentions": 15,
+    "videos": [
+     {
+      "video_id": "1173329934",
+      "first_mention_sec": 845,
+      "video_url": "https://vimeo.com/1173329934#t=845s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "date": "2026-03-18",
+    "body": "City Council",
+    "mentions": 20,
+    "videos": [
+     {
+      "video_id": "1174131349",
+      "first_mention_sec": 2351,
+      "video_url": "https://vimeo.com/1174131349#t=2351s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "3A6EB792-F329-F111-8341-001DD80A85F4",
+    "date": "2026-04-02",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1178507165",
+      "first_mention_sec": 658,
+      "video_url": "https://vimeo.com/1178507165#t=658s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1C0D3484-6828-F111-8341-001DD80A85F4",
+    "date": "2026-04-08",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1173389738",
+      "first_mention_sec": 8099,
+      "video_url": "https://vimeo.com/1173389738#t=8099s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D87F5ACB-B627-F111-8341-001DD80E2B47",
+    "date": "2026-04-09",
+    "body": "Committee on Public Safety",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1181325977",
+      "first_mention_sec": 1073,
+      "video_url": "https://vimeo.com/1181325977#t=1073s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "33C733F6-882F-F111-8341-001DD80A9E34",
+    "date": "2026-04-13",
+    "body": "Committee on Finance",
+    "mentions": 19,
+    "videos": [
+     {
+      "video_id": "1181636251",
+      "first_mention_sec": 619,
+      "video_url": "https://vimeo.com/1181636251#t=619s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2EA74F29-8923-F111-8341-001DD80B1275",
+    "date": "2026-04-15",
+    "body": "City Council",
+    "mentions": 17,
+    "videos": [
+     {
+      "video_id": "1183109138",
+      "first_mention_sec": 9911,
+      "video_url": "https://vimeo.com/1183109138#t=9911s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "702A4EF9-C43D-F111-88B3-001DD80B0E39",
+    "date": "2026-04-27",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1183827336",
+      "first_mention_sec": 1130,
+      "video_url": "https://vimeo.com/1183827336#t=1130s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1827BD4C-0C40-F111-88B3-001DD80B0E39",
+    "date": "2026-05-04",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1187052202",
+      "first_mention_sec": 2919,
+      "video_url": "https://vimeo.com/1187052202#t=2919s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "F6EA9CCA-4B42-F111-88B4-001DD8033B18",
+    "date": "2026-05-05",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1183092749",
+      "first_mention_sec": 2243,
+      "video_url": "https://vimeo.com/1183092749#t=2243s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "157D679C-BC39-F111-88B3-001DD80B0E39",
+    "date": "2026-05-06",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1189477310",
+      "first_mention_sec": 6094,
+      "video_url": "https://vimeo.com/1189477310#t=6094s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "86A6BC6F-4B42-F111-88B4-001DD80B0E39",
+    "date": "2026-05-07",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1189860695",
+      "first_mention_sec": 1670,
+      "video_url": "https://vimeo.com/1189860695#t=1670s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5E9E0EC9-F443-F111-88B4-001DD8033B18",
+    "date": "2026-05-11",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 20,
+    "videos": [
+     {
+      "video_id": "1189863897",
+      "first_mention_sec": 919,
+      "video_url": "https://vimeo.com/1189863897#t=919s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B5EBAC78-DB39-F111-88B3-001DD8065E1D",
+    "date": "2026-05-11",
+    "body": "Committee on Environmental Protection and Energy",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1190194414",
+      "first_mention_sec": 504,
+      "video_url": "https://vimeo.com/1190194414#t=504s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "60560776-863E-F111-88B3-001DD80B0E39",
+    "date": "2026-05-12",
+    "body": "Committee on Public Safety",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1191281076",
+      "first_mention_sec": 583,
+      "video_url": "https://vimeo.com/1191281076#t=583s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "6CF0C894-9245-F111-88B4-001DD80B0E39",
+    "date": "2026-05-13",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1191645867",
+      "first_mention_sec": 871,
+      "video_url": "https://vimeo.com/1191645867#t=871s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C697D77E-7D49-F111-88B4-001DD80B0E39",
+    "date": "2026-05-13",
+    "body": "Joint Committee:  Budget and Government Operations; Economic, Capital and Technology Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1191962913",
+      "first_mention_sec": 2055,
+      "video_url": "https://vimeo.com/1191962913#t=2055s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "445A64C7-1039-F111-88B3-001DD8033B18",
+    "date": "2026-05-18",
+    "body": "Committee on Finance",
+    "mentions": 24,
+    "videos": [
+     {
+      "video_id": "1192012038",
+      "first_mention_sec": 1022,
+      "video_url": "https://vimeo.com/1192012038#t=1022s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "986F79DF-6850-F111-BEC6-001DD8033B18",
+    "date": "2026-05-19",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1193687635",
+      "first_mention_sec": 424,
+      "video_url": "https://vimeo.com/1193687635#t=424s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "date": "2026-05-20",
+    "body": "City Council",
+    "mentions": 27,
+    "videos": [
+     {
+      "video_id": "1193694170",
+      "first_mention_sec": 1558,
+      "video_url": "https://vimeo.com/1193694170#t=1558s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "FF74B2CD-EF4E-F111-BEC6-001DD80B0E39",
+    "date": "2026-05-26",
+    "body": "Committee on Education and Child Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1194181121",
+      "first_mention_sec": 2027,
+      "video_url": "https://vimeo.com/1194181121#t=2027s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "39F25C35-3060-F111-BEC5-001DD80012DB",
+    "date": "2026-06-09",
+    "body": "Committee on Public Safety",
+    "mentions": 9,
+    "videos": [
+     {
+      "video_id": "1195715133",
+      "first_mention_sec": 1296,
+      "video_url": "https://vimeo.com/1195715133#t=1296s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "3E5CBC21-F359-F111-BEC5-001DD80C412B",
+    "date": "2026-06-10",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1200159992",
+      "first_mention_sec": 11984,
+      "video_url": "https://vimeo.com/1200159992#t=11984s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "00E171F6-F55D-F111-BEC5-001DD80012DB",
+    "date": "2026-06-11",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1200524681",
+      "first_mention_sec": 1261,
+      "video_url": "https://vimeo.com/1200524681#t=1261s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "29B731BD-4755-F111-BEC6-001DD80B0E39",
+    "date": "2026-06-11",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1200176629",
+      "first_mention_sec": 2760,
+      "video_url": "https://vimeo.com/1200176629#t=2760s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7C5833BC-5060-F111-BEC5-001DD80012DB",
+    "date": "2026-06-15",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1200557018",
+      "first_mention_sec": 918,
+      "video_url": "https://vimeo.com/1200557018#t=918s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C171A4A5-3F55-F111-BEC5-001DD801AB0F",
+    "date": "2026-06-15",
+    "body": "Committee on Finance",
+    "mentions": 10,
+    "videos": [
+     {
+      "video_id": "1200527375",
+      "first_mention_sec": 870,
+      "video_url": "https://vimeo.com/1200527375#t=870s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DCB098AC-E165-F111-A823-001DD80EA58E",
+    "date": "2026-06-16",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1201525192",
+      "first_mention_sec": 2334,
+      "video_url": "https://vimeo.com/1201525192#t=2334s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "73347594-0E55-F111-BEC6-001DD80B0E39",
+    "date": "2026-06-17",
+    "body": "City Council",
+    "mentions": 12,
+    "videos": [
+     {
+      "video_id": "1201890835",
+      "first_mention_sec": 10091,
+      "video_url": "https://vimeo.com/1201890835#t=10091s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5A7AA61D-A469-F111-A823-001DD801545D",
+    "date": "2026-06-24",
+    "body": "Committee on Workforce Development: Subcommittee on Youth Employment",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1202267652",
+      "first_mention_sec": 3943,
+      "video_url": "https://vimeo.com/1202267652#t=3943s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "936C4F51-EA60-F111-BEC5-001DD8001CD7",
+    "date": "2026-06-25",
+    "body": "Committee on Finance",
+    "mentions": 16,
+    "videos": [
+     {
+      "video_id": "1204299658",
+      "first_mention_sec": 1475,
+      "video_url": "https://vimeo.com/1204299658#t=1475s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "41AE03EE-B570-F111-AB0C-001DD80F88E2",
+    "date": "2026-07-07",
+    "body": "Committee on Special Events, Cultural Affairs and Recreation",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1207804636",
+      "first_mention_sec": 3926,
+      "video_url": "https://vimeo.com/1207804636#t=3926s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "18D62577-4F6E-F111-AB0C-001DD80F88E2",
+    "date": "2026-07-08",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1208169797",
+      "first_mention_sec": 316,
+      "video_url": "https://vimeo.com/1208169797#t=316s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C462FEBC-A474-F111-AB0C-001DD81325B3",
+    "date": "2026-07-08",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1207872522",
+      "first_mention_sec": 938,
+      "video_url": "https://vimeo.com/1207872522#t=938s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E375BA07-406F-F111-AB0C-001DD80F88E2",
+    "date": "2026-07-08",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1208145395",
+      "first_mention_sec": 6118,
+      "video_url": "https://vimeo.com/1208145395#t=6118s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "07293FA2-416B-F111-A823-001DD8019941",
+    "date": "2026-07-09",
+    "body": "Committee on Public Safety",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1208220943",
+      "first_mention_sec": 953,
+      "video_url": "https://vimeo.com/1208220943#t=953s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "9750AC6C-396F-F111-AB0C-001DD808E0AF",
+    "date": "2026-07-09",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 9,
+    "videos": [
+     {
+      "video_id": "1208175670",
+      "first_mention_sec": 1570,
+      "video_url": "https://vimeo.com/1208175670#t=1570s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2620748D-6E6E-F111-AB0C-001DD808E0AF",
+    "date": "2026-07-13",
+    "body": "Committee on Environmental Protection and Energy",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1208494812",
+      "first_mention_sec": 454,
+      "video_url": "https://vimeo.com/1208494812#t=454s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "46526B3A-3D79-F111-AB0D-001DD8066831",
+    "date": "2026-07-13",
+    "body": "Committee on Finance",
+    "mentions": 18,
+    "videos": [
+     {
+      "video_id": "1208548404",
+      "first_mention_sec": 1129,
+      "video_url": "https://vimeo.com/1208548404#t=1129s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "563500FE-2D76-F111-AB0C-001DD803F73F",
+    "date": "2026-07-14",
+    "body": "Committee on Aviation",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1209938978",
+      "first_mention_sec": 482,
+      "video_url": "https://vimeo.com/1209938978#t=482s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B7124BD8-CA73-F111-AB0C-001DD81325B3",
+    "date": "2026-07-14",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1209643300",
+      "first_mention_sec": 1253,
+      "video_url": "https://vimeo.com/1209643300#t=1253s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DF5C52EA-0D6B-F111-A823-001DD8019941",
+    "date": "2026-07-15",
+    "body": "City Council",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1209979957",
+      "first_mention_sec": 6326,
+      "video_url": "https://vimeo.com/1209979957#t=6326s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B2E99313-3D76-F111-AB0C-001DD80BE073",
+    "date": "2026-07-16",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1210310337",
+      "first_mention_sec": 998,
+      "video_url": "https://vimeo.com/1210310337#t=998s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AA0648B8-8A80-F111-AB0E-001DD80216AA",
+    "date": "2026-07-22",
+    "body": "City Council",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1210889386",
+      "first_mention_sec": 6367,
+      "video_url": "https://vimeo.com/1210889386#t=6367s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4593541C-F685-F111-AB0E-001DD81326F5",
+    "date": "2026-09-01",
+    "body": "Committee on Environmental Protection and Energy",
+    "mentions": 13,
+    "videos": [
+     {
+      "video_id": "1212089526",
+      "first_mention_sec": 978,
+      "video_url": "https://vimeo.com/1212089526#t=978s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "61670194-C09C-F111-8076-001DD803894A",
+    "date": "2026-09-09",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1225329148",
+      "first_mention_sec": 5130,
+      "video_url": "https://vimeo.com/1225329148#t=5130s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "84EA0F1F-0886-F111-AB0E-001DD80BE3C0",
+    "date": "2026-09-15",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1225368422",
+      "first_mention_sec": 2485,
+      "video_url": "https://vimeo.com/1225368422#t=2485s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "A44FB4F3-45B0-F111-AAAC-001DD80B58E5",
+    "date": "2026-09-17",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1227517217",
+      "first_mention_sec": 8397,
+      "video_url": "https://vimeo.com/1227517217#t=8397s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "BDC8C0C1-8B87-F111-AB0E-001DD80BE3C0",
+    "date": "2026-09-22",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1227817475",
+      "first_mention_sec": 10273,
+      "video_url": "https://vimeo.com/1227817475#t=10273s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5F86622E-F485-F111-AB0E-001DD80ED7AA",
+    "date": "2026-09-23",
+    "body": "City Council",
+    "mentions": 15,
+    "videos": [
+     {
+      "video_id": "1229341127",
+      "first_mention_sec": 1587,
+      "video_url": "https://vimeo.com/1229341127#t=1587s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "FB63A09D-D9B6-F111-AAAC-001DD80AA3CC",
+    "date": "2026-09-24",
+    "body": "Committee on Finance",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1229670520",
+      "first_mention_sec": 859,
+      "video_url": "https://vimeo.com/1229670520#t=859s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "33C89F1A-A9AB-F111-AAAB-001DD80FDA55",
+    "date": "2026-10-01",
+    "body": "Committee on Health and Human Relations",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1231373679",
+      "first_mention_sec": 1909,
+      "video_url": "https://vimeo.com/1231373679#t=1909s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "266A5A62-53B8-F111-AAAC-001DD80AA3CC",
+    "date": "2026-10-05",
+    "body": "Committee on Finance",
+    "mentions": 14,
+    "videos": [
+     {
+      "video_id": "1232129590",
+      "first_mention_sec": 725,
+      "video_url": "https://vimeo.com/1232129590#t=725s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "35130D9B-B7A7-F111-B8DD-001DD80B58E5",
+    "date": "2026-10-07",
+    "body": "Joint Committee: Public Safety; Police and Fire",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1233832827",
+      "first_mention_sec": 45,
+      "video_url": "https://vimeo.com/1233832827#t=45s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "769788B7-E0BC-F111-AAAE-001DD80FDA55",
+    "date": "2026-10-07",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1233779359",
+      "first_mention_sec": 2666,
+      "video_url": "https://vimeo.com/1233779359#t=2666s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "251A0456-0CB9-F111-AAAC-001DD80FDAD3",
+    "date": "2026-10-08",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 11,
+    "videos": [
+     {
+      "video_id": "1234158910",
+      "first_mention_sec": 315,
+      "video_url": "https://vimeo.com/1234158910#t=315s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4C6D0E57-8EB7-F111-AAAC-001DD80AA3CC",
+    "date": "2026-10-08",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1233831459",
+      "first_mention_sec": 6112,
+      "video_url": "https://vimeo.com/1233831459#t=6112s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AD9CED9F-78BB-F111-AAAE-001DD80AA3CC",
+    "date": "2026-10-08",
+    "body": "Committee on Environmental Protection and Energy",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1234141196",
+      "first_mention_sec": 1108,
+      "video_url": "https://vimeo.com/1234141196#t=1108s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "FFEA7202-C3A7-F111-B8DD-001DD80B58E5",
+    "date": "2026-10-08",
+    "body": "Committee on Public Safety",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1233855375",
+      "first_mention_sec": 984,
+      "video_url": "https://vimeo.com/1233855375#t=984s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "62158D66-D2C0-F111-AAAE-001DD80AA3CC",
+    "date": "2026-10-13",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1235540637",
+      "first_mention_sec": 23,
+      "video_url": "https://vimeo.com/1235540637#t=23s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "63DD2BFA-6DBE-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-13",
+    "body": "Committee on Finance",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1235504794",
+      "first_mention_sec": 355,
+      "video_url": "https://vimeo.com/1235504794#t=355s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7C3DF870-75BE-F111-AAAE-001DD80AA3CC",
+    "date": "2026-10-13",
+    "body": "Committee on Aviation",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1235498029",
+      "first_mention_sec": 549,
+      "video_url": "https://vimeo.com/1235498029#t=549s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-14",
+    "body": "City Council",
+    "mentions": 13,
+    "videos": [
+     {
+      "video_id": "1235564993",
+      "first_mention_sec": 1212,
+      "video_url": "https://vimeo.com/1235564993#t=1212s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "6AC88818-A8C8-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-20",
+    "body": "Committee on Contracting Oversight and Equity",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1236296809",
+      "first_mention_sec": 734,
+      "video_url": "https://vimeo.com/1236296809#t=734s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "54F057FC-81CC-F111-A05C-001DD80B58E5",
+    "date": "2026-10-23",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1238089923",
+      "first_mention_sec": 1299,
+      "video_url": "https://vimeo.com/1238089923#t=1299s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4E4F726A-90C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-26",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1238928881",
+      "first_mention_sec": 1029,
+      "video_url": "https://vimeo.com/1238928881#t=1029s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "851CA01E-91C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-27",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 11,
+    "videos": [
+     {
+      "video_id": "1239662145",
+      "first_mention_sec": 2965,
+      "video_url": "https://vimeo.com/1239662145#t=2965s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2D73B4D3-91C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-28",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1240029984",
+      "first_mention_sec": 8678,
+      "video_url": "https://vimeo.com/1240029984#t=8678s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "31EFF839-92C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-29",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 13,
+    "videos": [
+     {
+      "video_id": "1240513369",
+      "first_mention_sec": 12838,
+      "video_url": "https://vimeo.com/1240513369#t=12838s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "481E7A8F-2BD2-F111-A05C-001DD80B58E5",
+    "date": "2026-11-02",
+    "body": "City Council",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1241090076",
+      "first_mention_sec": 5098,
+      "video_url": "https://vimeo.com/1241090076#t=5098s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "8A97D1CA-92C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-11-04",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 13,
+    "videos": [
+     {
+      "video_id": "1242480051",
+      "first_mention_sec": 4490,
+      "video_url": "https://vimeo.com/1242480051#t=4490s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "93474B73-93C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-11-05",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 28,
+    "videos": [
+     {
+      "video_id": "1243534584",
+      "first_mention_sec": 5988,
+      "video_url": "https://vimeo.com/1243534584#t=5988s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "62AEBFEC-93C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-11-06",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 25,
+    "videos": [
+     {
+      "video_id": "1244025929",
+      "first_mention_sec": 2260,
+      "video_url": "https://vimeo.com/1244025929#t=2260s"
+     }
+    ]
+   }
+  ]
+ }
+}

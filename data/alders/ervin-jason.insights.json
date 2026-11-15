@@ -1,0 +1,616 @@
+{
+ "name": "Ervin, Jason C.",
+ "slug": "ervin-jason",
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Transcripts are Vimeo auto-captions and may contain errors. Speakers are inferred: quotes are from the likely speaker.",
+ "topics": [
+  {
+   "topic": "Budget and Government Operations committee reports",
+   "summary": "Ervin regularly reported his committee's items to the council, moving passage of appropriation amendments, fund transfers, appointments, and redevelopment agreements, and later deferred and published the 2026 budget package items.",
+   "quotes": [
+    {
+     "text": "Reporting for the committee on the Budget and government operations, which held a committee meeting on December 17th, 2025",
+     "excerpt": 12,
+     "date": "2025-12-19",
+     "body": "City Council",
+     "meeting_id": "FFD2DC30-AFDA-F011-8543-001DD80C6DA5",
+     "video_id": "1147756540",
+     "start_sec": 5046,
+     "video_url": "https://vimeo.com/1147756540#t=5046s",
+     "chunk_id": "t-1147756540-4936",
+     "speaker": "likely"
+    },
+    {
+     "text": "I'll defer and publish the following seven items",
+     "excerpt": 14,
+     "date": "2025-12-19",
+     "body": "City Council",
+     "meeting_id": "FFD2DC30-AFDA-F011-8543-001DD80C6DA5",
+     "video_id": "1147756540",
+     "start_sec": 5286,
+     "video_url": "https://vimeo.com/1147756540#t=5286s",
+     "chunk_id": "t-1147756540-5236",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "2026 budget and pension payment timing",
+   "summary": "During budget debate Ervin questioned adding an extra $75 million pension payment in 2026, arguing it would force cuts to community investments and public safety, and later clarified he supported the payment but preferred it be made in 2027.",
+   "quotes": [
+    {
+     "text": "do we add another $75 million on top of an already historic level of funding into plans that are trending in the right way, but pay for it with community investments and public safety",
+     "excerpt": 58,
+     "date": "2026-11-02",
+     "body": "City Council",
+     "meeting_id": "481E7A8F-2BD2-F111-A05C-001DD80B58E5",
+     "video_id": "1241090076",
+     "start_sec": 3748,
+     "video_url": "https://vimeo.com/1241090076#t=3748s",
+     "chunk_id": "t-1241090076-3590",
+     "speaker": "likely"
+    },
+    {
+     "text": "My position is that we do not, not make the pension payment. It's just the point of when it is made",
+     "excerpt": 60,
+     "date": "2026-11-02",
+     "body": "City Council",
+     "meeting_id": "481E7A8F-2BD2-F111-A05C-001DD80B58E5",
+     "video_id": "1241090076",
+     "start_sec": 5446,
+     "video_url": "https://vimeo.com/1241090076#t=5446s",
+     "chunk_id": "t-1241090076-5390",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Parking meter concession ownership transfer",
+   "summary": "Ervin spoke against the substitute ordinance authorizing the ownership transfer of the Chicago metered parking system, arguing the council's legislative role was not bound by the contract and that history would judge the deal poorly.",
+   "quotes": [
+    {
+     "text": "I still stand on the premise that we should take our streets back",
+     "excerpt": 50,
+     "date": "2026-09-29",
+     "body": "City Council",
+     "meeting_id": "E9154AB7-96B7-F111-AAAC-001DD803894A",
+     "video_id": "1230273462",
+     "start_sec": 4439,
+     "video_url": "https://vimeo.com/1230273462#t=4439s",
+     "chunk_id": "t-1230273462-4271",
+     "speaker": "likely"
+    },
+    {
+     "text": "I think that history will judge us poorly, just as it judged the '08 council",
+     "excerpt": 52,
+     "date": "2026-09-29",
+     "body": "City Council",
+     "meeting_id": "E9154AB7-96B7-F111-AAAC-001DD803894A",
+     "video_id": "1230273462",
+     "start_sec": 4735,
+     "video_url": "https://vimeo.com/1230273462#t=4735s",
+     "chunk_id": "t-1230273462-4571",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Settlement orders and litigation against the city",
+   "summary": "Ervin discussed settlement orders, defending the need to settle cases to limit taxpayer exposure even when officers were involved, and changed his vote on one settlement after discussing it with corporation counsel.",
+   "quotes": [
+    {
+     "text": "we also have to understand what the law is and operate within the framework that has been given to us",
+     "excerpt": 33,
+     "date": "2026-05-20",
+     "body": "City Council",
+     "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+     "video_id": "1193694170",
+     "start_sec": 10996,
+     "video_url": "https://vimeo.com/1193694170#t=10996s",
+     "chunk_id": "t-1193694170-10863",
+     "speaker": "likely"
+    },
+    {
+     "text": "After discussing this matter with court counsel and as a last and final favor, I change my vote to a yes in that matter",
+     "excerpt": 49,
+     "date": "2026-09-23",
+     "body": "City Council",
+     "meeting_id": "5F86622E-F485-F111-AB0E-001DD80ED7AA",
+     "video_id": "1229341127",
+     "start_sec": 14787,
+     "video_url": "https://vimeo.com/1229341127#t=14787s",
+     "chunk_id": "t-1229341127-14704",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Council procedure and resolutions",
+   "summary": "Ervin raised procedural objections, including questioning a suspension of the rules before knowing what resolution was considered, objecting to immediate consideration of a zoning chair resolution, and moving to table a referendum resolution as premature.",
+   "quotes": [
+    {
+     "text": "Need to know what we're considering the suspension of rules for before we s-",
+     "excerpt": 4,
+     "date": "2025-11-18",
+     "body": "City Council",
+     "meeting_id": "B614BB2E-A9C0-F011-BBD2-001DD80C6CBA",
+     "video_id": "1137802473",
+     "start_sec": 3539,
+     "video_url": "https://vimeo.com/1137802473#t=3539s",
+     "chunk_id": "t-1137802473-3364",
+     "speaker": "likely"
+    },
+    {
+     "text": "I think it's a little premature for us to move on this today, in August",
+     "excerpt": 45,
+     "date": "2026-07-22",
+     "body": "City Council",
+     "meeting_id": "AA0648B8-8A80-F111-AB0E-001DD80216AA",
+     "video_id": "1210889386",
+     "start_sec": 3356,
+     "video_url": "https://vimeo.com/1210889386#t=3356s",
+     "chunk_id": "t-1210889386-3300",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "28th Ward development and community recognition",
+   "summary": "Ervin supported West Side development projects in his ward, including a Garfield Park open space site and a missing middle housing cluster in West Garfield Park, and honored longtime community figures such as Darlene Jackson and Reverend Dr. Johnny Miller.",
+   "quotes": [
+    {
+     "text": "the fact that we're planting fruit-bearing trees on the West Side of Chicago, is a feat unto itself",
+     "excerpt": 37,
+     "date": "2026-07-07",
+     "body": "Committee on Special Events, Cultural Affairs and Recreation",
+     "meeting_id": "41AE03EE-B570-F111-AB0C-001DD80F88E2",
+     "video_id": "1207804636",
+     "start_sec": 2294,
+     "video_url": "https://vimeo.com/1207804636#t=2294s",
+     "chunk_id": "t-1207804636-2237",
+     "speaker": "likely"
+    },
+    {
+     "text": "Darlene Jackson has been a fixture in the Garfield Park community all of her life",
+     "excerpt": 31,
+     "date": "2026-05-20",
+     "body": "City Council",
+     "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+     "video_id": "1193694170",
+     "start_sec": 5433,
+     "video_url": "https://vimeo.com/1193694170#t=5433s",
+     "chunk_id": "t-1193694170-5313",
+     "speaker": "likely"
+    }
+   ]
+  }
+ ],
+ "suggested_questions": [
+  "What was Ervin's position on the timing of the extra $75 million pension payment for 2026?",
+  "Why did Ervin oppose the ownership transfer of the Chicago metered parking system concession?",
+  "What development projects in the 28th Ward did Ervin support, such as the West Garfield Park missing middle housing?"
+ ],
+ "evidence": [
+  {
+   "n": 1,
+   "chunk_id": "t-1136745770-5115",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=5115s"
+  },
+  {
+   "n": 2,
+   "chunk_id": "t-1136745770-5265",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=5265s"
+  },
+  {
+   "n": 3,
+   "chunk_id": "t-1136745770-7215",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=7215s"
+  },
+  {
+   "n": 4,
+   "chunk_id": "t-1137802473-3364",
+   "date": "2025-11-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1137802473#t=3364s"
+  },
+  {
+   "n": 5,
+   "chunk_id": "t-1137802473-3514",
+   "date": "2025-11-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1137802473#t=3514s"
+  },
+  {
+   "n": 6,
+   "chunk_id": "t-1137802473-3664",
+   "date": "2025-11-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1137802473#t=3664s"
+  },
+  {
+   "n": 7,
+   "chunk_id": "t-1144987889-7050",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=7050s"
+  },
+  {
+   "n": 8,
+   "chunk_id": "t-1144987889-7200",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=7200s"
+  },
+  {
+   "n": 9,
+   "chunk_id": "t-1146638281-2170",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1146638281#t=2170s"
+  },
+  {
+   "n": 10,
+   "chunk_id": "t-1146638281-2320",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1146638281#t=2320s"
+  },
+  {
+   "n": 11,
+   "chunk_id": "t-1146638281-2470",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1146638281#t=2470s"
+  },
+  {
+   "n": 12,
+   "chunk_id": "t-1147756540-4936",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=4936s"
+  },
+  {
+   "n": 13,
+   "chunk_id": "t-1147756540-5086",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=5086s"
+  },
+  {
+   "n": 14,
+   "chunk_id": "t-1147756540-5236",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=5236s"
+  },
+  {
+   "n": 15,
+   "chunk_id": "t-1148129733-5167",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=5167s"
+  },
+  {
+   "n": 16,
+   "chunk_id": "t-1148129733-5317",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=5317s"
+  },
+  {
+   "n": 17,
+   "chunk_id": "t-1148129733-14617",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=14617s"
+  },
+  {
+   "n": 18,
+   "chunk_id": "t-1148341931-4727",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=4727s"
+  },
+  {
+   "n": 19,
+   "chunk_id": "t-1148341931-4877",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=4877s"
+  },
+  {
+   "n": 20,
+   "chunk_id": "t-1148341931-5027",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=5027s"
+  },
+  {
+   "n": 21,
+   "chunk_id": "t-1156547113-6241",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=6241s"
+  },
+  {
+   "n": 22,
+   "chunk_id": "t-1156547113-6391",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=6391s"
+  },
+  {
+   "n": 23,
+   "chunk_id": "t-1165773679-11667",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=11667s"
+  },
+  {
+   "n": 24,
+   "chunk_id": "t-1165773679-11817",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=11817s"
+  },
+  {
+   "n": 25,
+   "chunk_id": "t-1174131349-5319",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=5319s"
+  },
+  {
+   "n": 26,
+   "chunk_id": "t-1174131349-5469",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=5469s"
+  },
+  {
+   "n": 27,
+   "chunk_id": "t-1174131349-8319",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=8319s"
+  },
+  {
+   "n": 28,
+   "chunk_id": "t-1183109138-10385",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=10385s"
+  },
+  {
+   "n": 29,
+   "chunk_id": "t-1183109138-10535",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=10535s"
+  },
+  {
+   "n": 30,
+   "chunk_id": "t-1183109138-10685",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=10685s"
+  },
+  {
+   "n": 31,
+   "chunk_id": "t-1193694170-5313",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=5313s"
+  },
+  {
+   "n": 32,
+   "chunk_id": "t-1193694170-5463",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=5463s"
+  },
+  {
+   "n": 33,
+   "chunk_id": "t-1193694170-10863",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=10863s"
+  },
+  {
+   "n": 34,
+   "chunk_id": "t-1201890835-10298",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=10298s"
+  },
+  {
+   "n": 35,
+   "chunk_id": "t-1201890835-10448",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=10448s"
+  },
+  {
+   "n": 36,
+   "chunk_id": "t-1201890835-10898",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=10898s"
+  },
+  {
+   "n": 37,
+   "chunk_id": "t-1207804636-2237",
+   "date": "2026-07-07",
+   "body": "Committee on Special Events, Cultural Affairs and Recreation",
+   "video_url": "https://vimeo.com/1207804636#t=2237s"
+  },
+  {
+   "n": 38,
+   "chunk_id": "t-1207804636-2387",
+   "date": "2026-07-07",
+   "body": "Committee on Special Events, Cultural Affairs and Recreation",
+   "video_url": "https://vimeo.com/1207804636#t=2387s"
+  },
+  {
+   "n": 39,
+   "chunk_id": "t-1208145395-7900",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1208145395#t=7900s"
+  },
+  {
+   "n": 40,
+   "chunk_id": "t-1208145395-8050",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1208145395#t=8050s"
+  },
+  {
+   "n": 41,
+   "chunk_id": "t-1209979957-6668",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1209979957#t=6668s"
+  },
+  {
+   "n": 42,
+   "chunk_id": "t-1209979957-6818",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1209979957#t=6818s"
+  },
+  {
+   "n": 43,
+   "chunk_id": "t-1209979957-11168",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1209979957#t=11168s"
+  },
+  {
+   "n": 44,
+   "chunk_id": "t-1210889386-3150",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=3150s"
+  },
+  {
+   "n": 45,
+   "chunk_id": "t-1210889386-3300",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=3300s"
+  },
+  {
+   "n": 46,
+   "chunk_id": "t-1210889386-3450",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=3450s"
+  },
+  {
+   "n": 47,
+   "chunk_id": "t-1229341127-10954",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=10954s"
+  },
+  {
+   "n": 48,
+   "chunk_id": "t-1229341127-11104",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=11104s"
+  },
+  {
+   "n": 49,
+   "chunk_id": "t-1229341127-14704",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=14704s"
+  },
+  {
+   "n": 50,
+   "chunk_id": "t-1230273462-4271",
+   "date": "2026-09-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1230273462#t=4271s"
+  },
+  {
+   "n": 51,
+   "chunk_id": "t-1230273462-4421",
+   "date": "2026-09-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1230273462#t=4421s"
+  },
+  {
+   "n": 52,
+   "chunk_id": "t-1230273462-4571",
+   "date": "2026-09-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1230273462#t=4571s"
+  },
+  {
+   "n": 53,
+   "chunk_id": "t-1235564993-3450",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=3450s"
+  },
+  {
+   "n": 54,
+   "chunk_id": "t-1235564993-3600",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=3600s"
+  },
+  {
+   "n": 55,
+   "chunk_id": "t-1235564993-12450",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=12450s"
+  },
+  {
+   "n": 56,
+   "chunk_id": "t-1237727064-8145",
+   "date": "2026-10-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1237727064#t=8145s"
+  },
+  {
+   "n": 57,
+   "chunk_id": "t-1237727064-8295",
+   "date": "2026-10-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1237727064#t=8295s"
+  },
+  {
+   "n": 58,
+   "chunk_id": "t-1241090076-3590",
+   "date": "2026-11-02",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1241090076#t=3590s"
+  },
+  {
+   "n": 59,
+   "chunk_id": "t-1241090076-3740",
+   "date": "2026-11-02",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1241090076#t=3740s"
+  },
+  {
+   "n": 60,
+   "chunk_id": "t-1241090076-5390",
+   "date": "2026-11-02",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1241090076#t=5390s"
+  }
+ ]
+}

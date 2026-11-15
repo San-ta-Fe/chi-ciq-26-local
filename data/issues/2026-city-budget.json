@@ -1,0 +1,530 @@
+{
+ "name": "2026 City Budget",
+ "slug": "2026-city-budget",
+ "description": "Adoption and amendment of the annual appropriation ordinance and department funding for 2026.",
+ "queries": [
+  "annual appropriation ordinance 2026",
+  "2026 budget package debate",
+  "department funding appropriation"
+ ],
+ "title_keywords": [
+  "Annual Appropriation Ordinance",
+  "Appropriation Ordinance Year 2026",
+  "budget package",
+  "Fund No"
+ ],
+ "status": "voted",
+ "summary": "The most contested item was the adoption of the 2026 annual appropriation ordinance package: amendments to the 2026 Budget Recommendations and text portion (SO2025-0021101) passed City Council on 2025-12-20 by a divided 30 Yea / 19 Nay vote [7], during which an amendment to raise the police superintendent's salary from $284,016 to $300,000 was discussed [4]. Subsequent 2026 appropriation amendments passed with little or no opposition, including Fund 925 amendments for grants to Public Health and Planning and Development (O2026-0023819, 50 Yea / 0 Nay on 2026-03-18) and multi-department grant appropriations of $15,745,000 discussed in committee on 2026-06-15 [5][3]. Three transfers within the Committee on Police and Fire (SO2026-0022321, SO2026-0022322, SO2026-0022323) each passed 49 Yea / 0 Nay on 2026-02-18, and a resolution calling on the Mayor to implement the 2026 budget package (R2026-0023372) was adopted 50 Yea / 0 Nay on 2026-04-15. Committee hearings on the 2026 annual appropriation began as early as 2025-11-12 [6], and amendments were routinely reported out for final Council action [1]. Still open are further 2026 transfers and ward-level appropriation amendments listed on the Committee on Budget and Government Operations agenda for 2026-10-13, including items SO2026-0028812, O2026-0028794, O2026-0028227, and O2026-0027538 [9][11].",
+ "one_line": "2026 budget adopted 30-19 on 2025-12-20; later amendments passed near-unanimously; further transfers pending October 2026.",
+ "cited_excerpts": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  9,
+  11
+ ],
+ "records_cited_not_in_trail": [
+  "O2026-0027538",
+  "O2026-0028227",
+  "O2026-0028794",
+  "SO2026-0028812"
+ ],
+ "trail": [
+  {
+   "record_number": "SO2025-0021101",
+   "title": "Corrections and revisions to 2026 Budget Recommendations and text portion of Annual Appropriation Ordinance",
+   "sponsor": "Dept./Agency",
+   "date": "2025-11-17",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "SO2025-0021101",
+   "title": "Corrections and revisions to 2026 Budget Recommendations and text portion of Annual Appropriation Ordinance",
+   "sponsor": "Dept./Agency",
+   "date": "2025-12-17",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "CBGO.SUMMARYOFREPORTS.17DECEMBER2025.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/01300d5f-d592-4cec-ab9c-b212c19d0c84.pdf"
+  },
+  {
+   "record_number": "SO2025-0021101",
+   "title": "Corrections and revisions to 2026 Budget Recommendations and text portion of Annual Appropriation Ordinance",
+   "sponsor": "Dept./Agency",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "30 Yea / 19 Nay"
+  },
+  {
+   "record_number": "SO2026-0022321",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Commodities and Materials and Supplies to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "SO2026-0022322",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Contractual Services to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "SO2026-0022323",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Contingencies to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0023185",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Dept. of Family and Support Services and Dept. of Transportation",
+   "sponsor": "Dept./Agency",
+   "date": "2026-02-10",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0023185",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Dept. of Family and Support Services and Dept. of Transportation",
+   "sponsor": "Dept./Agency",
+   "date": "2026-02-10",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "SUMMARY BUDGET.fEB 10.feb10.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dc8189cd-17e4-4aaf-9d3c-24b5c3f1a50a.pdf"
+  },
+  {
+   "record_number": "SO2026-0022321",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Commodities and Materials and Supplies to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-02-10",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "SUMMARY BUDGET.fEB 10.feb10.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dc8189cd-17e4-4aaf-9d3c-24b5c3f1a50a.pdf"
+  },
+  {
+   "record_number": "SO2026-0022322",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Contractual Services to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-02-10",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "SUMMARY BUDGET.fEB 10.feb10.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dc8189cd-17e4-4aaf-9d3c-24b5c3f1a50a.pdf"
+  },
+  {
+   "record_number": "SO2026-0022323",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Contingencies to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-02-10",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "SUMMARY BUDGET.fEB 10.feb10.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dc8189cd-17e4-4aaf-9d3c-24b5c3f1a50a.pdf"
+  },
+  {
+   "record_number": "O2026-0023185",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Dept. of Family and Support Services and Dept. of Transportation",
+   "sponsor": "Dept./Agency",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Harris, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "R2026-0023372",
+   "title": "Call on Mayor Brandon Johnson and his administration to implement Year 2026 budget package",
+   "sponsor": "Nugent, Samantha",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "SO2026-0022321",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Commodities and Materials and Supplies to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Harris, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "SO2026-0022322",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Contractual Services to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Harris, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "SO2026-0022323",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Police and Fire for Year 2026 (Contingencies to Personnel Services)",
+   "sponsor": "Taliaferro, Chris",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0023819",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Office of Mayor, Department of Public Health, Department of Police, Office of Emergency Management and Communications and Department of Transportation",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-03-11",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0023819",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Office of Mayor, Department of Public Health, Department of Police, Office of Emergency Management and Communications and Department of Transportation",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-03-11",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "SUMMARY Budget. March 11.mar11.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/989f9eef-f1f4-4793-be58-8f32372511c2.pdf"
+  },
+  {
+   "record_number": "O2026-0023819",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Office of Mayor, Department of Public Health, Department of Police, Office of Emergency Management and Communications and Department of Transportation",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0024352",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health and Department of Planning and Development",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-04-02",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0024352",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health and Department of Planning and Development",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-04-02",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "CBGO.SUMMARYOFREPORTS.02APRIL2026.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/bcf73ab7-0b22-4e1d-80ff-932bac26aff0.pdf"
+  },
+  {
+   "record_number": "R2026-0023372",
+   "title": "Call on Mayor Brandon Johnson and his administration to implement Year 2026 budget package",
+   "sponsor": "Nugent, Samantha",
+   "date": "2026-04-02",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "CBGO.SUMMARYOFREPORTS.02april2026.Amended.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/10b21962-a51c-487d-9ba7-86819c1244ba.pdf"
+  },
+  {
+   "record_number": "O2026-0024352",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health and Department of Planning and Development",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "R2026-0023372",
+   "title": "Call on Mayor Brandon Johnson and his administration to implement Year 2026 budget package",
+   "sponsor": "Nugent, Samantha",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Adopted",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the resolution was Adopted.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025214",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Mayor's Office for People with Disabilities and Chicago Police Department",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-13",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0025214",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Mayor's Office for People with Disabilities and Chicago Police Department",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-13",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/eeafffc8-4d4a-4317-b76d-02ef60e518d5.pdf"
+  },
+  {
+   "record_number": "O2026-0025214",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Mayor's Office for People with Disabilities and Chicago Police Department",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "SO2026-0025432",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Health and Human Relations for Year 2026",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0026183",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Family and Support Services, Chicago Police Department, Department of the Environment, Department of Streets and Sanitation and Department of Water Management",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-06-15",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0026183",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Family and Support Services, Chicago Police Department, Department of the Environment, Department of Streets and Sanitation and Department of Water Management",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-06-15",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/088a2dc6-2e23-4ff6-a939-402ba4e81d63.pdf"
+  },
+  {
+   "record_number": "SO2026-0025432",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Health and Human Relations for Year 2026",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-15",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/088a2dc6-2e23-4ff6-a939-402ba4e81d63.pdf"
+  },
+  {
+   "record_number": "O2026-0026183",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Family and Support Services, Chicago Police Department, Department of the Environment, Department of Streets and Sanitation and Department of Water Management",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "SO2026-0025432",
+   "title": "Amendment of Annual Appropriation Ordinance to transfer funds within Committee on Health and Human Relations for Year 2026",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0026839",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health, Department of Family and Support Services, Chicago Police Department, Department of Environment, Department of Transportation and Chicago Public Library",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-07-08",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0026839",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health, Department of Family and Support Services, Chicago Police Department, Department of Environment, Department of Transportation and Chicago Public Library",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  }
+ ],
+ "trail_records": 12,
+ "citywide_records": 12,
+ "unverified_in_summary": [],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1178507165-5736",
+   "date": "2026-04-02",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1178507165#t=5736s",
+   "at": "1:35:36",
+   "n": 1,
+   "snippet": "All right. Meeting is called back to order. Can we get a motion to accept the item number one, which is a communication recommending the adoption of the annual appropriation ordinance year 2026 amendment within Fund 925? So moved. All in favor, signify by saying aye. Any opposed?In the opinion of th"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1156547113-6391",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=6391s",
+   "at": "1:46:31",
+   "n": 2,
+   "snippet": "proposed ordinance concerning an annual appropriation ordinance year 2026 amendment. Shifting appropriation code for CVI funding and CDPH, which moves funds from one account to the proper account. 9 9 29 E Community Violence Intervention Program and also puts the project administration position posi"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1178507165-1386",
+   "date": "2026-04-02",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1178507165#t=1386s",
+   "at": "0:23:06",
+   "n": 3,
+   "snippet": "We now move to consider item number one of our agenda, which is a communication recommending the adoption of an annual appropriation ordinance year 2026 amendment within Fund 925 as a direct introduction. Chloe Belcik from the Department of Budget is here to provide an explanation. You may proceed. "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1148129733-14767",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=14767s",
+   "at": "4:06:07",
+   "n": 4,
+   "snippet": "by alderman from the 17th Ward about what we are now voting on. This is both the appropriation, which is the appropriation of revenue and expenses, which is the amended 2026 annual appropriation ordinance, which is now before us as we've combined, uh, with the amendments from the previous vote. I mo"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1200557018-1417",
+   "date": "2026-06-15",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1200557018#t=1417s",
+   "at": "0:23:37",
+   "n": 5,
+   "snippet": "the Rule 45 report is approved. The committee will now move to consider item number one on our agenda, which is a communication recommending the adoption of the annual appropriation ordinance year 2026 amendment within Fund 925 via direct introduction. We have Chloe Belchick from the budget departme"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1135569237-7886",
+   "date": "2025-11-12",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1135569237#t=7886s",
+   "at": "2:11:26",
+   "n": 6,
+   "snippet": "All right. We will return to our budget hearings for the 2026, uh, annual appropriation."
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1148129733-14467",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=14467s",
+   "at": "4:01:07",
+   "n": 7,
+   "snippet": "0 0 2 1 0 3 6 Would like to do this by a voice vote. This is the substitute code corrections ordinance If it pleases this body to do that by voice vote. All those in favor signify by saying aye. Aye. Any opposed, say nay. This motion passes. We need a motion to reconsider on the motion to reconsider"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1156547113-9391",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=9391s",
+   "at": "2:36:31",
+   "n": 8,
+   "snippet": "the personnel services, which is referred to the committee on the budget and government operations, all person fier, all says proposed ordinance for amendment of the annual appropriation ordinance to transfer funds within the Committee on Police and Fire for the year 2026. From the Miscellaneous Fun"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-82df9eef45981a55-1",
+   "date": "2026-10-13",
+   "body": "Committee on Budget and Government Operations",
+   "doc_name": "Summary.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/26c87568-3888-4d4b-851c-c81f7407b96f.pdf",
+   "n": 9,
+   "snippet": "ual Appropriation Ordinance to transfer funds from 40 Ward\nAldernianic Expense Account to Wage Allowance Account for Year 2026.\n(02026-0027570)\n\n--- Page 2 (OCR) ---\n7. Amendment of Annual Appropriation Ordinance to transfer funds from 43 Ward\nAldern]anic Expense Account to Wage Allowance Account fo"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-4d8de2dab1f2e6c7-10",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "doc_name": "2026-04-15 City Council Agenda v5 (1).pdf",
+   "page": 5,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e2ced7d9-a334-47c2-aa02-2d62c74061d6.pdf",
+   "n": 10,
+   "snippet": "IA\nED:\notTice of Bud et and\nement\nl. Annual Appropriation Ordinance Year 2026 amendrnenl within Fund 925.\nDirect Introduction (020264K)24352)\nCouncil\n2. Transfer of funds within Couunilt\u00a2\u00a2 on Finance for Year 2026.\n(0202&0024093)\n3. Transfer of funds within 41yh Ward Wage AlIowancelAldern)\uffffC Expense"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-c3d26b21dcaa7512-1",
+   "date": "2026-10-13",
+   "body": "Committee on Budget and Government Operations",
+   "doc_name": "Agenda 10.7.26.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/bedfbfd9-5800-4b5a-9cf2-c2f35db74249.pdf",
+   "n": 11,
+   "snippet": " funds from 40 Ward\nAldennanic Expense Account to Wage Allowance Account for Year 2026.\n(02026-0027570)\n8. AJncndTnent of Annual Appropriation Ordinance to transfcr funds from 43 Ward\nAldennanic Expense Account to Wage Allowance Account for Year 2026.\n(02026-0027655)\n9. Amendment of Annual Appropria"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-50dd05e65c68ad3a-10",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "doc_name": "2025-12-20 Council Agenda v4.pdf",
+   "page": 15,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c8de1a1b-8798-4615-b6a1-e2091f420ae5.pdf",
+   "n": 12,
+   "snippet": "Rule 41 Filing(s)\n\n--- Page 16 (OCR) ---\nCOMMirrEE ON THE BUDGET AND GOVERNMENT OPERATIONS\n2026 Budget Documents:\nAmendment of Municipal Code Titles 2 and 9 \uffffgardIng technical and scriveners, corrections\n(2026 Municipal Code Correckn'ons Ordinance)\nA series of proposed CO\uffffeCtiOnS and revisions to th"
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}

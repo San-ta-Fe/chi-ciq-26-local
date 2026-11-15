@@ -1,0 +1,2443 @@
+{
+ "name": "Mitchell, Gregory I.",
+ "slug": "mitchell-gregory",
+ "surname": "Mitchell",
+ "votes": {
+  "source": "Official roll-call records (City Clerk)",
+  "rollcall_items": 5831,
+  "meetings": 16,
+  "yea": 5826,
+  "nay": 5,
+  "other": {},
+  "voted_differently_from_majority": [
+   {
+    "date": "2025-12-20",
+    "meeting_id": "E6535C21-B0DA-F011-8543-001DD80C6DA5",
+    "record_number": "SO2025-0021095",
+    "title": "Fiscal Year 2026 Tax Levy, as amended",
+    "their_vote": "Nay",
+    "tally": "38 Yea / 10 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-05-20",
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "record_number": "SO2025-0015584",
+    "title": "Amendment of Municipal Code Title 2 by amending Section 2-78-120 (e-5) and adding new Section 2-84-530 prohibiting members of Chicago Police Department from participating in any extremist activity",
+    "their_vote": "Nay",
+    "tally": "28 Yea / 21 Nay",
+    "result": "passed"
+   },
+   {
+    "date": "2026-10-14",
+    "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+    "record_number": "SA2026-0027373",
+    "title": "Appointment of Ramona Westbrook as Commissioner of Chicago Housing Authority",
+    "their_vote": "Yea",
+    "tally": "16 Yea / 29 Nay",
+    "result": "failed"
+   },
+   {
+    "date": "2026-10-14",
+    "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+    "record_number": "SA2026-0027382",
+    "title": "Appointment of John Bartlett as Commissioner of Chicago Housing Authority",
+    "their_vote": "Yea",
+    "tally": "16 Yea / 29 Nay",
+    "result": "failed"
+   }
+  ]
+ },
+ "sponsored": {
+  "source": "Official legislation records (City Clerk), filing sponsor",
+  "count": 91,
+  "by_category": {
+   "PARKING | Disabled": 59,
+   "PARKING | Handicapped": 11,
+   "CITY COUNCIL | REGULAR MEETINGS": 8,
+   "ZONING RECLASSIFICATIONS": 7,
+   "MUNICIPAL CODE AMENDMENTS": 3,
+   "TRAFFIC | Signs": 1,
+   "COMMENDATIONS & DECLARATIONS": 1,
+   "ALLEY | Ingress/Egress": 1
+  },
+  "items": [
+   {
+    "record_number": "O2026-0029508",
+    "title": "Time fixed for next City Council Meeting December 8, 2026 and December 9, 2026, at 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2026-10-14",
+    "final_date": "2026-10-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0029102",
+    "title": "Disabled Parking Permit No. 130628",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029104",
+    "title": "Disabled Parking Permit No. 135576",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029105",
+    "title": "Disabled Parking Permit No. 138000",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029106",
+    "title": "Disabled Parking Permit No. 139598",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029108",
+    "title": "Disabled Parking Permit No. 139807",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-10-09",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0029019",
+    "title": "Disabled Parking Permit No. 140071",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-29",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0027547",
+    "title": "Disabled Parking Permit No. 138616",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0027549",
+    "title": "Disabled Parking Permit No. 139142",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0027552",
+    "title": "Vehicle weight limitation at E 100th St from S Torrence Ave to S Van Vlissingen Road - 5 tons",
+    "type": "Ordinance",
+    "category": "TRAFFIC | Signs",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0028470",
+    "title": "Disabled Parking Permit No. 139528",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0028471",
+    "title": "Disabled Parking Permit No. 139516",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-09-23",
+    "final_date": "2026-10-14",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026446",
+    "title": "Disabled Parking Permit No. 138296",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026447",
+    "title": "Disabled Parking Permit No. 138784",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026448",
+    "title": "Disabled Parking Permit No. 139311",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026449",
+    "title": "Disabled Parking Permit No. 139427",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026598",
+    "title": "Disabled Parking Permit No. 9074 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026599",
+    "title": "Disabled Parking Permit No. 10638 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026600",
+    "title": "Disabled Parking Permit No. 18702 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026601",
+    "title": "Disabled Parking Permit No. 18953 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026602",
+    "title": "Disabled Parking Permit No. 104936 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026604",
+    "title": "Disabled Parking Permit No. 109982 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026606",
+    "title": "Disabled Parking Permit No. 119007 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026607",
+    "title": "Disabled Parking Permit No. 122630 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026608",
+    "title": "Disabled Parking Permit No. 125214 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026609",
+    "title": "Disabled Parking Permit No. 125245 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026610",
+    "title": "Disabled Parking Permit No. 126123 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026611",
+    "title": "Disabled Parking Permit No. 127541 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-07-07",
+    "final_date": "2026-07-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0026367",
+    "title": "Time fixed for next City Council Meeting July 15, 2026, at 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2026-06-17",
+    "final_date": "2026-06-17",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0025748",
+    "title": "Disabled Parking Permit No. 84497 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025753",
+    "title": "Disabled Parking Permit No. 95174 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025754",
+    "title": "Disabled Parking Permit No. 96577 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025755",
+    "title": "Disabled Parking Permit No. 96582 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025758",
+    "title": "Disabled Parking Permit No. 97427 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025768",
+    "title": "Disabled Parking Permit No. 102127 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025770",
+    "title": "Disabled Parking Permit No. 102131 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025772",
+    "title": "Disabled Parking Permit No. 102240 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025793",
+    "title": "Disabled Parking Permit No. 110468 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025794",
+    "title": "Disabled Parking Permit No. 112880 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025887",
+    "title": "Disabled Parking Permit No. 137902",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025888",
+    "title": "Disabled Parking Permit No. 138267",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025889",
+    "title": "Disabled Parking Permit No. 138276",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025890",
+    "title": "Disabled Parking Permit No. 139002",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-06-09",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024954",
+    "title": "Time fixed for next City Council Meeting May 20, 2026, at 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0025537",
+    "title": "Time fixed for next City Council Meeting June 17, 2026, at 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-05-20",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0024958",
+    "title": "Disabled Parking Permit No. 138622",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024966",
+    "title": "Amendment of Municipal Code Titles 2, 9 and 11 regarding fines for illegal dumping and adding new Section 9-92-036 authorizing impoundment of vehicles used in fly dumping",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Transportation and Public Way"
+   },
+   {
+    "record_number": "O2026-0025029",
+    "title": "Amendment of Municipal Code Section 4-60-073 by decreasing maximum number of Lakefront Venue liquor licenses issued during any license period from 31 to 30",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on License and Consumer Protection"
+   },
+   {
+    "record_number": "O2026-0025478",
+    "title": "Zoning Reclassification Map Nos. 18-B and 20-B at 2900-3032 E 79th St, 2901-2953 E 79th St, 7916-7956 S Exchange Ave and 7913-8043 S Exchange Ave - App No. A-9122",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "O2026-0025480",
+    "title": "Zoning Reclassification Map Nos. 18-B, 18-C, 20-C and 20-B at 2200-2870 E 79th St, 2201-2853 E 79th St, 7915 S Yates Ave and 7900 S Escanaba Ave - App No. A-9121",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "O2026-0025482",
+    "title": "Zoning Reclassification Map No. 18-C at 1932-2258 E 75th St and 2131-2225 E 75th St - App No. A-9124",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "O2026-0025483",
+    "title": "Zoning Reclassification Map Nos. 18-B and 18-C at 2300-2600 E 75th St, 2301-2631 E 75th St, 7462-7474 S Exchange Ave, 2338-2654 E 75th St, 7515-7535 S Saginaw Ave and 7550 S Exchange Ave",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-05-20",
+    "final_date": "2026-06-17",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "O2026-0025105",
+    "title": "Disabled Parking Permit No. 135857",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-05-12",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025106",
+    "title": "Disabled Parking Permit No. 138346",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-05-12",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0025107",
+    "title": "Disabled Parking Permit No. 138381",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-05-12",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "R2026-0024327",
+    "title": "Congratulations extended to Gladys Ray on 100th birthday",
+    "type": "Resolution",
+    "category": "COMMENDATIONS & DECLARATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-04-15",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0024784",
+    "title": "Disabled Parking Permit No. 133276",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-15",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024620",
+    "title": "Exemption from physical barrier requirement for commercial driveway alley access for Catapult Real Estate Solutions LLC",
+    "type": "Ordinance",
+    "category": "ALLEY | Ingress/Egress",
+    "status": "90-Final",
+    "intro_date": "2026-04-08",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Transportation and Public Way"
+   },
+   {
+    "record_number": "O2026-0024453",
+    "title": "Disabled Parking Permit No. 132033 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024455",
+    "title": "Disabled Parking Permit No. 126653 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024456",
+    "title": "Disabled Parking Permit No. 122655 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024457",
+    "title": "Disabled Parking Permit No. 118986 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024489",
+    "title": "Disabled Parking Permit No. 138022",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024490",
+    "title": "Disabled Parking Permit No. 138156",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-04-07",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0024102",
+    "title": "Time fixed for next City Council Meeting April 15, 2026, at 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2026-03-18",
+    "final_date": "2026-03-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0023434",
+    "title": "Disabled Parking Permit No. 137878",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-03-18",
+    "final_date": "2026-04-15",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022918",
+    "title": "Disabled Parking Permit No. 68100 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022961",
+    "title": "Disabled Parking Permit No. 137512",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-02-09",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022540",
+    "title": "Time fixed for next City Council Meeting February 18, 2026 at 10:00 AM, Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2026-01-21",
+    "final_date": "2026-01-21",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2026-0022546",
+    "title": "Zoning Reclassification Map No. 18-C at 2206 E 75th St - App No. A-9090",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2026-01-21",
+    "final_date": "2026-05-20",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "O2026-0022019",
+    "title": "Disabled Parking Permit No. 137535",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022020",
+    "title": "Disabled Parking Permit No. 137561",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022021",
+    "title": "Disabled Parking Permit No. 137918",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022256",
+    "title": "Disabled Parking Permit No. 38963 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2026-0022257",
+    "title": "Disabled Parking Permit No. 36480 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Disabled",
+    "status": "90-Final",
+    "intro_date": "2026-01-14",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021761",
+    "title": "Handicapped Parking Permit No. 137335",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-16",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021763",
+    "title": "Handicapped Parking Permit No. 137583",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-16",
+    "final_date": "2026-01-21",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021188",
+    "title": "Handicapped Parking Permit No. 135671",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021189",
+    "title": "Handicapped Parking Permit No. 136675",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021190",
+    "title": "Handicapped Parking Permit No. 136810",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021191",
+    "title": "Handicapped Parking Permit No. 137026",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021192",
+    "title": "Handicapped Parking Permit No. 137205",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-12-03",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0021116",
+    "title": "Time fixed for next City Council Meeting December 10, 2025, 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2025-11-18",
+    "final_date": "2025-11-18",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2025-0021054",
+    "title": "Time fixed for next City Council Meeting November 18, 2025, at 10:00 A.M., Council Chamber",
+    "type": "Ordinance",
+    "category": "CITY COUNCIL | REGULAR MEETINGS",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-11-14",
+    "committee": "City Council"
+   },
+   {
+    "record_number": "O2025-0020627",
+    "title": "Handicapped Parking Permit No. 71911 - remove",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0020734",
+    "title": "Handicapped Parking Permit No. 137120",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0020954",
+    "title": "Handicapped Parking Permit No. 134989",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-11-14",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "O2025-0020155",
+    "title": "Handicapped Parking Permit No. 137123",
+    "type": "Ordinance",
+    "category": "PARKING | Handicapped",
+    "status": "90-Final",
+    "intro_date": "2025-10-16",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Pedestrian and Traffic Safety"
+   },
+   {
+    "record_number": "SO2025-0019960",
+    "title": "Zoning Reclassification Map No. 22-B at 2700-2864 E 95th St - App No. A-9066",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-09-25",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "SO2025-0019962",
+    "title": "Zoning Reclassification Map No. 24-B at 9510-9594 S Torrence Ave, 9501-9737 S Torrence Ave and 9545 S Colfax Ave - App No. A-9067",
+    "type": "Ordinance",
+    "category": "ZONING RECLASSIFICATIONS",
+    "status": "90-Final",
+    "intro_date": "2025-09-25",
+    "final_date": "2025-12-10",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   },
+   {
+    "record_number": "SO2025-0018183",
+    "title": "Amendment of Municipal Code Title 17 by modifying Section 17-3-0207 to remove permit requirements for gas stations in B3, C1, and C2 zoning districts and by modifying Section 17-9-0109 restricting expansions of gas stations in certain circumstances",
+    "type": "Ordinance",
+    "category": "MUNICIPAL CODE AMENDMENTS",
+    "status": "90-Final",
+    "intro_date": "2025-06-18",
+    "final_date": "2026-02-18",
+    "committee": "Committee on Zoning, Landmarks and Building Standards"
+   }
+  ]
+ },
+ "named_in_meetings": {
+  "source": "Vimeo auto-captions; names matched by text, so this is likely, not official. Includes roll calls.",
+  "meetings": 111,
+  "by_body": {
+   "City Council": 22,
+   "Committee on Finance": 17,
+   "Committee on Budget and Government Operations": 17,
+   "Committee on Housing and Real Estate": 14,
+   "Committee on Economic, Capital and Technology Development": 10,
+   "Committee on Transportation and Public Way": 10,
+   "Committee on Police and Fire": 5,
+   "Committee on Zoning, Landmarks and Building Standards": 4,
+   "Committee on Contracting Oversight and Equity": 4,
+   "Joint Committee: Public Safety; Police and Fire": 2,
+   "Committee on License and Consumer Protection": 2,
+   "Joint Committee: Police and Fire; Immigrant and Refugee Rights": 1,
+   "Joint Committee: Budget; Police and Fire": 1,
+   "Joint Committee:  Budget and Government Operations; Economic, Capital and Technology Development": 1,
+   "Joint Committee: Police and Fire; Ethics and Government Oversight": 1
+  },
+  "list": [
+   {
+    "meeting_id": "48B2C4EE-08BC-F011-BBD2-001DD8003CAD",
+    "date": "2025-11-13",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1136197674",
+      "first_mention_sec": 1729,
+      "video_url": "https://vimeo.com/1136197674#t=1729s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "079641F0-9BAB-F011-BBD2-001DD80B7FF7",
+    "date": "2025-11-14",
+    "body": "City Council",
+    "mentions": 10,
+    "videos": [
+     {
+      "video_id": "1136745770",
+      "first_mention_sec": 1210,
+      "video_url": "https://vimeo.com/1136745770#t=1210s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "97958912-D7AD-F011-BBD2-001DD80C6DBC",
+    "date": "2025-11-17",
+    "body": "Committee on Finance",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1137016421",
+      "first_mention_sec": 780,
+      "video_url": "https://vimeo.com/1137016421#t=780s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B614BB2E-A9C0-F011-BBD2-001DD80C6CBA",
+    "date": "2025-11-18",
+    "body": "City Council",
+    "mentions": 14,
+    "videos": [
+     {
+      "video_id": "1137802473",
+      "first_mention_sec": 1499,
+      "video_url": "https://vimeo.com/1137802473#t=1499s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "71CAEB7D-4BC6-F011-BBD2-001DD8020E93",
+    "date": "2025-12-01",
+    "body": "Joint Committee: Public Safety; Police and Fire",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1138170250",
+      "first_mention_sec": 2409,
+      "video_url": "https://vimeo.com/1138170250#t=2409s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DCD69BB1-66C9-F011-BBD2-001DD8016C9C",
+    "date": "2025-12-02",
+    "body": "Committee on Finance",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1142138848",
+      "first_mention_sec": 1087,
+      "video_url": "https://vimeo.com/1142138848#t=1087s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "3D4AD79C-50BA-F011-BBD2-001DD80025BF",
+    "date": "2025-12-03",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1136559499",
+      "first_mention_sec": 770,
+      "video_url": "https://vimeo.com/1136559499#t=770s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E94B026B-AEC4-F011-BBD2-001DD81024B7",
+    "date": "2025-12-04",
+    "body": "Committee on Finance",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1143223114",
+      "first_mention_sec": 1351,
+      "video_url": "https://vimeo.com/1143223114#t=1351s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5E4F4112-CEC4-F011-BBD2-001DD8020E93",
+    "date": "2025-12-09",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1144934697",
+      "first_mention_sec": 3584,
+      "video_url": "https://vimeo.com/1144934697#t=3584s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C4E209CC-B3C4-F011-BBD2-001DD8020E93",
+    "date": "2025-12-09",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1143545294",
+      "first_mention_sec": 3932,
+      "video_url": "https://vimeo.com/1143545294#t=3932s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C6AD4125-B0C4-F011-BBD2-001DD8011743",
+    "date": "2025-12-09",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1143223346",
+      "first_mention_sec": 754,
+      "video_url": "https://vimeo.com/1143223346#t=754s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D126676D-A1C4-F011-BBD2-001DD8020E93",
+    "date": "2025-12-10",
+    "body": "City Council",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1144987889",
+      "first_mention_sec": 4590,
+      "video_url": "https://vimeo.com/1144987889#t=4590s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "651E9537-5BD4-F011-8543-001DD8041B30",
+    "date": "2025-12-11",
+    "body": "Committee on Police and Fire",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1145351061",
+      "first_mention_sec": 1411,
+      "video_url": "https://vimeo.com/1145351061#t=1411s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "ADDBA19C-F4D5-F011-8543-001DD8066465",
+    "date": "2025-12-15",
+    "body": "City Council",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1145705849",
+      "first_mention_sec": 2781,
+      "video_url": "https://vimeo.com/1145705849#t=2781s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "48A8ADC6-F4D5-F011-8543-001DD8066465",
+    "date": "2025-12-16",
+    "body": "City Council",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1146638281",
+      "first_mention_sec": 4585,
+      "video_url": "https://vimeo.com/1146638281#t=4585s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DCEC1C7C-68D7-F011-8543-001DD8018EAF",
+    "date": "2025-12-16",
+    "body": "Committee on Finance",
+    "mentions": 10,
+    "videos": [
+     {
+      "video_id": "1144986653",
+      "first_mention_sec": 2454,
+      "video_url": "https://vimeo.com/1144986653#t=2454s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4C34E733-94D7-F011-8543-001DD8018EAF",
+    "date": "2025-12-17",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1147777779",
+      "first_mention_sec": 773,
+      "video_url": "https://vimeo.com/1147777779#t=773s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "FFD2DC30-AFDA-F011-8543-001DD80C6DA5",
+    "date": "2025-12-19",
+    "body": "City Council",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1147756540",
+      "first_mention_sec": 5581,
+      "video_url": "https://vimeo.com/1147756540#t=5581s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E6535C21-B0DA-F011-8543-001DD80C6DA5",
+    "date": "2025-12-20",
+    "body": "City Council",
+    "mentions": 10,
+    "videos": [
+     {
+      "video_id": "1148129733",
+      "first_mention_sec": 2760,
+      "video_url": "https://vimeo.com/1148129733#t=2760s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1C3070BF-74DB-F011-8543-001DD802FB0D",
+    "date": "2025-12-22",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1148313259",
+      "first_mention_sec": 247,
+      "video_url": "https://vimeo.com/1148313259#t=247s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7E609E74-D9E0-F011-8543-001DD8029F6B",
+    "date": "2025-12-29",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1148736982",
+      "first_mention_sec": 1038,
+      "video_url": "https://vimeo.com/1148736982#t=1038s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C304F269-EBDD-F011-8543-001DD80AF606",
+    "date": "2025-12-29",
+    "body": "City Council",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1148341931",
+      "first_mention_sec": 5350,
+      "video_url": "https://vimeo.com/1148341931#t=5350s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7345CB2B-C7DA-F011-8543-001DD8088ED0",
+    "date": "2026-01-13",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1152305857",
+      "first_mention_sec": 859,
+      "video_url": "https://vimeo.com/1152305857#t=859s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "6BF50847-00E5-F011-8543-001DD80F73A3",
+    "date": "2026-01-14",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1154385301",
+      "first_mention_sec": 847,
+      "video_url": "https://vimeo.com/1154385301#t=847s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7E187841-20E0-F011-8543-001DD80F73A3",
+    "date": "2026-01-14",
+    "body": "Committee on Finance",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1154082574",
+      "first_mention_sec": 1293,
+      "video_url": "https://vimeo.com/1154082574#t=1293s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1724C105-C6EC-F011-8543-001DD80F73A3",
+    "date": "2026-01-15",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1154428727",
+      "first_mention_sec": 846,
+      "video_url": "https://vimeo.com/1154428727#t=846s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "50866F51-63DF-F011-8543-001DD80E9311",
+    "date": "2026-01-21",
+    "body": "City Council",
+    "mentions": 15,
+    "videos": [
+     {
+      "video_id": "1156547113",
+      "first_mention_sec": 1137,
+      "video_url": "https://vimeo.com/1156547113#t=1137s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AF1AB75E-90F1-F011-8406-001DD808A8BA",
+    "date": "2026-01-22",
+    "body": "Committee on Contracting Oversight and Equity",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1156952041",
+      "first_mention_sec": 1232,
+      "video_url": "https://vimeo.com/1156952041#t=1232s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "80E7988D-89F0-F011-8406-001DD8080B41",
+    "date": "2026-01-27",
+    "body": "Joint Committee: Police and Fire; Immigrant and Refugee Rights",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1156605301",
+      "first_mention_sec": 1437,
+      "video_url": "https://vimeo.com/1156605301#t=1437s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "40B243BF-FDF6-F011-8406-001DD8080DE8",
+    "date": "2026-02-09",
+    "body": "Committee on Finance",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1161514473",
+      "first_mention_sec": 1148,
+      "video_url": "https://vimeo.com/1161514473#t=1148s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C3D0B4DA-67F1-F011-8406-001DD80E69F9",
+    "date": "2026-02-10",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1163382552",
+      "first_mention_sec": 2900,
+      "video_url": "https://vimeo.com/1163382552#t=2900s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "28A92C38-FEF6-F011-8406-001DD8080DE8",
+    "date": "2026-02-11",
+    "body": "Committee on Finance",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1163741392",
+      "first_mention_sec": 719,
+      "video_url": "https://vimeo.com/1163741392#t=719s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7BC74AA7-97FB-F011-8406-001DD80659B2",
+    "date": "2026-02-11",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1163709847",
+      "first_mention_sec": 1180,
+      "video_url": "https://vimeo.com/1163709847#t=1180s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E95A75BD-7FFC-F011-8406-001DD802EB92",
+    "date": "2026-02-11",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1164068956",
+      "first_mention_sec": 1157,
+      "video_url": "https://vimeo.com/1164068956#t=1157s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "8FE7FA9B-6307-F111-8406-001DD80D6961",
+    "date": "2026-02-17",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 9,
+    "videos": [
+     {
+      "video_id": "1164087404",
+      "first_mention_sec": 10078,
+      "video_url": "https://vimeo.com/1164087404#t=10078s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AADBA854-DDF6-F011-8406-001DD8080DE8",
+    "date": "2026-02-18",
+    "body": "City Council",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1165773679",
+      "first_mention_sec": 1123,
+      "video_url": "https://vimeo.com/1165773679#t=1123s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4C319AF6-F3FA-F011-8406-001DD8065D06",
+    "date": "2026-02-27",
+    "body": "Committee on Finance",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1166129365",
+      "first_mention_sec": 1126,
+      "video_url": "https://vimeo.com/1166129365#t=1126s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D321DF7B-AB18-F111-8406-001DD8131156",
+    "date": "2026-03-11",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1172267409",
+      "first_mention_sec": 718,
+      "video_url": "https://vimeo.com/1172267409#t=718s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "0C8CDB34-CD18-F111-8406-001DD803E075",
+    "date": "2026-03-12",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1172257730",
+      "first_mention_sec": 2796,
+      "video_url": "https://vimeo.com/1172257730#t=2796s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AC27D13B-DD0D-F111-8406-001DD812D049",
+    "date": "2026-03-12",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1172608190",
+      "first_mention_sec": 1962,
+      "video_url": "https://vimeo.com/1172608190#t=1962s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "181D2049-A90E-F111-8406-001DD812D049",
+    "date": "2026-03-13",
+    "body": "Committee on Police and Fire",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1173376218",
+      "first_mention_sec": 839,
+      "video_url": "https://vimeo.com/1173376218#t=839s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "878867BD-7719-F111-8406-001DD8131156",
+    "date": "2026-03-13",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1173343297",
+      "first_mention_sec": 614,
+      "video_url": "https://vimeo.com/1173343297#t=614s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E9AEA222-150D-F111-8406-001DD802B467",
+    "date": "2026-03-13",
+    "body": "Committee on Finance",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1173329934",
+      "first_mention_sec": 928,
+      "video_url": "https://vimeo.com/1173329934#t=928s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+    "date": "2026-03-18",
+    "body": "City Council",
+    "mentions": 15,
+    "videos": [
+     {
+      "video_id": "1174131349",
+      "first_mention_sec": 1543,
+      "video_url": "https://vimeo.com/1174131349#t=1543s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "399FDDD0-930E-F111-8406-001DD80AE07E",
+    "date": "2026-03-26",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1177009067",
+      "first_mention_sec": 2952,
+      "video_url": "https://vimeo.com/1177009067#t=2952s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "3A6EB792-F329-F111-8341-001DD80A85F4",
+    "date": "2026-04-02",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1178507165",
+      "first_mention_sec": 654,
+      "video_url": "https://vimeo.com/1178507165#t=654s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1C0D3484-6828-F111-8341-001DD80A85F4",
+    "date": "2026-04-08",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1173389738",
+      "first_mention_sec": 2230,
+      "video_url": "https://vimeo.com/1173389738#t=2230s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5219473A-452D-F111-8341-001DD80A9E34",
+    "date": "2026-04-08",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1180915184",
+      "first_mention_sec": 602,
+      "video_url": "https://vimeo.com/1180915184#t=602s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "A2CA6694-E426-F111-8341-001DD803F9B1",
+    "date": "2026-04-09",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1181263448",
+      "first_mention_sec": 1396,
+      "video_url": "https://vimeo.com/1181263448#t=1396s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2328D8AA-B027-F111-8341-001DD80F4002",
+    "date": "2026-04-13",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1182706655",
+      "first_mention_sec": 5942,
+      "video_url": "https://vimeo.com/1182706655#t=5942s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "33C733F6-882F-F111-8341-001DD80A9E34",
+    "date": "2026-04-13",
+    "body": "Committee on Finance",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1181636251",
+      "first_mention_sec": 684,
+      "video_url": "https://vimeo.com/1181636251#t=684s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2EA74F29-8923-F111-8341-001DD80B1275",
+    "date": "2026-04-15",
+    "body": "City Council",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1183109138",
+      "first_mention_sec": 1672,
+      "video_url": "https://vimeo.com/1183109138#t=1672s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "702A4EF9-C43D-F111-88B3-001DD80B0E39",
+    "date": "2026-04-27",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1183827336",
+      "first_mention_sec": 1114,
+      "video_url": "https://vimeo.com/1183827336#t=1114s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1827BD4C-0C40-F111-88B3-001DD80B0E39",
+    "date": "2026-05-04",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1187052202",
+      "first_mention_sec": 1163,
+      "video_url": "https://vimeo.com/1187052202#t=1163s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "07E23CA8-1E40-F111-88B3-001DD80B0E39",
+    "date": "2026-05-05",
+    "body": "Joint Committee: Budget; Police and Fire",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1189151784",
+      "first_mention_sec": 1802,
+      "video_url": "https://vimeo.com/1189151784#t=1802s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "EA91B723-7342-F111-88B4-001DD8033B18",
+    "date": "2026-05-06",
+    "body": "Committee on Police and Fire",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1189492760",
+      "first_mention_sec": 987,
+      "video_url": "https://vimeo.com/1189492760#t=987s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5E9E0EC9-F443-F111-88B4-001DD8033B18",
+    "date": "2026-05-11",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1189863897",
+      "first_mention_sec": 1541,
+      "video_url": "https://vimeo.com/1189863897#t=1541s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "6CF0C894-9245-F111-88B4-001DD80B0E39",
+    "date": "2026-05-13",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1191645867",
+      "first_mention_sec": 865,
+      "video_url": "https://vimeo.com/1191645867#t=865s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "74067F41-E043-F111-88B4-001DD8033B18",
+    "date": "2026-05-13",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1191989016",
+      "first_mention_sec": 855,
+      "video_url": "https://vimeo.com/1191989016#t=855s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "82BEA782-A939-F111-88B3-001DD8033B18",
+    "date": "2026-05-13",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1191621840",
+      "first_mention_sec": 1043,
+      "video_url": "https://vimeo.com/1191621840#t=1043s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C697D77E-7D49-F111-88B4-001DD80B0E39",
+    "date": "2026-05-13",
+    "body": "Joint Committee:  Budget and Government Operations; Economic, Capital and Technology Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1191962913",
+      "first_mention_sec": 2043,
+      "video_url": "https://vimeo.com/1191962913#t=2043s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "445A64C7-1039-F111-88B3-001DD8033B18",
+    "date": "2026-05-18",
+    "body": "Committee on Finance",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1192012038",
+      "first_mention_sec": 1000,
+      "video_url": "https://vimeo.com/1192012038#t=1000s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "F43BB2B1-4242-F111-88B4-001DD80B0E39",
+    "date": "2026-05-18",
+    "body": "Committee on Contracting Oversight and Equity",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1193324942",
+      "first_mention_sec": 578,
+      "video_url": "https://vimeo.com/1193324942#t=578s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DD545403-E53C-F111-88B3-001DD80B0E39",
+    "date": "2026-05-19",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 17,
+    "videos": [
+     {
+      "video_id": "1193355557",
+      "first_mention_sec": 2787,
+      "video_url": "https://vimeo.com/1193355557#t=2787s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "CE41BA5E-FF38-F111-88B3-001DD8033B18",
+    "date": "2026-05-20",
+    "body": "City Council",
+    "mentions": 23,
+    "videos": [
+     {
+      "video_id": "1193694170",
+      "first_mention_sec": 1542,
+      "video_url": "https://vimeo.com/1193694170#t=1542s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "0DD3E244-044E-F111-BEC6-001DD80B0E39",
+    "date": "2026-05-26",
+    "body": "Joint Committee: Police and Fire; Ethics and Government Oversight",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1193697138",
+      "first_mention_sec": 1440,
+      "video_url": "https://vimeo.com/1193697138#t=1440s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E5CB2C3F-3955-F111-BEC6-001DD8033B18",
+    "date": "2026-06-09",
+    "body": "Committee on License and Consumer Protection",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1199824423",
+      "first_mention_sec": 1306,
+      "video_url": "https://vimeo.com/1199824423#t=1306s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "39D621DE-1A59-F111-BEC5-001DD80C412B",
+    "date": "2026-06-10",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1199872272",
+      "first_mention_sec": 1276,
+      "video_url": "https://vimeo.com/1199872272#t=1276s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "3E5CBC21-F359-F111-BEC5-001DD80C412B",
+    "date": "2026-06-10",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1200159992",
+      "first_mention_sec": 1550,
+      "video_url": "https://vimeo.com/1200159992#t=1550s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "29B731BD-4755-F111-BEC6-001DD80B0E39",
+    "date": "2026-06-11",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1200176629",
+      "first_mention_sec": 2812,
+      "video_url": "https://vimeo.com/1200176629#t=2812s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7C5833BC-5060-F111-BEC5-001DD80012DB",
+    "date": "2026-06-15",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1200557018",
+      "first_mention_sec": 914,
+      "video_url": "https://vimeo.com/1200557018#t=914s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C171A4A5-3F55-F111-BEC5-001DD801AB0F",
+    "date": "2026-06-15",
+    "body": "Committee on Finance",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1200527375",
+      "first_mention_sec": 4943,
+      "video_url": "https://vimeo.com/1200527375#t=4943s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E677DA7E-4F55-F111-BEC6-001DD80B0E39",
+    "date": "2026-06-16",
+    "body": "Committee on Zoning, Landmarks and Building Standards",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1201520564",
+      "first_mention_sec": 7719,
+      "video_url": "https://vimeo.com/1201520564#t=7719s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "73347594-0E55-F111-BEC6-001DD80B0E39",
+    "date": "2026-06-17",
+    "body": "City Council",
+    "mentions": 24,
+    "videos": [
+     {
+      "video_id": "1201890835",
+      "first_mention_sec": 5234,
+      "video_url": "https://vimeo.com/1201890835#t=5234s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "936C4F51-EA60-F111-BEC5-001DD8001CD7",
+    "date": "2026-06-25",
+    "body": "Committee on Finance",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1204299658",
+      "first_mention_sec": 1527,
+      "video_url": "https://vimeo.com/1204299658#t=1527s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E665005F-5B6E-F111-AB0C-001DD8007078",
+    "date": "2026-06-29",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1204641833",
+      "first_mention_sec": 1459,
+      "video_url": "https://vimeo.com/1204641833#t=1459s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C475AF0E-EE64-F111-A823-001DD806162C",
+    "date": "2026-06-30",
+    "body": "Committee on Police and Fire",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1205553939",
+      "first_mention_sec": 1165,
+      "video_url": "https://vimeo.com/1205553939#t=1165s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "C462FEBC-A474-F111-AB0C-001DD81325B3",
+    "date": "2026-07-08",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1207872522",
+      "first_mention_sec": 934,
+      "video_url": "https://vimeo.com/1207872522#t=934s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E375BA07-406F-F111-AB0C-001DD80F88E2",
+    "date": "2026-07-08",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1208145395",
+      "first_mention_sec": 970,
+      "video_url": "https://vimeo.com/1208145395#t=970s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "9750AC6C-396F-F111-AB0C-001DD808E0AF",
+    "date": "2026-07-09",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1208175670",
+      "first_mention_sec": 1656,
+      "video_url": "https://vimeo.com/1208175670#t=1656s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "46526B3A-3D79-F111-AB0D-001DD8066831",
+    "date": "2026-07-13",
+    "body": "Committee on Finance",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1208548404",
+      "first_mention_sec": 1118,
+      "video_url": "https://vimeo.com/1208548404#t=1118s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "258CB191-607C-F111-AB0D-001DD80C6696",
+    "date": "2026-07-14",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 6,
+    "videos": [
+     {
+      "video_id": "1209660651",
+      "first_mention_sec": 2434,
+      "video_url": "https://vimeo.com/1209660651#t=2434s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "7885112A-5D76-F111-AB0C-001DD80EDD69",
+    "date": "2026-07-14",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 8,
+    "videos": [
+     {
+      "video_id": "1209921736",
+      "first_mention_sec": 861,
+      "video_url": "https://vimeo.com/1209921736#t=861s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "DF5C52EA-0D6B-F111-A823-001DD8019941",
+    "date": "2026-07-15",
+    "body": "City Council",
+    "mentions": 25,
+    "videos": [
+     {
+      "video_id": "1209979957",
+      "first_mention_sec": 2146,
+      "video_url": "https://vimeo.com/1209979957#t=2146s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "B2E99313-3D76-F111-AB0C-001DD80BE073",
+    "date": "2026-07-16",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1210310337",
+      "first_mention_sec": 989,
+      "video_url": "https://vimeo.com/1210310337#t=989s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AA0648B8-8A80-F111-AB0E-001DD80216AA",
+    "date": "2026-07-22",
+    "body": "City Council",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1210889386",
+      "first_mention_sec": 148,
+      "video_url": "https://vimeo.com/1210889386#t=148s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "37BFBB2C-128D-F111-AB0F-001DD8022103",
+    "date": "2026-09-09",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1209984898",
+      "first_mention_sec": 313,
+      "video_url": "https://vimeo.com/1209984898#t=313s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "84EA0F1F-0886-F111-AB0E-001DD80BE3C0",
+    "date": "2026-09-15",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1225368422",
+      "first_mention_sec": 2530,
+      "video_url": "https://vimeo.com/1225368422#t=2530s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "9E52303E-7387-F111-AB0E-001DD80BE3C0",
+    "date": "2026-09-16",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 9,
+    "videos": [
+     {
+      "video_id": "1227112522",
+      "first_mention_sec": 1071,
+      "video_url": "https://vimeo.com/1227112522#t=1071s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "1AF98496-3D97-F111-AB0E-001DD80E4FDE",
+    "date": "2026-09-22",
+    "body": "Committee on Contracting Oversight and Equity",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1229230583",
+      "first_mention_sec": 1381,
+      "video_url": "https://vimeo.com/1229230583#t=1381s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "AA65B062-89A8-F111-B8DD-001DD803894A",
+    "date": "2026-09-22",
+    "body": "Committee on Police and Fire",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1227831734",
+      "first_mention_sec": 864,
+      "video_url": "https://vimeo.com/1227831734#t=864s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "5F86622E-F485-F111-AB0E-001DD80ED7AA",
+    "date": "2026-09-23",
+    "body": "City Council",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1229341127",
+      "first_mention_sec": 1556,
+      "video_url": "https://vimeo.com/1229341127#t=1556s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "FB63A09D-D9B6-F111-AAAC-001DD80AA3CC",
+    "date": "2026-09-24",
+    "body": "Committee on Finance",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1229670520",
+      "first_mention_sec": 911,
+      "video_url": "https://vimeo.com/1229670520#t=911s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E9ED48EE-61B7-F111-AAAC-001DD803894A",
+    "date": "2026-09-25",
+    "body": "City Council",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1229992624",
+      "first_mention_sec": 1541,
+      "video_url": "https://vimeo.com/1229992624#t=1541s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "E9154AB7-96B7-F111-AAAC-001DD803894A",
+    "date": "2026-09-29",
+    "body": "City Council",
+    "mentions": 17,
+    "videos": [
+     {
+      "video_id": "1230273462",
+      "first_mention_sec": 1684,
+      "video_url": "https://vimeo.com/1230273462#t=1684s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "266A5A62-53B8-F111-AAAC-001DD80AA3CC",
+    "date": "2026-10-05",
+    "body": "Committee on Finance",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1232129590",
+      "first_mention_sec": 811,
+      "video_url": "https://vimeo.com/1232129590#t=811s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "35130D9B-B7A7-F111-B8DD-001DD80B58E5",
+    "date": "2026-10-07",
+    "body": "Joint Committee: Public Safety; Police and Fire",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1233832827",
+      "first_mention_sec": 34,
+      "video_url": "https://vimeo.com/1233832827#t=34s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "D36223D9-04B9-F111-AAAC-001DD80B58E5",
+    "date": "2026-10-07",
+    "body": "Committee on Transportation and Public Way",
+    "mentions": 9,
+    "videos": [
+     {
+      "video_id": "1233117771",
+      "first_mention_sec": 1874,
+      "video_url": "https://vimeo.com/1233117771#t=1874s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "251A0456-0CB9-F111-AAAC-001DD80FDAD3",
+    "date": "2026-10-08",
+    "body": "Committee on Economic, Capital and Technology Development",
+    "mentions": 11,
+    "videos": [
+     {
+      "video_id": "1234158910",
+      "first_mention_sec": 320,
+      "video_url": "https://vimeo.com/1234158910#t=320s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4C6D0E57-8EB7-F111-AAAC-001DD80AA3CC",
+    "date": "2026-10-08",
+    "body": "Committee on Housing and Real Estate",
+    "mentions": 4,
+    "videos": [
+     {
+      "video_id": "1233831459",
+      "first_mention_sec": 1558,
+      "video_url": "https://vimeo.com/1233831459#t=1558s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "62158D66-D2C0-F111-AAAE-001DD80AA3CC",
+    "date": "2026-10-13",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1235540637",
+      "first_mention_sec": 18,
+      "video_url": "https://vimeo.com/1235540637#t=18s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "63DD2BFA-6DBE-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-13",
+    "body": "Committee on Finance",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1235504794",
+      "first_mention_sec": 343,
+      "video_url": "https://vimeo.com/1235504794#t=343s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-14",
+    "body": "City Council",
+    "mentions": 21,
+    "videos": [
+     {
+      "video_id": "1235564993",
+      "first_mention_sec": 1194,
+      "video_url": "https://vimeo.com/1235564993#t=1194s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "6AC88818-A8C8-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-20",
+    "body": "Committee on Contracting Oversight and Equity",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1236296809",
+      "first_mention_sec": 577,
+      "video_url": "https://vimeo.com/1236296809#t=577s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "6AE8B3E3-86C9-F111-AAAE-001DD80FDA55",
+    "date": "2026-10-21",
+    "body": "City Council",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1237727064",
+      "first_mention_sec": 8352,
+      "video_url": "https://vimeo.com/1237727064#t=8352s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "54F057FC-81CC-F111-A05C-001DD80B58E5",
+    "date": "2026-10-23",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 3,
+    "videos": [
+     {
+      "video_id": "1238089923",
+      "first_mention_sec": 2019,
+      "video_url": "https://vimeo.com/1238089923#t=2019s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "4E4F726A-90C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-26",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1238928881",
+      "first_mention_sec": 1024,
+      "video_url": "https://vimeo.com/1238928881#t=1024s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "2D73B4D3-91C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-28",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 1,
+    "videos": [
+     {
+      "video_id": "1240029984",
+      "first_mention_sec": 22161,
+      "video_url": "https://vimeo.com/1240029984#t=22161s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "31EFF839-92C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-10-29",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 7,
+    "videos": [
+     {
+      "video_id": "1240513369",
+      "first_mention_sec": 2879,
+      "video_url": "https://vimeo.com/1240513369#t=2879s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "481E7A8F-2BD2-F111-A05C-001DD80B58E5",
+    "date": "2026-11-02",
+    "body": "City Council",
+    "mentions": 5,
+    "videos": [
+     {
+      "video_id": "1241090076",
+      "first_mention_sec": 869,
+      "video_url": "https://vimeo.com/1241090076#t=869s"
+     }
+    ]
+   },
+   {
+    "meeting_id": "62AEBFEC-93C9-F111-AAAE-001DD80B58E5",
+    "date": "2026-11-06",
+    "body": "Committee on Budget and Government Operations",
+    "mentions": 2,
+    "videos": [
+     {
+      "video_id": "1244025929",
+      "first_mention_sec": 9182,
+      "video_url": "https://vimeo.com/1244025929#t=9182s"
+     }
+    ]
+   }
+  ]
+ }
+}

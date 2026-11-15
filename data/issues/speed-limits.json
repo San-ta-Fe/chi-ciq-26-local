@@ -1,0 +1,534 @@
+{
+ "name": "Speed Limits",
+ "slug": "speed-limits",
+ "description": "Establishing reduced speed limitations on residential and commercial streets citywide.",
+ "queries": [
+  "speed limitation ordinance",
+  "reduce speed limit streets",
+  "speed humps limit 2026"
+ ],
+ "title_keywords": [
+  "Speed limitation",
+  "speed limitation at portions"
+ ],
+ "status": "voted",
+ "summary": "The contested/citywide discussion centered on whether stop signs and speed-control measures on residential streets comply with MUTCD warrants, with a speaker at the 2026-06-09 Committee on Pedestrian and Traffic Safety meeting urging the committee to stop approving unwarranted residential stop-sign control based on CDOT boilerplate [2]. Committee discussion on 2026-02-09 covered citywide Complete Streets, Neighborhood Greenways with typical 20 mph limits on residential streets, and safety work on arterial/commercial corridors [1], while public comment raised concerns about speeding, speed cameras, and enforcement [3]. The specific decisions were street-level 20 mph speed-limit ordinances: twelve measures (e.g., O2026-0024946 introduced 2026-04-15, and O2026-0025966 through O2026-0025988 introduced 2026-06-09) passed City Council 49 Yea / 0 Nay on 2026-06-17, and three more (O2026-0026630, O2026-0026640, O2026-0026642, introduced 2026-07-07) passed 49 Yea / 0 Nay on 2026-07-15. Agendas for the 2026-06-09 and 2026-07-07 committee meetings list these speed limitations as direct introductions [9][10][11][12]. Still open is any broader citywide reduced-speed policy: at the 2026-10-09 committee, a member expressed support for citywide measures but sought CDOT coordination on business-district design [5], and no citywide speed-limit ordinance appears in the record trail.",
+ "one_line": "Street-level 20 mph speed limits passed 49-0; citywide residential speed policy and stop-sign warrant compliance remain unresolved.",
+ "cited_excerpts": [
+  1,
+  2,
+  3,
+  5,
+  9,
+  10,
+  11,
+  12
+ ],
+ "records_cited_not_in_trail": [],
+ "trail": [
+  {
+   "record_number": "O2026-0024946",
+   "title": "Speed limitation at W Wellington Ave from N Leavitt St to N Racine Ave - 20 mph",
+   "sponsor": "Waguespack, Scott",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0024946",
+   "title": "Speed limitation at W Wellington Ave from N Leavitt St to N Racine Ave - 20 mph",
+   "sponsor": "Waguespack, Scott",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025966",
+   "title": "Speed limitation at portions of N Rockwell St, N Avondale Ave and W Schubert Ave - 20 mph",
+   "sponsor": "La Spata, Daniel",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025966",
+   "title": "Speed limitation at portions of N Rockwell St, N Avondale Ave and W Schubert Ave - 20 mph",
+   "sponsor": "La Spata, Daniel",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025971",
+   "title": "Speed limitation at portions of W Berteau Ave, from N Narragansett Ave to N Central Ave, and from N Laramie Ave to N Dickinson Ave - 20 mph",
+   "sponsor": "Sposato, Nicholas",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025971",
+   "title": "Speed limitation at portions of W Berteau Ave, from N Narragansett Ave to N Central Ave, and from N Laramie Ave to N Dickinson Ave - 20 mph",
+   "sponsor": "Sposato, Nicholas",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025973",
+   "title": "Speed limitation at portions of N California Ave from W Roscoe St to W Addison St - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025973",
+   "title": "Speed limitation at portions of N California Ave from W Roscoe St to W Addison St - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025975",
+   "title": "Speed limitation at portions of W Grace St from N Kedzie Ave to N Mozart St - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025975",
+   "title": "Speed limitation at portions of W Grace St from N Kedzie Ave to N Mozart St - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025979",
+   "title": "Speed limitation at portions of N Whipple St, W Cornelia Ave and N Sacramento Ave - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025979",
+   "title": "Speed limitation at portions of N Whipple St, W Cornelia Ave and N Sacramento Ave - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025983",
+   "title": "Speed limitation at portions of W Grace St from N Albany Ave to N California Ave - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025983",
+   "title": "Speed limitation at portions of W Grace St from N Albany Ave to N California Ave - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025984",
+   "title": "Speed limitation at portions of N Sacramento Ave from W Addison St to W Grace St - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025984",
+   "title": "Speed limitation at portions of N Sacramento Ave from W Addison St to W Grace St - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0025988",
+   "title": "Speed limitation at portions of W Berteau Ave, W Hutchinson St and N Long Ave - 20 mph",
+   "sponsor": "Gardiner, James M.",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0025988",
+   "title": "Speed limitation at portions of W Berteau Ave, W Hutchinson St and N Long Ave - 20 mph",
+   "sponsor": "Gardiner, James M.",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "06-09-26 P&TS Summary Report.pdf, p. 12",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7dc4a456-4f2c-4b5f-b99a-6cd47ffad99d.pdf"
+  },
+  {
+   "record_number": "O2026-0024946",
+   "title": "Speed limitation at W Wellington Ave from N Leavitt St to N Racine Ave - 20 mph",
+   "sponsor": "Waguespack, Scott",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025966",
+   "title": "Speed limitation at portions of N Rockwell St, N Avondale Ave and W Schubert Ave - 20 mph",
+   "sponsor": "La Spata, Daniel",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025971",
+   "title": "Speed limitation at portions of W Berteau Ave, from N Narragansett Ave to N Central Ave, and from N Laramie Ave to N Dickinson Ave - 20 mph",
+   "sponsor": "Sposato, Nicholas",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025973",
+   "title": "Speed limitation at portions of N California Ave from W Roscoe St to W Addison St - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025975",
+   "title": "Speed limitation at portions of W Grace St from N Kedzie Ave to N Mozart St - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025979",
+   "title": "Speed limitation at portions of N Whipple St, W Cornelia Ave and N Sacramento Ave - 20 mph",
+   "sponsor": "Rodriguez Sanchez, Rossana",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025983",
+   "title": "Speed limitation at portions of W Grace St from N Albany Ave to N California Ave - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025984",
+   "title": "Speed limitation at portions of N Sacramento Ave from W Addison St to W Grace St - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025988",
+   "title": "Speed limitation at portions of W Berteau Ave, W Hutchinson St and N Long Ave - 20 mph",
+   "sponsor": "Gardiner, James M.",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026257",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0026630",
+   "title": "Speed limitation at portions of W 65th St, W 65th Pl, W. 66th St, W 66th Pl, W Marquette Rd, W 69th St, W 70th St, S Harvard Ave, S Stewart Ave, S Normal Blvd, S Parnell Ave and S Eggleston Ave - 20 mph",
+   "sponsor": "Hall, William E.",
+   "date": "2026-07-07",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0026630",
+   "title": "Speed limitation at portions of W 65th St, W 65th Pl, W. 66th St, W 66th Pl, W Marquette Rd, W 69th St, W 70th St, S Harvard Ave, S Stewart Ave, S Normal Blvd, S Parnell Ave and S Eggleston Ave - 20 mph",
+   "sponsor": "Hall, William E.",
+   "date": "2026-07-07",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 11",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c663652f-ba33-4c00-890d-5baf22002bb7.pdf"
+  },
+  {
+   "record_number": "O2026-0026640",
+   "title": "Speed limitation at N California Ave from W Roscoe St to W Addison St - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-07-07",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0026640",
+   "title": "Speed limitation at N California Ave from W Roscoe St to W Addison St - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-07-07",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 11",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c663652f-ba33-4c00-890d-5baf22002bb7.pdf"
+  },
+  {
+   "record_number": "O2026-0026642",
+   "title": "Speed limitation at N Kedzie Ave from W Schubert Ave to W Diversey Ave - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-07-07",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Pedestrian and Traffic Safety"
+  },
+  {
+   "record_number": "O2026-0026642",
+   "title": "Speed limitation at N Kedzie Ave from W Schubert Ave to W Diversey Ave - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-07-07",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 11",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c663652f-ba33-4c00-890d-5baf22002bb7.pdf"
+  },
+  {
+   "record_number": "O2026-0026630",
+   "title": "Speed limitation at portions of W 65th St, W 65th Pl, W. 66th St, W 66th Pl, W Marquette Rd, W 69th St, W 70th St, S Harvard Ave, S Stewart Ave, S Normal Blvd, S Parnell Ave and S Eggleston Ave - 20 mph",
+   "sponsor": "Hall, William E.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026843",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0026640",
+   "title": "Speed limitation at N California Ave from W Roscoe St to W Addison St - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026843",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0026642",
+   "title": "Speed limitation at N Kedzie Ave from W Schubert Ave to W Diversey Ave - 20 mph",
+   "sponsor": "Quezada, Anthony J.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "Passed as input to Substitute SO2026-0026843",
+   "tally": "49 Yea / 0 Nay"
+  }
+ ],
+ "trail_records": 12,
+ "citywide_records": 0,
+ "unverified_in_summary": [],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1161566002-5325",
+   "date": "2026-02-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "video_url": "https://vimeo.com/1161566002#t=5325s",
+   "at": "1:28:45",
+   "n": 1,
+   "snippet": "a reduction in speeding. So when we implement Complete Streets, people are start driving at safer speeds on South Halstead, as an example. Uh, 77% reduction in drivers exceeding the speed limit. Um, and we see more people walking. We see more people riding a bicycle. We're giving people options for "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1198513547-1616",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "video_url": "https://vimeo.com/1198513547#t=1616s",
+   "at": "0:26:56",
+   "n": 2,
+   "snippet": "\"Standard stop signs shall not be used for speed control.\" Because the MUTCD authors realize that the excessive use of stop sign control at residential street intersections, like that on many Chicago residential street intersections, diminishes the effectiveness of stop signs that are properly warra"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1161566002-2025",
+   "date": "2026-02-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "video_url": "https://vimeo.com/1161566002#t=2025s",
+   "at": "0:33:45",
+   "n": 3,
+   "snippet": "through traffic, through against crime, against everything. And I see a lot of people drive their ve vehicle past the speed limits. They, I see them pass, you know, riding bikes against traffic all the time. I see them drive four wheelers up and down on Roosevelt Avenue, but you barely see the polic"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1229341127-18154",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=18154s",
+   "at": "5:02:34",
+   "n": 4,
+   "snippet": "should utilize North/South Western Avenue from West Howard to West 79th Street as bus rapid transit, which is referred to the Committee on Committees and Rules. Alderperson Burnett has proposed an ordinance for amendment of Municipal Code Chapter 9-64 by adding a new section, 9-64-195, establishing "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1234177208-8515",
+   "date": "2026-10-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "video_url": "https://vimeo.com/1234177208#t=8515s",
+   "at": "2:21:55",
+   "n": 5,
+   "snippet": "And when we bring that matter back after its deferral, I would hope you will all join me in trying to protect the pedestrians of Chicago from being hurt on Michigan Avenue by someone slaloming down on a scooter doing 20 miles an hour. Thank you. Sir, I just want to say, both on the last item and on "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1235564993-14400",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=14400s",
+   "at": "4:00:00",
+   "n": 6,
+   "snippet": "on the summary reports. There are 11 ordinances regarding liquor moratoriums in the sixth, 25th, 28th, 30th, 31st, 33rd, 34th, 35th, and 48th wards. Item number 39 was a substitute ordinance. I move passage of these items by the same motion if there's no objection. Hearing none, so ordered. Mr. Pres"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1183109138-13535",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=13535s",
+   "at": "3:45:35",
+   "n": 7,
+   "snippet": "Street, which is referred to the Committee on Zoning, Landmarks, and Building Standards.Alderperson Irvin also has proposed ordinance for amendment of municipal code Title 17 by modifying Section 17-3-0207 to prohibit issuance of permits for gas stations in B3, C1, and C2 zoning districts, and by mo"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1193355557-4056",
+   "date": "2026-05-19",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "video_url": "https://vimeo.com/1193355557#t=4056s",
+   "at": "1:07:36",
+   "n": 8,
+   "snippet": "O2026-0024923, an ordinance introduced by Alderman Irvin that amends municipal code Title 17 by modifying Section 17-3-0207 to prohibit the issuance of permits for gas stations in B3, C1, and C2 zoning districts and modifying Section 17-9-0109 to prohibit new gas stations within 1,000 feet of an exi"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-69f03932b6dd591c-3",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "doc_name": "P&TS Committee AGENDA - JUNE 2026.pdf",
+   "page": 3,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/28a00e25-0590-4a90-8dc5-d453084f22ea.pdf",
+   "n": 9,
+   "snippet": "DIRECT INTRODUCTIONS\nITEM WARD SPEED LIMITATIONS \u2013 CONT\u2019D:\n\n1 35 West Grace Street from North Albany Avenue to North California Avenue; Speed\n Limitation \u2013 20 miles per hour\n\n2 38 West Berteau Avenue from North Narragansett Avenue to North Central Avenue\n and from North Laramie Avenue to North Dicke"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-196a9488782c5048-3",
+   "date": "2026-06-09",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "doc_name": "P&TS Committee AMENDED AGENDA JUNE 2026.pdf",
+   "page": 3,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/9b3f4101-d9cf-43d1-a80a-c75b015818d3.pdf",
+   "n": 10,
+   "snippet": "DIRECT INTRODUCTIONS\nITEM WARD SPEED LIMITATIONS \u2013 CONT\u2019D:\n\n1 35 North Sacramento Avenue from West Addison Street to West Grace Street;\n Speed Limitation \u2013 20 miles per hour [O2026-0025984]\n\n2 38 West Berteau Avenue from North Narragansett Avenue to North Central Avenue\n and from North Laramie Avenu"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-34717436127da928-2",
+   "date": "2026-07-07",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "doc_name": "P&TS Committee AMENDED AGENDA JULY 2026.pdf",
+   "page": 2,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2920030c-725b-4dfb-a014-9eb338a957ef.pdf",
+   "n": 11,
+   "snippet": "from South Parnell Avenue to South Stewart Avenue;\n West 65th Place from South Parnell Avenue to South Harvard Avenue;\n West 65th Street from South Parnell Avenue to South Stewart Avenue;\n Speed Limitations \u2013 20 miles per hour [O2026-0026630]\n\n8 35 North California Avenue from West Roscoe Street to "
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-7fa4ef5ede861a95-2",
+   "date": "2026-07-07",
+   "body": "Committee on Pedestrian and Traffic Safety",
+   "doc_name": "P&TS Committee FINAL AGENDA JULY 2026.pdf",
+   "page": 2,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2082b4a2-4d90-4eff-9bfe-1493cc64df35.pdf",
+   "n": 12,
+   "snippet": "from South Parnell Avenue to South Stewart Avenue;\n West 65th Place from South Parnell Avenue to South Harvard Avenue;\n West 65th Street from South Parnell Avenue to South Stewart Avenue;\n Speed Limitations \u2013 20 miles per hour [O2026-0026630]\n\n8 35 North California Avenue from West Roscoe Street to "
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}

@@ -1,0 +1,446 @@
+{
+ "name": "Housing and Homelessness",
+ "slug": "housing-and-homelessness",
+ "description": "Affordable housing reporting, senior facility sales, and multi-family housing funding.",
+ "queries": [
+  "homelessness affordable housing report",
+  "multi-family housing funds",
+  "senior living facility sale"
+ ],
+ "title_keywords": [
+  "homelessness and affordable housing",
+  "multi-family program funds",
+  "senior living facility",
+  "residential housing project"
+ ],
+ "status": "voted",
+ "summary": "The citywide homelessness and affordable housing reporting ordinance O2026-0024022 was held in committee on 2026-04-08 [9], then passed committee on 2026-05-13 [10] and City Council 50 Yea / 0 Nay on 2026-05-20; it repeals Sections 2-44-070 and 2-50-085, adds Section 2-4-130, and shifts the annual homelessness report from DFSS/DOH under now-defunct USICH principles to the Mayor's Office of Homelessness under the Five-Year Blueprint, with reports due to the Committee on Housing and Real Estate each August 31 [1][3]. The sale and transfer of the Heritage Woods senior living facility at 2800-2822 W Fulton St and 300-326 N California Ave to High Point Residence Chicago West Realty LLC (affiliated with Vantage Senior Care) passed committee as a substitute on 2026-07-08 [11] and City Council 49 Yea / 0 Nay on 2026-07-15, with the 113-unit supportive living facility keeping all non-manager units at 50% AMI and about $3.3 million in City debt repaid at closing [5]. Multiple multi-family funding ordinances passed City Council with 50-0 or 49-0 tallies: SO2026-0024073 (HUB32, 2026-04-15), O2026-0024884 and O2026-0024885 (3959 N Lincoln Ave, 2026-05-20), O2026-0025467 (Abrams Intergenerational Village, up to $3.25 million multifamily and $13 million TIF, 2026-06-17) [6], and O2026-0028750 (Harvest Homes II, 2026-10-14). A 2026-07-08 subject matter hearing on the Flexible Housing Pool by the Center for Housing and Health took no vote [11], and public comment that day urged full funding of the pool and opposed a renters/rental registry ordinance pending a forensic audit of housing spending [4]. A 2026-01-14 briefing on the Five-Year Blueprint on homelessness presented point-in-time count data and plans to work with the CTA on overnight stays, with no vote recorded [2]. Still open are Flexible Housing Pool funding and any action on the rental registry concerns raised in comment [4][11].",
+ "one_line": "Council shifted homelessness reporting to the Mayor's Office, approved Heritage Woods sale and several multifamily funding ordinances; Flexible Housing Pool funding remains open.",
+ "cited_excerpts": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  9,
+  10,
+  11
+ ],
+ "records_cited_not_in_trail": [],
+ "trail": [
+  {
+   "record_number": "O2026-0023337",
+   "title": "Issuance of Multi-Family Program Funds to support development of Park Manor Senior Residences of Chatham at 8320 S Dr. Martin Luther King, Jr. Dr",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Finance"
+  },
+  {
+   "record_number": "O2026-0023337",
+   "title": "Issuance of Multi-Family Program Funds to support development of Park Manor Senior Residences of Chatham at 8320 S Dr. Martin Luther King, Jr. Dr",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-02-27",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Meeting Summary 031826.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4d01fb6f-8db7-4755-bd0f-ba4d804c89da.pdf"
+  },
+  {
+   "record_number": "O2026-0023337",
+   "title": "Issuance of Multi-Family Program Funds to support development of Park Manor Senior Residences of Chatham at 8320 S Dr. Martin Luther King, Jr. Dr",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-03-13",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "COF 031326 FINAL AGENDA.pdf, p. 3",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d9e77084-7011-4aeb-b0fd-a08299e45b8c.pdf"
+  },
+  {
+   "record_number": "O2026-0023337",
+   "title": "Issuance of Multi-Family Program Funds to support development of Park Manor Senior Residences of Chatham at 8320 S Dr. Martin Luther King, Jr. Dr",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson, Dowell, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0024022",
+   "title": "Amendment of Municipal Code Chapter 2-4 by adding new Section 2-4-130 regarding annual report on homelessness and affordable housing and repealing Sections 2-44-070 and 2-50-085",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Housing and Real Estate"
+  },
+  {
+   "record_number": "SO2026-0024073",
+   "title": "Issuance of multi-family program funds and other financial assistance to HUB32 LLC for development of HUB32 project at 201 N Kedzie Ave, 3209 W Lake St and 3201 W Lake St",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Finance"
+  },
+  {
+   "record_number": "O2026-0024022",
+   "title": "Amendment of Municipal Code Chapter 2-4 by adding new Section 2-4-130 regarding annual report on homelessness and affordable housing and repealing Sections 2-44-070 and 2-50-085",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-04-08",
+   "body": "Committee on Housing and Real Estate",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "HRE AGENDA 08APR26.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/6a944bb2-aa3d-47e3-a82d-08a46e24802b.pdf"
+  },
+  {
+   "record_number": "SO2026-0024073",
+   "title": "Issuance of multi-family program funds and other financial assistance to HUB32 LLC for development of HUB32 project at 201 N Kedzie Ave, 3209 W Lake St and 3201 W Lake St",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-04-13",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Meeting Summary 041526.pdf, p. 2",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e5cc6fd7-3a49-4bbf-8100-eff8ccc87c6e.pdf"
+  },
+  {
+   "record_number": "O2026-0024884",
+   "title": "Issuance of Multi-Family Program Funds and other financial assistance to 3959 Lincoln 4 LLC for mixed-use development 4% Project at 3959 N Lincoln Ave (4 percent owner)",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Finance"
+  },
+  {
+   "record_number": "O2026-0024885",
+   "title": "Issuance of Multi-Family Program Funds and other financial assistance to 3959 Lincoln 9 LLC for mixed-use development 9% Project at 3959 N Lincoln Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Finance"
+  },
+  {
+   "record_number": "SO2026-0024073",
+   "title": "Issuance of multi-family program funds and other financial assistance to HUB32 LLC for development of HUB32 project at 201 N Kedzie Ave, 3209 W Lake St and 3201 W Lake St",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson, Dowell and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0024022",
+   "title": "Amendment of Municipal Code Chapter 2-4 by adding new Section 2-4-130 regarding annual report on homelessness and affordable housing and repealing Sections 2-44-070 and 2-50-085",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-13",
+   "body": "Committee on Housing and Real Estate",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Original Summary, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f5129ce3-66bd-46dd-960a-f28f39b17d90.pdf"
+  },
+  {
+   "record_number": "O2026-0024884",
+   "title": "Issuance of Multi-Family Program Funds and other financial assistance to 3959 Lincoln 4 LLC for mixed-use development 4% Project at 3959 N Lincoln Ave (4 percent owner)",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-18",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "FINAL COF 051826  AGENDA.pdf, p. 2",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/135b15d5-b623-4964-afe9-35e9a18e3087.pdf"
+  },
+  {
+   "record_number": "O2026-0024885",
+   "title": "Issuance of Multi-Family Program Funds and other financial assistance to 3959 Lincoln 9 LLC for mixed-use development 9% Project at 3959 N Lincoln Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-18",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "FINAL COF 051826  AGENDA.pdf, p. 2",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/135b15d5-b623-4964-afe9-35e9a18e3087.pdf"
+  },
+  {
+   "record_number": "O2026-0024022",
+   "title": "Amendment of Municipal Code Chapter 2-4 by adding new Section 2-4-130 regarding annual report on homelessness and affordable housing and repealing Sections 2-44-070 and 2-50-085",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Sigcho-Lopez, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0024884",
+   "title": "Issuance of Multi-Family Program Funds and other financial assistance to 3959 Lincoln 4 LLC for mixed-use development 4% Project at 3959 N Lincoln Ave (4 percent owner)",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Dowell, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0024885",
+   "title": "Issuance of Multi-Family Program Funds and other financial assistance to 3959 Lincoln 9 LLC for mixed-use development 9% Project at 3959 N Lincoln Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Dowell and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025467",
+   "title": "Issuance of multi-family program funds and other financial assistance to support acquisition and development of Abrams Intergenerational Village project at 5300-5318 S Calumet Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Finance"
+  },
+  {
+   "record_number": "O2026-0025467",
+   "title": "Issuance of multi-family program funds and other financial assistance to support acquisition and development of Abrams Intergenerational Village project at 5300-5318 S Calumet Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-06-15",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Meeting Summary 061726.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/44a06251-e9fe-4b9d-936a-5c0fa742d994.pdf"
+  },
+  {
+   "record_number": "O2026-0025467",
+   "title": "Issuance of multi-family program funds and other financial assistance to support acquisition and development of Abrams Intergenerational Village project at 5300-5318 S Calumet Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Dowell, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "SO2026-0026373",
+   "title": "Sale and transfer of Heritage Woods senior living facility located at 2800-2822 W Fulton St and 300-326 N California Ave to High Point Residence Chicago West Realty LLC",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Housing and Real Estate"
+  },
+  {
+   "record_number": "SO2026-0026373",
+   "title": "Sale and transfer of Heritage Woods senior living facility located at 2800-2822 W Fulton St and 300-326 N California Ave to High Point Residence Chicago West Realty LLC",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d12ea831-15a4-4aba-85ee-804f5e3c9d0b.pdf"
+  },
+  {
+   "record_number": "SO2026-0026373",
+   "title": "Sale and transfer of Heritage Woods senior living facility located at 2800-2822 W Fulton St and 300-326 N California Ave to High Point Residence Chicago West Realty LLC",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Sigcho-Lopez, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0028750",
+   "title": "Issuance of multi-family program funds and other financial assistance to Harvest Homes II Apartments LLC for development of residential housing project at 3415 - 3449 W Jackson Blvd and 3414 - 3456 W Fifth Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Finance"
+  },
+  {
+   "record_number": "O2026-0028750",
+   "title": "Issuance of multi-family program funds and other financial assistance to Harvest Homes II Apartments LLC for development of residential housing project at 3415 - 3449 W Jackson Blvd and 3414 - 3456 W Fifth Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-10-05",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Meeting Summary 101426 FINAL.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/68f30283-6de3-4941-b068-5540b9e288b5.pdf"
+  },
+  {
+   "record_number": "O2026-0028750",
+   "title": "Issuance of multi-family program funds and other financial assistance to Harvest Homes II Apartments LLC for development of residential housing project at 3415 - 3449 W Jackson Blvd and 3414 - 3456 W Fifth Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-10-13",
+   "body": "Committee on Finance",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "10.13.26 AGENDA FINAL.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d047b6dd-fc15-4b12-8eaf-ef72c790b29a.pdf"
+  },
+  {
+   "record_number": "O2026-0028750",
+   "title": "Issuance of multi-family program funds and other financial assistance to Harvest Homes II Apartments LLC for development of residential housing project at 3415 - 3449 W Jackson Blvd and 3414 - 3456 W Fifth Ave",
+   "sponsor": "Johnson, Brandon",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Dowell, and unsuccessful motion to reconsider by Alderperson Harris, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  }
+ ],
+ "trail_records": 8,
+ "citywide_records": 1,
+ "unverified_in_summary": [],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1191989016-3635",
+   "date": "2026-05-13",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1191989016#t=3635s",
+   "at": "1:00:35",
+   "n": 1,
+   "snippet": "States Interagency Council on Homelessness or USICH, provided resources and a framework for effectively coordinating responses to homelessness nationally. In 2023, this council amended the municipal code, making it a requirement for DFSS and DOH to publish an annual report on homelessness based on, "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1154385301-10128",
+   "date": "2026-01-14",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1154385301#t=10128s",
+   "at": "2:48:48",
+   "n": 2,
+   "snippet": "and you'll see it in the appendix, we shared all of our notes of the engagement process. And surprisingly, uh, believe it or not, over 70 pe 70% of the respondents, I think it's 1,972, approve that the city should build more affordable housing, which combats the narrative that people don't want affo"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1191989016-3485",
+   "date": "2026-05-13",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1191989016#t=3485s",
+   "at": "0:58:05",
+   "n": 3,
+   "snippet": "we need to discuss with the state and county partners. And definitely, we just came back from Springfield. Even though it's not in the agenda, we're happy to follow up on that as well. The written comments were emailed and included in your packets for today for all committee members. Thank you so mu"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1208145395-1750",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1208145395#t=1750s",
+   "at": "0:29:10",
+   "n": 4,
+   "snippet": "Housing is a human right, so I implore you to ensure the flexible housing pool is able to continue to provide essential housing and services. People housed through the flexible housing pool are some of society's most vulnerable. This is life-saving housing. Being part of the flexible housing pool si"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1208145395-5650",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1208145395#t=5650s",
+   "at": "1:34:10",
+   "n": 5,
+   "snippet": "JOS Cacciatore in partnership in 1999. RRG Development sold the interest in the building around 2009, and the property is being sold from Renaissance Center LP to a new single purpose entity, High Point Residence Chicago West Realty LLC, an affiliated entity of Vantage Senior Care. Vantage Senior Ca"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1200527375-6150",
+   "date": "2026-06-15",
+   "body": "Committee on Finance",
+   "video_url": "https://vimeo.com/1200527375#t=6150s",
+   "at": "1:42:30",
+   "n": 6,
+   "snippet": "of Housing. Ms. Jones, the floor is yours whenever you're ready. Thank you. Oh, I got to read the top part? All right, great. All right. This is an ordinance authorizing the issuance of multifamily program bonds and other financial assistance to support the acquisition and development of Abrams Inte"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1154385301-7578",
+   "date": "2026-01-14",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1154385301#t=7578s",
+   "at": "2:06:18",
+   "n": 7,
+   "snippet": "or blueprint on homelessness. And I'm with Smart PolicyWorks. Can you just speak in good a Oh, Sorry. Good afternoon everyone. My name is Courtney Nunley and we were a consultant on advising, uh, Cindy Soto on the five-year homelessness plan. Good afternoon, Carmelo Barbara, uh, with the University "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1242480051-14064",
+   "date": "2026-11-04",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1242480051#t=14064s",
+   "at": "3:54:24",
+   "n": 8,
+   "snippet": "today are Alessandra Budnik, Amy Henry, Edwin Ortiz Reyes, Meredith Muir, Joseph Lewis, deputy Commissioner of housing development, Asia Bonner, associate Commissioner of asset management, Carina Pasos, Christopher Smith, Lisa Lewis, assistant Commissioner for construction monitoring, margarita Vega"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-edbdb61661b69fed-0",
+   "date": "2026-04-08",
+   "body": "Committee on Housing and Real Estate",
+   "doc_name": "Summary of Reports 08APR26.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/41e5d29a-d62b-409e-97d3-0fa0054ba07f.pdf",
+   "n": 9,
+   "snippet": "SUMMARY OF REPORTS\n Wednesday, April 8th, 2026\n 12:30 pm\n\nApproval of Monthly Rule 45 Report\n - March 12th, 2026 APPROVED\n\nMayoral Introduction\n\n 1. (O2026-0024022) Amendment of Municipal Code Chapter 2-4 by adding Section 2-4-\n 130 regarding annual report on homelessness and affordable housing.\n HE"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-55da02910a3aa1d1-0",
+   "date": "2026-05-13",
+   "body": "Committee on Housing and Real Estate",
+   "doc_name": "Amended Summary",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/560a9b25-5c38-4f3a-9199-9986935e3d95.pdf",
+   "n": 10,
+   "snippet": "AMENDED\n SUMMARY OF REPORTS\n Wednesday, May 13, 2026\n 12:30 pm\n\nApproval of Monthly Rule 45 Report\n - April 8, 2026 APPROVED\n\nMunicipal Code Amendment\n\n 1. (O2026-0024022) Amendment of Municipal Code Chapter 2-4 by adding Section 2-4-130\n regarding annual report on homelessness and affordable housin"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-52ff700278f716c4-0",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "doc_name": "Summary.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d12ea831-15a4-4aba-85ee-804f5e3c9d0b.pdf",
+   "n": 11,
+   "snippet": "SUMMARY OF REPORTS\n Wednesday, July 8th, 2026\n 12:30 pm\nApproval of Monthly Rule 45 Report\n - June 10, 2026 APPROVED\n - June 29, 2026, Subject Matter Hearing APPROVED\n\nSubject Matter Hearing\n\n 1. Informative Presentation on the Flexible Housing Pool by the Center for Housing and\n Health (Aids Founda"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-9bc9de26c0c0ea1e-0",
+   "date": "2026-03-12",
+   "body": "Committee on Housing and Real Estate",
+   "doc_name": "SUMMARY Housing.March 12.mar12.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fc7c3b18-e352-4b64-9646-cdb21871d297.pdf",
+   "n": 12,
+   "snippet": "SUMMARY OF REPORTS\n Thursday, March 12th, 2026\n 10:00 am\n\nApproval of Monthly Rule 45 Report\n - February 11th, 2026 APPROVED\n\nAppointment\n\n 1. (A2026-0023421) Appointment of Alisa S. Rodriguez as member of Chicago Low-\n Income Housing Trust Fund Board. PASSED\n\nAldermanic Introductions\n\n 2. (O2025-00"
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}

@@ -1,0 +1,25 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# SQLite side files (db/*.db and data/records.db themselves ARE committed: the app needs them)
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Temp files from atomic writes (rag.py answer cache)
+data/*.tmp
+
+# Streamlit secrets, if anyone adds them
+.streamlit/secrets.toml
+
+# Claude Code local settings (launch.json is shared)
+.claude/settings.local.json
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

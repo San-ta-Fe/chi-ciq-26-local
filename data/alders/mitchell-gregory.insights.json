@@ -1,0 +1,604 @@
+{
+ "name": "Mitchell, Gregory I.",
+ "slug": "mitchell-gregory",
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Transcripts are Vimeo auto-captions and may contain errors. Speakers are inferred: quotes are from the likely speaker.",
+ "topics": [
+  {
+   "topic": "Committee on Transportation and Public Way reports",
+   "summary": "Mitchell repeatedly delivered the Transportation and Public Way committee report at council meetings, listing ordinances, subdivisions, vacations, and appointments passed by the committee and moving passage by roll call vote.",
+   "quotes": [
+    {
+     "text": "Mr. President, members of the city council, reporting for your Committee on Transportation and Public Way, which held a meeting on December 9th, 2025",
+     "excerpt": 11,
+     "date": "2025-12-10",
+     "body": "City Council",
+     "meeting_id": "D126676D-A1C4-F011-BBD2-001DD8020E93",
+     "video_id": "1144987889",
+     "start_sec": 5872,
+     "video_url": "https://vimeo.com/1144987889#t=5872s",
+     "chunk_id": "t-1144987889-5850",
+     "speaker": "likely"
+    },
+    {
+     "text": "Mr. President, that concludes my report",
+     "excerpt": 30,
+     "date": "2026-03-18",
+     "body": "City Council",
+     "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+     "video_id": "1174131349",
+     "start_sec": 14301,
+     "video_url": "https://vimeo.com/1174131349#t=14301s",
+     "chunk_id": "t-1174131349-14169",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Journal approvals",
+   "summary": "At several meetings Mitchell reported that he was not aware of corrections to the journals of prior meetings and moved that they be approved.",
+   "quotes": [
+    {
+     "text": "I'm not aware of any corrections to the journals from the December 10th, December 15th and December 16th meetings and move that they be Approved",
+     "excerpt": 16,
+     "date": "2025-12-19",
+     "body": "City Council",
+     "meeting_id": "FFD2DC30-AFDA-F011-8543-001DD80C6DA5",
+     "video_id": "1147756540",
+     "start_sec": 5584,
+     "video_url": "https://vimeo.com/1147756540#t=5584s",
+     "chunk_id": "t-1147756540-5536",
+     "speaker": "likely"
+    },
+    {
+     "text": "I'm not aware of any corrections to the journal from the December 18th and December 19th meetings and move that they be approved",
+     "excerpt": 19,
+     "date": "2025-12-29",
+     "body": "City Council",
+     "meeting_id": "C304F269-EBDD-F011-8543-001DD80AF606",
+     "video_id": "1148341931",
+     "start_sec": 5353,
+     "video_url": "https://vimeo.com/1148341931#t=5353s",
+     "chunk_id": "t-1148341931-5327",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Unfinished and miscellaneous business",
+   "summary": "Mitchell handled unfinished and miscellaneous business, stating when he was aware of items, deferring to the filing alder, or reporting none.",
+   "quotes": [
+    {
+     "text": "I'm not aware of any miscellaneous business either",
+     "excerpt": 13,
+     "date": "2025-12-16",
+     "body": "City Council",
+     "meeting_id": "48A8ADC6-F4D5-F011-8543-001DD8066465",
+     "video_id": "1146638281",
+     "start_sec": 4593,
+     "video_url": "https://vimeo.com/1146638281#t=4593s",
+     "chunk_id": "t-1146638281-4420",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Omnibus, motions to reconsider, and adjournment",
+   "summary": "Mitchell moved passage of omnibus matters, made motions to reconsider votes, and moved adjournment when there was no further business.",
+   "quotes": [
+    {
+     "text": "I move that matters in the omnibus be passed by voice vote",
+     "excerpt": 7,
+     "date": "2025-11-18",
+     "body": "City Council",
+     "meeting_id": "B614BB2E-A9C0-F011-BBD2-001DD80C6CBA",
+     "video_id": "1137802473",
+     "start_sec": 4265,
+     "video_url": "https://vimeo.com/1137802473#t=4265s",
+     "chunk_id": "t-1137802473-4114",
+     "speaker": "likely"
+    },
+    {
+     "text": "there being no further business before this body, I move that we adjourn",
+     "excerpt": 7,
+     "date": "2025-11-18",
+     "body": "City Council",
+     "meeting_id": "B614BB2E-A9C0-F011-BBD2-001DD80C6CBA",
+     "video_id": "1137802473",
+     "start_sec": 4289,
+     "video_url": "https://vimeo.com/1137802473#t=4289s",
+     "chunk_id": "t-1137802473-4114",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Quorum roll call",
+   "summary": "Mitchell asked to be recorded as present for purposes of quorum at multiple council and committee meetings.",
+   "quotes": [
+    {
+     "text": "I'm going to be added as a present for purposes of quorum",
+     "excerpt": 1,
+     "date": "2025-11-14",
+     "body": "City Council",
+     "meeting_id": "079641F0-9BAB-F011-BBD2-001DD80B7FF7",
+     "video_id": "1136745770",
+     "start_sec": 4128,
+     "video_url": "https://vimeo.com/1136745770#t=4128s",
+     "chunk_id": "t-1136745770-4065",
+     "speaker": "likely"
+    },
+    {
+     "text": "I want to be recorded as present for purposes of quorum",
+     "excerpt": 27,
+     "date": "2026-02-18",
+     "body": "City Council",
+     "meeting_id": "AADBA854-DDF6-F011-8406-001DD8080DE8",
+     "video_id": "1165773679",
+     "start_sec": 3857,
+     "video_url": "https://vimeo.com/1165773679#t=3857s",
+     "chunk_id": "t-1165773679-3717",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Resolutions and suspension of rules",
+   "summary": "Mitchell moved temporary suspension of the rules to allow immediate consideration of resolutions, including Earth Day and Pride Month and Juneteenth celebrations.",
+   "quotes": [
+    {
+     "text": "I move for the temporary suspension of the rules to allow for the immediate consideration of these resolutions",
+     "excerpt": 32,
+     "date": "2026-04-15",
+     "body": "City Council",
+     "meeting_id": "2EA74F29-8923-F111-8341-001DD80B1275",
+     "video_id": "1183109138",
+     "start_sec": 5173,
+     "video_url": "https://vimeo.com/1183109138#t=5173s",
+     "chunk_id": "t-1183109138-5135",
+     "speaker": "likely"
+    },
+    {
+     "text": "Mr. President, I move for temporary suspension of rules to allow for immediate consideration",
+     "excerpt": 40,
+     "date": "2026-06-17",
+     "body": "City Council",
+     "meeting_id": "73347594-0E55-F111-BEC6-001DD80B0E39",
+     "video_id": "1201890835",
+     "start_sec": 5243,
+     "video_url": "https://vimeo.com/1201890835#t=5243s",
+     "chunk_id": "t-1201890835-5198",
+     "speaker": "likely"
+    }
+   ]
+  }
+ ],
+ "suggested_questions": [
+  "What committee reports has Alderman Mitchell delivered to the City Council?",
+  "How has Alderman Mitchell handled unfinished and miscellaneous business at council meetings?",
+  "What resolutions has Alderman Mitchell helped bring to immediate consideration?"
+ ],
+ "evidence": [
+  {
+   "n": 1,
+   "chunk_id": "t-1136745770-4065",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=4065s"
+  },
+  {
+   "n": 2,
+   "chunk_id": "t-1136745770-4215",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=4215s"
+  },
+  {
+   "n": 3,
+   "chunk_id": "t-1136745770-4665",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=4665s"
+  },
+  {
+   "n": 4,
+   "chunk_id": "t-1136745770-4815",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=4815s"
+  },
+  {
+   "n": 5,
+   "chunk_id": "t-1137802473-3064",
+   "date": "2025-11-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1137802473#t=3064s"
+  },
+  {
+   "n": 6,
+   "chunk_id": "t-1137802473-3214",
+   "date": "2025-11-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1137802473#t=3214s"
+  },
+  {
+   "n": 7,
+   "chunk_id": "t-1137802473-4114",
+   "date": "2025-11-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1137802473#t=4114s"
+  },
+  {
+   "n": 8,
+   "chunk_id": "t-1136559499-2399",
+   "date": "2025-12-03",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1136559499#t=2399s"
+  },
+  {
+   "n": 9,
+   "chunk_id": "t-1136559499-2549",
+   "date": "2025-12-03",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1136559499#t=2549s"
+  },
+  {
+   "n": 10,
+   "chunk_id": "t-1144987889-5700",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=5700s"
+  },
+  {
+   "n": 11,
+   "chunk_id": "t-1144987889-5850",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=5850s"
+  },
+  {
+   "n": 12,
+   "chunk_id": "t-1144987889-6000",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=6000s"
+  },
+  {
+   "n": 13,
+   "chunk_id": "t-1146638281-4420",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1146638281#t=4420s"
+  },
+  {
+   "n": 14,
+   "chunk_id": "t-1146638281-4570",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1146638281#t=4570s"
+  },
+  {
+   "n": 15,
+   "chunk_id": "t-1146638281-4720",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1146638281#t=4720s"
+  },
+  {
+   "n": 16,
+   "chunk_id": "t-1147756540-5536",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=5536s"
+  },
+  {
+   "n": 17,
+   "chunk_id": "t-1147756540-5686",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=5686s"
+  },
+  {
+   "n": 18,
+   "chunk_id": "t-1148341931-5177",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=5177s"
+  },
+  {
+   "n": 19,
+   "chunk_id": "t-1148341931-5327",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=5327s"
+  },
+  {
+   "n": 20,
+   "chunk_id": "t-1148341931-5477",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=5477s"
+  },
+  {
+   "n": 21,
+   "chunk_id": "t-1148736982-876",
+   "date": "2025-12-29",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1148736982#t=876s"
+  },
+  {
+   "n": 22,
+   "chunk_id": "t-1148736982-1026",
+   "date": "2025-12-29",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1148736982#t=1026s"
+  },
+  {
+   "n": 23,
+   "chunk_id": "t-1148736982-1176",
+   "date": "2025-12-29",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1148736982#t=1176s"
+  },
+  {
+   "n": 24,
+   "chunk_id": "t-1156547113-8641",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=8641s"
+  },
+  {
+   "n": 25,
+   "chunk_id": "t-1156547113-8791",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=8791s"
+  },
+  {
+   "n": 26,
+   "chunk_id": "t-1156547113-8941",
+   "date": "2026-01-21",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1156547113#t=8941s"
+  },
+  {
+   "n": 27,
+   "chunk_id": "t-1165773679-3717",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=3717s"
+  },
+  {
+   "n": 28,
+   "chunk_id": "t-1165773679-3867",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=3867s"
+  },
+  {
+   "n": 29,
+   "chunk_id": "t-1165773679-12267",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=12267s"
+  },
+  {
+   "n": 30,
+   "chunk_id": "t-1174131349-14169",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=14169s"
+  },
+  {
+   "n": 31,
+   "chunk_id": "t-1174131349-14319",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=14319s"
+  },
+  {
+   "n": 32,
+   "chunk_id": "t-1183109138-5135",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=5135s"
+  },
+  {
+   "n": 33,
+   "chunk_id": "t-1183109138-5285",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=5285s"
+  },
+  {
+   "n": 34,
+   "chunk_id": "t-1183109138-12785",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=12785s"
+  },
+  {
+   "n": 35,
+   "chunk_id": "t-1189863897-1438",
+   "date": "2026-05-11",
+   "body": "Committee on Economic, Capital and Technology Development",
+   "video_url": "https://vimeo.com/1189863897#t=1438s"
+  },
+  {
+   "n": 36,
+   "chunk_id": "t-1189863897-1588",
+   "date": "2026-05-11",
+   "body": "Committee on Economic, Capital and Technology Development",
+   "video_url": "https://vimeo.com/1189863897#t=1588s"
+  },
+  {
+   "n": 37,
+   "chunk_id": "t-1193694170-16263",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=16263s"
+  },
+  {
+   "n": 38,
+   "chunk_id": "t-1193694170-16413",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=16413s"
+  },
+  {
+   "n": 39,
+   "chunk_id": "t-1193694170-17013",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=17013s"
+  },
+  {
+   "n": 40,
+   "chunk_id": "t-1201890835-5198",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=5198s"
+  },
+  {
+   "n": 41,
+   "chunk_id": "t-1201890835-5348",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=5348s"
+  },
+  {
+   "n": 42,
+   "chunk_id": "t-1201890835-13898",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=13898s"
+  },
+  {
+   "n": 43,
+   "chunk_id": "t-1208145395-2500",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1208145395#t=2500s"
+  },
+  {
+   "n": 44,
+   "chunk_id": "t-1208145395-2650",
+   "date": "2026-07-08",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1208145395#t=2650s"
+  },
+  {
+   "n": 45,
+   "chunk_id": "t-1209660651-2400",
+   "date": "2026-07-14",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1209660651#t=2400s"
+  },
+  {
+   "n": 46,
+   "chunk_id": "t-1209660651-2550",
+   "date": "2026-07-14",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1209660651#t=2550s"
+  },
+  {
+   "n": 47,
+   "chunk_id": "t-1229341127-16954",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=16954s"
+  },
+  {
+   "n": 48,
+   "chunk_id": "t-1229341127-17104",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=17104s"
+  },
+  {
+   "n": 49,
+   "chunk_id": "t-1230273462-3821",
+   "date": "2026-09-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1230273462#t=3821s"
+  },
+  {
+   "n": 50,
+   "chunk_id": "t-1230273462-3971",
+   "date": "2026-09-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1230273462#t=3971s"
+  },
+  {
+   "n": 51,
+   "chunk_id": "t-1230273462-4271",
+   "date": "2026-09-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1230273462#t=4271s"
+  },
+  {
+   "n": 52,
+   "chunk_id": "t-1235540637-1350",
+   "date": "2026-10-13",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1235540637#t=1350s"
+  },
+  {
+   "n": 53,
+   "chunk_id": "t-1235540637-1500",
+   "date": "2026-10-13",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1235540637#t=1500s"
+  },
+  {
+   "n": 54,
+   "chunk_id": "t-1235564993-4800",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=4800s"
+  },
+  {
+   "n": 55,
+   "chunk_id": "t-1235564993-4950",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=4950s"
+  },
+  {
+   "n": 56,
+   "chunk_id": "t-1235564993-5100",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=5100s"
+  },
+  {
+   "n": 57,
+   "chunk_id": "t-1238089923-1886",
+   "date": "2026-10-23",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1238089923#t=1886s"
+  },
+  {
+   "n": 58,
+   "chunk_id": "t-1238089923-2036",
+   "date": "2026-10-23",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1238089923#t=2036s"
+  },
+  {
+   "n": 59,
+   "chunk_id": "t-1244025929-9150",
+   "date": "2026-11-06",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1244025929#t=9150s"
+  },
+  {
+   "n": 60,
+   "chunk_id": "t-1244025929-9300",
+   "date": "2026-11-06",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1244025929#t=9300s"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+# Alder Audit — Chicago flag colors, sized for a projector / big screen.
+[theme]
+base = "light"
+primaryColor = "#E4002B"              # Chicago star red
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EAF6FC"  # pale flag blue
+textColor = "#0B2340"                 # navy
+linkColor = "#0067A5"
+linkUnderline = false
+blueColor = "#41B6E6"                 # flag light blue
+redColor = "#E4002B"
+borderColor = "#BFE3F5"
+dataframeBorderColor = "#D5ECF8"
+dataframeHeaderBackgroundColor = "#EAF6FC"
+showWidgetBorder = true
+baseFontSize = 19
+baseRadius = "0.6rem"
+buttonRadius = "0.6rem"
+headingFontWeights = [800, 800, 700, 700, 600, 600]
+metricValueFontSize = "3.2rem"
+metricValueFontWeight = 800
+
+[theme.sidebar]
+backgroundColor = "#0B2340"
+secondaryBackgroundColor = "#13335A"
+textColor = "#FFFFFF"
+primaryColor = "#41B6E6"
+linkColor = "#8FD3F2"
+borderColor = "#24456E"
+
+[client]
+toolbarMode = "minimal"   # hide the Deploy button for the demo
+
+[browser]
+gatherUsageStats = false

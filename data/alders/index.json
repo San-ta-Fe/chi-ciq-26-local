@@ -1,0 +1,26 @@
+[
+ {
+  "name": "Lopez, Raymond A.",
+  "slug": "lopez-raymond",
+  "surname": "Lopez",
+  "name_regex": "\\b(?:(?<!cintra\\ )(?<!sicho\\ )(?<!sigcho\\ )(?<!sigo\\ )(?<!sintra\\ )lopez)\\b"
+ },
+ {
+  "name": "Moore, David H.",
+  "slug": "moore-david",
+  "surname": "Moore",
+  "name_regex": "\\b(?:moore)\\b"
+ },
+ {
+  "name": "Ervin, Jason C.",
+  "slug": "ervin-jason",
+  "surname": "Ervin",
+  "name_regex": "\\b(?:irving|erwin|irvin|ervin)\\b"
+ },
+ {
+  "name": "Mitchell, Gregory I.",
+  "slug": "mitchell-gregory",
+  "surname": "Mitchell",
+  "name_regex": "\\b(?:mitchell)\\b"
+ }
+]

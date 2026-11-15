@@ -1,0 +1,230 @@
+{
+ "name": "Gas Station Zoning",
+ "slug": "gas-station-zoning",
+ "description": "Restrictions on new gas stations through special use approval and zoning changes.",
+ "queries": [
+  "gas station special use approval",
+  "gas station zoning prohibition",
+  "new gas stations permit"
+ ],
+ "title_keywords": [
+  "gas stations",
+  "special use approval",
+  "B3, C1 and C2 zoning"
+ ],
+ "status": "voted",
+ "summary": "The City Council advanced a series of citywide restrictions on new gas stations. SO2025-0018183, introduced 2025-06-18 to modify Section 17-3-0207 by removing permit requirements for gas stations in B3, C1, and C2 districts, passed 48-1 on 2026-02-18. A successor measure, SO2026-0024923 (introduced 2026-04-15), prohibiting permits for gas stations in B3, C1, and C2 districts and barring new stations within 1,000 feet of an existing station or on the same block face as RS1/RS2/RS3 lots, was amended by substitute in committee on 2026-05-19 [1]; the substitute allows such locations only via a Type 1 map amendment, giving local communities an option to approve them [1]. It passed the City Council 50-0 on 2026-05-20. O2026-0025429, introduced 2026-05-20 to require special use approval for all new gas stations and for additions that would add fueling capacity, was on the Committee on Zoning agenda 2026-07-14 and passed 49-0 on 2026-07-15. Committee discussion on 2026-02-17 addressed grandfathering of existing stations on ownership change, six-month dormancy rules, and the requirement that new stations locate in C3 districts and obtain special use approval [3][6]. Still open: implementation details and any future corridor-specific or ward-level expansions of similar restrictions were discussed as possible blueprints for other wards [5].",
+ "one_line": "Council passed gas station zoning bans (48-1, 50-0, 49-0); special use approval required; ward-level expansions remain open.",
+ "cited_excerpts": [
+  1,
+  3,
+  5,
+  6
+ ],
+ "records_cited_not_in_trail": [],
+ "trail": [
+  {
+   "record_number": "SO2025-0018183",
+   "title": "Amendment of Municipal Code Title 17 by modifying Section 17-3-0207 to remove permit requirements for gas stations in B3, C1, and C2 zoning districts and by modifying Section 17-9-0109 restricting expansions of gas stations in certain circumstances",
+   "sponsor": "Mitchell, Gregory I.",
+   "date": "2025-06-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Zoning, Landmarks and Building Standards"
+  },
+  {
+   "record_number": "SO2025-0018183",
+   "title": "Amendment of Municipal Code Title 17 by modifying Section 17-3-0207 to remove permit requirements for gas stations in B3, C1, and C2 zoning districts and by modifying Section 17-9-0109 restricting expansions of gas stations in certain circumstances",
+   "sponsor": "Mitchell, Gregory I.",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Lawson, and unsuccessful motion to reconsider by Alderperson Harris, the matter was Passed.",
+   "tally": "48 Yea / 1 Nay"
+  },
+  {
+   "record_number": "SO2026-0024923",
+   "title": "Amendment of Municipal Code Title 17 by modifying Section 17-3-0207 to prohibit issuance of permits for gas stations in B3, C1 and C2 zoning districts and by modifying Section 17-9-0109 to prohibit new gas stations within 1,000 ft of existing gas station or on same block face as lot zoned RS1, RS2 or RS3",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Zoning, Landmarks and Building Standards"
+  },
+  {
+   "record_number": "O2026-0025429",
+   "title": "Amendment of Municipal Code Section 17-9-0109A to require special use approval for all new gas stations and for additions to existing gas stations that would add seven or more electric vehicle supply chargers",
+   "sponsor": "Lawson, Bennett R.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Zoning, Landmarks and Building Standards"
+  },
+  {
+   "record_number": "SO2026-0024923",
+   "title": "Amendment of Municipal Code Title 17 by modifying Section 17-3-0207 to prohibit issuance of permits for gas stations in B3, C1 and C2 zoning districts and by modifying Section 17-9-0109 to prohibit new gas stations within 1,000 ft of existing gas station or on same block face as lot zoned RS1, RS2 or RS3",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Villegas, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0025429",
+   "title": "Amendment of Municipal Code Section 17-9-0109A to require special use approval for all new gas stations and for additions to existing gas stations that would add seven or more electric vehicle supply chargers",
+   "sponsor": "Lawson, Bennett R.",
+   "date": "2026-07-14",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "Agenda.pdf, p. 2",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/771401c9-3ef4-450e-83c5-eeefa3bcc3ad.pdf"
+  },
+  {
+   "record_number": "O2026-0025429",
+   "title": "Amendment of Municipal Code Section 17-9-0109A to require special use approval for all new gas stations and for additions to existing gas stations that would add seven or more electric vehicle supply chargers",
+   "sponsor": "Lawson, Bennett R.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Villegas, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  }
+ ],
+ "trail_records": 3,
+ "citywide_records": 3,
+ "unverified_in_summary": [],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1193355557-4056",
+   "date": "2026-05-19",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "video_url": "https://vimeo.com/1193355557#t=4056s",
+   "at": "1:07:36",
+   "n": 1,
+   "snippet": "O2026-0024923, an ordinance introduced by Alderman Irvin that amends municipal code Title 17 by modifying Section 17-3-0207 to prohibit the issuance of permits for gas stations in B3, C1, and C2 zoning districts and modifying Section 17-9-0109 to prohibit new gas stations within 1,000 feet of an exi"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1183109138-13535",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=13535s",
+   "at": "3:45:35",
+   "n": 2,
+   "snippet": "Street, which is referred to the Committee on Zoning, Landmarks, and Building Standards.Alderperson Irvin also has proposed ordinance for amendment of municipal code Title 17 by modifying Section 17-3-0207 to prohibit issuance of permits for gas stations in B3, C1, and C2 zoning districts, and by mo"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1164087404-10168",
+   "date": "2026-02-17",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "video_url": "https://vimeo.com/1164087404#t=10168s",
+   "at": "2:49:28",
+   "n": 3,
+   "snippet": "gas stations versus the whole city at four hundred, a little over four hundred, um, and wards are constantly getting bombarded with, uh, with proposals for new, uh, into introduction of new gas stations, we thought it was... this is the time to, uh, change the legislation to, to, uh, to curb that, t"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1229341127-18154",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=18154s",
+   "at": "5:02:34",
+   "n": 4,
+   "snippet": "should utilize North/South Western Avenue from West Howard to West 79th Street as bus rapid transit, which is referred to the Committee on Committees and Rules. Alderperson Burnett has proposed an ordinance for amendment of Municipal Code Chapter 9-64 by adding a new section, 9-64-195, establishing "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1234481036-9750",
+   "date": "2026-10-13",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "video_url": "https://vimeo.com/1234481036#t=9750s",
+   "at": "2:42:30",
+   "n": 5,
+   "snippet": "And I have sort of the opposite question on the prohibited uses, dash 0604. Every now and again, there's a weird situation where it does make sense, for example, to put a gas station near a train stop. I mean, obviously it's-- So, is there a way around it in the-- If there is an unusual situation wh"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1164087404-10468",
+   "date": "2026-02-17",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "video_url": "https://vimeo.com/1164087404#t=10468s",
+   "at": "2:54:28",
+   "n": 6,
+   "snippet": "And if it's at the corner, then you would be looking at two different block faces- At both ... that you would have to satisfy. Okay. And that- Regardless of how they address themselves. Okay. They may use a 75th Street address, but they may still have frontage along a, a side street or a street that"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1143153265-4422",
+   "date": "2025-12-03",
+   "body": "Committee on License and Consumer Protection",
+   "video_url": "https://vimeo.com/1143153265#t=4422s",
+   "at": "1:13:42",
+   "n": 7,
+   "snippet": "us a better chance to, um, uh, enforce it better if we have restrictions and we have locations that are specific, that are allowed to sell this. And of course, the 21, um, restriction is very important. Sorry, Alderwoman Hahn. I'm jumping in again because t- I just wanna re-echo, uh, what the commis"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1193355557-4206",
+   "date": "2026-05-19",
+   "body": "Committee on Zoning, Landmarks and Building Standards",
+   "video_url": "https://vimeo.com/1193355557#t=4206s",
+   "at": "1:10:06",
+   "n": 8,
+   "snippet": "to remove non-conforming use status for any new business seeking a limited business license for auto sales and modifying section 17-15-0303, limiting expansion of such non-conforming use. We have Alderman Cardona here to present on this ordinance. Alderman Cardona? Thank you, Chairman, and good morn"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-e82ad6410b03b43b-74",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "doc_name": "2026-05-20 City Council Agenda v2.pdf",
+   "page": 30,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f8c22e31-f40d-40dd-80a7-2b57a0e7c10f.pdf",
+   "n": 9,
+   "snippet": "districts and by modfying Section 17-9-0109 to prohitrfl new gas stations wilhin 1,000 ft of existing\ngas statson or on satne block fa\uffff as lot zoned RS1, RS2 or RS3 ResKlentsal Single Unrt (Detached House) District\nDOCUMENT # 0202541018447 ORDINANCE REFERRED\n7116125\nSponsor: Carthna (31)\nAmendment o"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-3fcf9d4347a0138f-48",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "doc_name": "2026-02-18 City Council Agenda v4.pdf",
+   "page": 9,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e5924021-db08-4541-97d9-a6a01a0c9586.pdf",
+   "n": 10,
+   "snippet": "qu\uffffements for gas stations in\nB3, C1, and C2 zoning distncts and by mrmlfying Seth'on 17_90109 restricb'ng expansions of gas stations in certain\nurcuffts1an\uffffS\nDOCUMENT# 0202541021721 ORDINANCE REFERRED\n12110125\nSponsors: Alders Bumett127) and Conway (341\nAmendment of Muniopal Code Sectyorts 17_\uffff308 "
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-54da00e452e1e14d-4",
+   "date": "2026-01-20",
+   "body": "Committee on Transportation and Public Way",
+   "doc_name": "Summary of Report 1-20-2026.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/cdce0508-91fc-49b1-8925-58effb64f254.pdf",
+   "n": 11,
+   "snippet": "An ordinance authorizing and directing the Department of Transportation to exempt WEST DETAILS III,\nLLC from the provisions requiring barriers as a prerequisite to prohibit alley ingress and/or egress to the\nparking facilities located at 825 South Western Avenue.\n(29)\nBATTLE VENDING, LLC - 02025-002"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-5e8af69117a50b1c-4",
+   "date": "2026-01-20",
+   "body": "Committee on Transportation and Public Way",
+   "doc_name": "JANUARY AGENDA 2026.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/418d6710-632d-492d-9c9e-0297eb6633fe.pdf",
+   "n": 12,
+   "snippet": "dinance authorizing and directing the Department of Transportation to exempt WEST DETAILS III,\nLLC from the provisions requiring barriers as a prerequisite to prohibit alley ingress and/or egress to the\nparking facilities located at 825 South Western Avenue.\n(29)\nBATTLE VENDING, LLC - O2025-0021127\n"
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}

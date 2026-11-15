@@ -1,0 +1,616 @@
+{
+ "name": "Moore, David H.",
+ "slug": "moore-david",
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Transcripts are Vimeo auto-captions and may contain errors. Speakers are inferred: quotes are from the likely speaker.",
+ "topics": [
+  {
+   "topic": "Budget and VGT gaming equity",
+   "summary": "During budget deliberations, Moore raised concerns about video gaming terminal licensing for Sweet Stakes machine operators in his community and urged equity in VGT licensing. He also offered an amendment to increase the police superintendent's salary, which he agreed to hold for future technical amendments.",
+   "quotes": [
+    {
+     "text": "I cannot be in a position where we are not, uh, from an equity standpoint, making sure that there's equity in VGT",
+     "excerpt": 13,
+     "date": "2025-12-19",
+     "body": "City Council",
+     "meeting_id": "FFD2DC30-AFDA-F011-8543-001DD80C6DA5",
+     "video_id": "1147756540",
+     "start_sec": 5962,
+     "video_url": "https://vimeo.com/1147756540#t=5962s",
+     "chunk_id": "t-1147756540-5836",
+     "speaker": "likely"
+    },
+    {
+     "text": "I've offered up, um, for your consideration and amendment, um, to the budget recommendations, which would then, uh, increase the salary of the superintendent of the police department",
+     "excerpt": 17,
+     "date": "2025-12-20",
+     "body": "City Council",
+     "meeting_id": "E6535C21-B0DA-F011-8543-001DD80C6DA5",
+     "video_id": "1148129733",
+     "start_sec": 14854,
+     "video_url": "https://vimeo.com/1148129733#t=14854s",
+     "chunk_id": "t-1148129733-14767",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Liquor moratoriums and neighborhood grocery stores",
+   "summary": "Moore asked the License Committee to lift a moratorium on a long-standing Racine Avenue grocery store so it could continue under new management, and to restore a moratorium on West 69th Street.",
+   "quotes": [
+    {
+     "text": "there are no other grocery stores within walking distance and they, um, sell pretty good, um, products",
+     "excerpt": 23,
+     "date": "2026-02-10",
+     "body": "Committee on License and Consumer Protection",
+     "meeting_id": "596C0876-23F6-F011-8406-001DD8080DE8",
+     "video_id": "1163693981",
+     "start_sec": 1135,
+     "video_url": "https://vimeo.com/1163693981#t=1135s",
+     "chunk_id": "t-1163693981-1048",
+     "speaker": "likely"
+    },
+    {
+     "text": "on 69th Street, uh, um, putting the moratorium back on West 69th Street",
+     "excerpt": 23,
+     "date": "2026-02-10",
+     "body": "Committee on License and Consumer Protection",
+     "meeting_id": "596C0876-23F6-F011-8406-001DD8080DE8",
+     "video_id": "1163693981",
+     "start_sec": 1161,
+     "video_url": "https://vimeo.com/1163693981#t=1161s",
+     "chunk_id": "t-1163693981-1048",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Community acknowledgments and resolutions",
+   "summary": "Moore used council acknowledgments to honor the Savoy Big Five, the original founders of what became the Harlem Globetrotters, community members like daycare operator Irma Jean Barnes, and the Englewood Lions youth football program.",
+   "quotes": [
+    {
+     "text": "before the Harlem Globetrotters, it was the Savoy Five",
+     "excerpt": 32,
+     "date": "2026-03-18",
+     "body": "City Council",
+     "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+     "video_id": "1174131349",
+     "start_sec": 1780,
+     "video_url": "https://vimeo.com/1174131349#t=1780s",
+     "chunk_id": "t-1174131349-1719",
+     "speaker": "likely"
+    },
+    {
+     "text": "The Englewood Lions Youth Athletics Program is a nonprofit 501 [c] [3] organization dedicated to providing affordable, competitive youth football and cheer opportunities",
+     "excerpt": 40,
+     "date": "2026-06-17",
+     "body": "City Council",
+     "meeting_id": "73347594-0E55-F111-BEC6-001DD80B0E39",
+     "video_id": "1201890835",
+     "start_sec": 4234,
+     "video_url": "https://vimeo.com/1201890835#t=4234s",
+     "chunk_id": "t-1201890835-4148",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Veto override on bond issuance transparency",
+   "summary": "Moore spoke against overriding the mayor's veto of a bond transparency measure, arguing that reducing the Black Caucus's current vote count would weaken his negotiating power for his constituents.",
+   "quotes": [
+    {
+     "text": "No, what you're asking me to do is give up my power",
+     "excerpt": 60,
+     "date": "2026-10-14",
+     "body": "City Council",
+     "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+     "video_id": "1235564993",
+     "start_sec": 9650,
+     "video_url": "https://vimeo.com/1235564993#t=9650s",
+     "chunk_id": "t-1235564993-9600",
+     "speaker": "likely"
+    },
+    {
+     "text": "I urge my colleagues not to override this veto",
+     "excerpt": 60,
+     "date": "2026-10-14",
+     "body": "City Council",
+     "meeting_id": "39FE6EE4-2FBC-F111-AAAE-001DD80B58E5",
+     "video_id": "1235564993",
+     "start_sec": 9772,
+     "video_url": "https://vimeo.com/1235564993#t=9772s",
+     "chunk_id": "t-1235564993-9600",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Disability Pride Month resolution",
+   "summary": "Moore spoke in support of the Disability Pride Month resolution, citing his mother who was born with polio and his father who was missing a limb, and voiced support for students with disabilities and Special Olympics.",
+   "quotes": [
+    {
+     "text": "when they say recognize the people with disability, but I always say people with abilities",
+     "excerpt": 47,
+     "date": "2026-07-15",
+     "body": "City Council",
+     "meeting_id": "DF5C52EA-0D6B-F111-A823-001DD8019941",
+     "video_id": "1209979957",
+     "start_sec": 5869,
+     "video_url": "https://vimeo.com/1209979957#t=5869s",
+     "chunk_id": "t-1209979957-5768",
+     "speaker": "likely"
+    },
+    {
+     "text": "I stand with the school in my ward. They're doing a good job working with our students with special abilities",
+     "excerpt": 47,
+     "date": "2026-07-15",
+     "body": "City Council",
+     "meeting_id": "DF5C52EA-0D6B-F111-A823-001DD8019941",
+     "video_id": "1209979957",
+     "start_sec": 5916,
+     "video_url": "https://vimeo.com/1209979957#t=5916s",
+     "chunk_id": "t-1209979957-5768",
+     "speaker": "likely"
+    }
+   ]
+  },
+  {
+   "topic": "Tourism Improvement District and business equity",
+   "summary": "Moore said he voted no in Finance Committee but supported the Chicago Tourism Improvement District in full council, asking that more records be kept to ensure south and west side businesses benefit from the process.",
+   "quotes": [
+    {
+     "text": "more records on making sure that, businesses out on the south and west sides are, you know, included in this process",
+     "excerpt": 34,
+     "date": "2026-03-18",
+     "body": "City Council",
+     "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+     "video_id": "1174131349",
+     "start_sec": 11420,
+     "video_url": "https://vimeo.com/1174131349#t=11420s",
+     "chunk_id": "t-1174131349-11319",
+     "speaker": "likely"
+    },
+    {
+     "text": "I voted no in Finance Committee, but, I stand with the yes today, in, the full council",
+     "excerpt": 34,
+     "date": "2026-03-18",
+     "body": "City Council",
+     "meeting_id": "D73FA92F-100D-F111-8406-001DD80F9592",
+     "video_id": "1174131349",
+     "start_sec": 11479,
+     "video_url": "https://vimeo.com/1174131349#t=11479s",
+     "chunk_id": "t-1174131349-11319",
+     "speaker": "likely"
+    }
+   ]
+  }
+ ],
+ "suggested_questions": [
+  "Why did Alderman Moore want to raise the police superintendent's salary in the 2026 budget?",
+  "What changes did Alderman Moore seek for liquor licenses on Racine Avenue and West 69th Street?",
+  "Why did Alderman Moore urge colleagues not to override the mayor's veto on the bond transparency measure?"
+ ],
+ "evidence": [
+  {
+   "n": 1,
+   "chunk_id": "t-1135569237-686",
+   "date": "2025-11-12",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1135569237#t=686s"
+  },
+  {
+   "n": 2,
+   "chunk_id": "t-1136197674-2700",
+   "date": "2025-11-13",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1136197674#t=2700s"
+  },
+  {
+   "n": 3,
+   "chunk_id": "t-1136197674-2850",
+   "date": "2025-11-13",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1136197674#t=2850s"
+  },
+  {
+   "n": 4,
+   "chunk_id": "t-1136197674-3000",
+   "date": "2025-11-13",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1136197674#t=3000s"
+  },
+  {
+   "n": 5,
+   "chunk_id": "t-1136745770-1065",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=1065s"
+  },
+  {
+   "n": 6,
+   "chunk_id": "t-1136745770-3915",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=3915s"
+  },
+  {
+   "n": 7,
+   "chunk_id": "t-1136745770-4065",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=4065s"
+  },
+  {
+   "n": 8,
+   "chunk_id": "t-1136745770-6465",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=6465s"
+  },
+  {
+   "n": 9,
+   "chunk_id": "t-1136745770-6615",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=6615s"
+  },
+  {
+   "n": 10,
+   "chunk_id": "t-1137016421-610",
+   "date": "2025-11-17",
+   "body": "Committee on Finance",
+   "video_url": "https://vimeo.com/1137016421#t=610s"
+  },
+  {
+   "n": 11,
+   "chunk_id": "t-1144987889-3150",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=3150s"
+  },
+  {
+   "n": 12,
+   "chunk_id": "t-1144987889-3300",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1144987889#t=3300s"
+  },
+  {
+   "n": 13,
+   "chunk_id": "t-1147756540-5836",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=5836s"
+  },
+  {
+   "n": 14,
+   "chunk_id": "t-1147756540-5986",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=5986s"
+  },
+  {
+   "n": 15,
+   "chunk_id": "t-1147756540-6736",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=6736s"
+  },
+  {
+   "n": 16,
+   "chunk_id": "t-1147756540-6886",
+   "date": "2025-12-19",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1147756540#t=6886s"
+  },
+  {
+   "n": 17,
+   "chunk_id": "t-1148129733-14767",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=14767s"
+  },
+  {
+   "n": 18,
+   "chunk_id": "t-1148129733-14917",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=14917s"
+  },
+  {
+   "n": 19,
+   "chunk_id": "t-1148129733-15817",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=15817s"
+  },
+  {
+   "n": 20,
+   "chunk_id": "t-1148129733-15967",
+   "date": "2025-12-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148129733#t=15967s"
+  },
+  {
+   "n": 21,
+   "chunk_id": "t-1148341931-5327",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=5327s"
+  },
+  {
+   "n": 22,
+   "chunk_id": "t-1148341931-5477",
+   "date": "2025-12-29",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1148341931#t=5477s"
+  },
+  {
+   "n": 23,
+   "chunk_id": "t-1163693981-1048",
+   "date": "2026-02-10",
+   "body": "Committee on License and Consumer Protection",
+   "video_url": "https://vimeo.com/1163693981#t=1048s"
+  },
+  {
+   "n": 24,
+   "chunk_id": "t-1163693981-1198",
+   "date": "2026-02-10",
+   "body": "Committee on License and Consumer Protection",
+   "video_url": "https://vimeo.com/1163693981#t=1198s"
+  },
+  {
+   "n": 25,
+   "chunk_id": "t-1165773679-12267",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=12267s"
+  },
+  {
+   "n": 26,
+   "chunk_id": "t-1165773679-12417",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=12417s"
+  },
+  {
+   "n": 27,
+   "chunk_id": "t-1165773679-12567",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=12567s"
+  },
+  {
+   "n": 28,
+   "chunk_id": "t-1165773679-12717",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=12717s"
+  },
+  {
+   "n": 29,
+   "chunk_id": "t-1165773679-12867",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=12867s"
+  },
+  {
+   "n": 30,
+   "chunk_id": "t-1165773679-13017",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=13017s"
+  },
+  {
+   "n": 31,
+   "chunk_id": "t-1165773679-13167",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=13167s"
+  },
+  {
+   "n": 32,
+   "chunk_id": "t-1174131349-1719",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=1719s"
+  },
+  {
+   "n": 33,
+   "chunk_id": "t-1174131349-1869",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=1869s"
+  },
+  {
+   "n": 34,
+   "chunk_id": "t-1174131349-11319",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=11319s"
+  },
+  {
+   "n": 35,
+   "chunk_id": "t-1174131349-11469",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=11469s"
+  },
+  {
+   "n": 36,
+   "chunk_id": "t-1181642367-3169",
+   "date": "2026-04-09",
+   "body": "Committee on Special Events, Cultural Affairs and Recreation",
+   "video_url": "https://vimeo.com/1181642367#t=3169s"
+  },
+  {
+   "n": 37,
+   "chunk_id": "t-1181642367-3319",
+   "date": "2026-04-09",
+   "body": "Committee on Special Events, Cultural Affairs and Recreation",
+   "video_url": "https://vimeo.com/1181642367#t=3319s"
+  },
+  {
+   "n": 38,
+   "chunk_id": "t-1193694170-4563",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=4563s"
+  },
+  {
+   "n": 39,
+   "chunk_id": "t-1193694170-4713",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1193694170#t=4713s"
+  },
+  {
+   "n": 40,
+   "chunk_id": "t-1201890835-4148",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=4148s"
+  },
+  {
+   "n": 41,
+   "chunk_id": "t-1201890835-4298",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=4298s"
+  },
+  {
+   "n": 42,
+   "chunk_id": "t-1201890835-13598",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=13598s"
+  },
+  {
+   "n": 43,
+   "chunk_id": "t-1201890835-13748",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=13748s"
+  },
+  {
+   "n": 44,
+   "chunk_id": "t-1201890835-13898",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1201890835#t=13898s"
+  },
+  {
+   "n": 45,
+   "chunk_id": "t-1204641833-1452",
+   "date": "2026-06-29",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1204641833#t=1452s"
+  },
+  {
+   "n": 46,
+   "chunk_id": "t-1204641833-1602",
+   "date": "2026-06-29",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1204641833#t=1602s"
+  },
+  {
+   "n": 47,
+   "chunk_id": "t-1209979957-5768",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1209979957#t=5768s"
+  },
+  {
+   "n": 48,
+   "chunk_id": "t-1209979957-5918",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1209979957#t=5918s"
+  },
+  {
+   "n": 49,
+   "chunk_id": "t-1210889386-3600",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=3600s"
+  },
+  {
+   "n": 50,
+   "chunk_id": "t-1210889386-3750",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=3750s"
+  },
+  {
+   "n": 51,
+   "chunk_id": "t-1210889386-4500",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=4500s"
+  },
+  {
+   "n": 52,
+   "chunk_id": "t-1210889386-4650",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=4650s"
+  },
+  {
+   "n": 53,
+   "chunk_id": "t-1227112522-3450",
+   "date": "2026-09-16",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1227112522#t=3450s"
+  },
+  {
+   "n": 54,
+   "chunk_id": "t-1227112522-3600",
+   "date": "2026-09-16",
+   "body": "Committee on Housing and Real Estate",
+   "video_url": "https://vimeo.com/1227112522#t=3600s"
+  },
+  {
+   "n": 55,
+   "chunk_id": "t-1229341127-4204",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=4204s"
+  },
+  {
+   "n": 56,
+   "chunk_id": "t-1229341127-4354",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=4354s"
+  },
+  {
+   "n": 57,
+   "chunk_id": "t-1229341127-9904",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=9904s"
+  },
+  {
+   "n": 58,
+   "chunk_id": "t-1229341127-10054",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1229341127#t=10054s"
+  },
+  {
+   "n": 59,
+   "chunk_id": "t-1235564993-9450",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=9450s"
+  },
+  {
+   "n": 60,
+   "chunk_id": "t-1235564993-9600",
+   "date": "2026-10-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1235564993#t=9600s"
+  }
+ ]
+}

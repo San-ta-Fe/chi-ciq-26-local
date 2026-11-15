@@ -1,0 +1,128 @@
+{
+ "issues": [
+  {
+   "name": "2026 City Budget",
+   "slug": "2026-city-budget",
+   "description": "Adoption and amendment of the annual appropriation ordinance and department funding for 2026.",
+   "queries": [
+    "annual appropriation ordinance 2026",
+    "2026 budget package debate",
+    "department funding appropriation"
+   ],
+   "title_keywords": [
+    "Annual Appropriation Ordinance",
+    "Appropriation Ordinance Year 2026",
+    "budget package",
+    "Fund No"
+   ]
+  },
+  {
+   "name": "Parking Meters",
+   "slug": "parking-meters",
+   "description": "Installation, removal, and hours of operation for parking meters across the city.",
+   "queries": [
+    "parking meters hours of operation",
+    "metered parking concession",
+    "install remove parking meters"
+   ],
+   "title_keywords": [
+    "Parking meter",
+    "parking meters",
+    "Metered Parking",
+    "hours of operation for parking meters"
+   ]
+  },
+  {
+   "name": "Police Accountability",
+   "slug": "police-accountability",
+   "description": "Changes to police oversight, COPA powers, and department policies.",
+   "queries": [
+    "Civilian Office of Police Accountability powers",
+    "COPA investigations amendment",
+    "police department policy changes"
+   ],
+   "title_keywords": [
+    "Civilian Office of Police Accountability",
+    "Chicago Police Department",
+    "Police Station",
+    "2-78-120"
+   ]
+  },
+  {
+   "name": "Speed Limits",
+   "slug": "speed-limits",
+   "description": "Establishing reduced speed limitations on residential and commercial streets citywide.",
+   "queries": [
+    "speed limitation ordinance",
+    "reduce speed limit streets",
+    "speed humps limit 2026"
+   ],
+   "title_keywords": [
+    "Speed limitation",
+    "speed limitation at portions"
+   ]
+  },
+  {
+   "name": "Tipped Minimum Wage",
+   "slug": "tipped-minimum-wage",
+   "description": "Amendments to employer gratuity allowances and hourly wage rules for tipped workers.",
+   "queries": [
+    "gratuity allowance hourly wage",
+    "tipped worker wage ordinance",
+    "Section 6-105 gratuities"
+   ],
+   "title_keywords": [
+    "gratuities",
+    "hourly wage",
+    "6-105",
+    "employer allowance"
+   ]
+  },
+  {
+   "name": "Housing and Homelessness",
+   "slug": "housing-and-homelessness",
+   "description": "Affordable housing reporting, senior facility sales, and multi-family housing funding.",
+   "queries": [
+    "homelessness affordable housing report",
+    "multi-family housing funds",
+    "senior living facility sale"
+   ],
+   "title_keywords": [
+    "homelessness and affordable housing",
+    "multi-family program funds",
+    "senior living facility",
+    "residential housing project"
+   ]
+  },
+  {
+   "name": "Ballot Referenda",
+   "slug": "ballot-referenda",
+   "description": "Questions the council considered putting to Chicago voters, including gunshot detection technology.",
+   "queries": [
+    "gunshot detection referendum",
+    "ballot question for voters",
+    "public question November 2026"
+   ],
+   "title_keywords": [
+    "public question by referendum",
+    "gunshot detection",
+    "Submission of public question"
+   ]
+  },
+  {
+   "name": "Gas Station Zoning",
+   "slug": "gas-station-zoning",
+   "description": "Restrictions on new gas stations through special use approval and zoning changes.",
+   "queries": [
+    "gas station special use approval",
+    "gas station zoning prohibition",
+    "new gas stations permit"
+   ],
+   "title_keywords": [
+    "gas stations",
+    "special use approval",
+    "B3, C1 and C2 zoning"
+   ]
+  }
+ ]
+}

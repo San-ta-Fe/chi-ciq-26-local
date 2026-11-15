@@ -1,0 +1,255 @@
+{
+ "name": "Ballot Referenda",
+ "slug": "ballot-referenda",
+ "description": "Questions the council considered putting to Chicago voters, including gunshot detection technology.",
+ "queries": [
+  "gunshot detection referendum",
+  "ballot question for voters",
+  "public question November 2026"
+ ],
+ "title_keywords": [
+  "public question by referendum",
+  "gunshot detection",
+  "Submission of public question"
+ ],
+ "status": "voted",
+ "summary": "The City Council considered several referenda questions for Chicago voters. The most prominent was R2026-0025451, a proposed November 3, 2026 general election question on whether Chicago should restart use of gunshot detection technology that informs first responders when gunshots are detected; introduced 2026-05-20, it was considered by the Committee on Committees and Rules on 2026-07-09, adopted by voice vote in committee [11], and adopted by the City Council 49 Yea / 0 Nay on 2026-07-15. A companion citywide question, R2026-0025459, on a permanent festival and outdoor event measure, followed the same path and was also adopted 49 Yea / 0 Nay on 2026-07-15. By contrast, R2025-0018197, a March 17, 2026 primary election question on establishing a 100-day non-salaried Office, introduced 2025-06-18 and still in committee, was Recommended for Re-Referral by the City Council 15 Yea / 30 Nay on 2026-05-20, leaving its fate unresolved. A related ranked-choice voting referendum (R2025-0018786) was re-referred to the Committee on Committees and Rules per the 2026-07-09 meeting summary [9], and a 26th Ward shared-housing referendum (SR2025-0021045) was adopted as substituted. Committee hearings on 2026-07-07 covered election administration topics including vote-by-mail return options, universal vote centers, and ballot-on-demand modernization [2][4][5][8], but the record trail does not show final disposition of the re-referred referenda, which remain open.",
+ "one_line": "Gunshot detection and festival referenda adopted 49-0 on 2026-07-15; 100-day office question re-referred 15-30, unresolved.",
+ "cited_excerpts": [
+  2,
+  4,
+  5,
+  8,
+  9,
+  11
+ ],
+ "records_cited_not_in_trail": [
+  "R2025-0018786",
+  "SR2025-0021045"
+ ],
+ "trail": [
+  {
+   "record_number": "R2025-0018197",
+   "title": "Submission of public question by referendum to Chicago voters at March 17, 2026 primary election on whether Chicago should establish 100-day non-salaried Office of Chicago Reform Commission to reform and improve city government by drafting City charter proposal",
+   "sponsor": "Lopez, Raymond A.",
+   "date": "2025-06-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Committees and Rules"
+  },
+  {
+   "record_number": "R2025-0018197",
+   "title": "Submission of public question by referendum to Chicago voters at March 17, 2026 primary election on whether Chicago should establish 100-day non-salaried Office of Chicago Reform Commission to reform and improve city government by drafting City charter proposal",
+   "sponsor": "Lopez, Raymond A.",
+   "date": "2025-06-18",
+   "body": "Committee on Committees and Rules",
+   "step": "in committee",
+   "action": "Still in committee"
+  },
+  {
+   "record_number": "R2025-0018197",
+   "title": "Submission of public question by referendum to Chicago voters at March 17, 2026 primary election on whether Chicago should establish 100-day non-salaried Office of Chicago Reform Commission to reform and improve city government by drafting City charter proposal",
+   "sponsor": "Lopez, Raymond A.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Recommended for Re-Referral",
+   "action_text": "The matter was recommended for Re-Referral by controlling legislative body.",
+   "tally": "15 Yea / 30 Nay"
+  },
+  {
+   "record_number": "R2026-0025451",
+   "title": "Submission of public question by referendum to Chicago voters at November 3, 2026 general election on whether Chicago should restart use of gunshot detection technology that informs first responders when gunshots are detected",
+   "sponsor": "Quinn, Marty",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Committees and Rules"
+  },
+  {
+   "record_number": "R2026-0025459",
+   "title": "Submission of public question by referendum to Chicago voters at November 3, 2026 general election on whether Chicago should develop permanent festival and outdoor event space for large-scale events",
+   "sponsor": "Lee, Nicole T.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Committees and Rules"
+  },
+  {
+   "record_number": "R2026-0025451",
+   "title": "Submission of public question by referendum to Chicago voters at November 3, 2026 general election on whether Chicago should restart use of gunshot detection technology that informs first responders when gunshots are detected",
+   "sponsor": "Quinn, Marty",
+   "date": "2026-07-09",
+   "body": "Committee on Committees and Rules",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "7.9.26 CCR  Meeting Summary Report.pdf, p. 2",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/225f7645-b98d-4e89-ba68-d9a01c082eeb.pdf"
+  },
+  {
+   "record_number": "R2026-0025459",
+   "title": "Submission of public question by referendum to Chicago voters at November 3, 2026 general election on whether Chicago should develop permanent festival and outdoor event space for large-scale events",
+   "sponsor": "Lee, Nicole T.",
+   "date": "2026-07-09",
+   "body": "Committee on Committees and Rules",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "7.9.26 CCR  Meeting Summary Report.pdf, p. 2",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/225f7645-b98d-4e89-ba68-d9a01c082eeb.pdf"
+  },
+  {
+   "record_number": "R2026-0025451",
+   "title": "Submission of public question by referendum to Chicago voters at November 3, 2026 general election on whether Chicago should restart use of gunshot detection technology that informs first responders when gunshots are detected",
+   "sponsor": "Quinn, Marty",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Adopted",
+   "action_text": "On motion of Alderperson Harris, and unsuccessful motion to reconsider by Alderperson Mitchell, the resolution was Adopted.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "R2026-0025459",
+   "title": "Submission of public question by referendum to Chicago voters at November 3, 2026 general election on whether Chicago should develop permanent festival and outdoor event space for large-scale events",
+   "sponsor": "Lee, Nicole T.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Adopted",
+   "action_text": "On motion of Alderperson Harris, and unsuccessful motion to reconsider by Alderperson Mitchell, the resolution was Adopted.",
+   "tally": "49 Yea / 0 Nay"
+  }
+ ],
+ "trail_records": 3,
+ "citywide_records": 3,
+ "unverified_in_summary": [],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1210889386-3000",
+   "date": "2026-07-22",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1210889386#t=3000s",
+   "at": "0:50:00",
+   "n": 1,
+   "snippet": "3rd ballot question. Thank you, Mr. President. Very well. There's been a roll call vote on this item. Does anyone else wish to speak to this item that is before the body? Very well. Seeing no hands, motion on the floor for the passage of this resolution by roll call vote. Madam Clerk, could you plea"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1204268397-4213",
+   "date": "2026-07-07",
+   "body": "Committee on Ethics and Government Oversight",
+   "video_url": "https://vimeo.com/1204268397#t=4213s",
+   "at": "1:10:13",
+   "n": 2,
+   "snippet": "You get your ballot on the screen. We can't fit all of our ballot styles. We have over 3,000 ballot styles per election. We really couldn't have a good selection of ballots inside a van. But if we had a printer that could do ballot on demand, then no matter where that van goes, no matter which voter"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1136745770-4515",
+   "date": "2025-11-14",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1136745770#t=4515s",
+   "at": "1:15:15",
+   "n": 3,
+   "snippet": "Open. Please use your e-device. The vote is now open. Please use your e-device. If you need help with logging on or support, please raise your hand. (pausing) Alderman Laspada. Not present. Alderman Ramirez. Yes. Alderman Ramirez is a yes. Alderman Quinn. Quinn is a yes. Alderman Moseley. Moseley is"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1204268397-3463",
+   "date": "2026-07-07",
+   "body": "Committee on Ethics and Government Oversight",
+   "video_url": "https://vimeo.com/1204268397#t=3463s",
+   "at": "0:57:43",
+   "n": 4,
+   "snippet": "date would be on or before election day. Alternatively, voters could instead utilize the drop boxes provided by the Board, if the voters could get to them. For the March 17 primary, the Chicago Board of Elections had 52 drop box locations for return of the vote-by-mail ballots, and they were able to"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1204268397-4063",
+   "date": "2026-07-07",
+   "body": "Committee on Ethics and Government Oversight",
+   "video_url": "https://vimeo.com/1204268397#t=4063s",
+   "at": "1:07:43",
+   "n": 5,
+   "snippet": "It was, back then, absentee balloting. So if you wanted to not vote in person, you had to sign an affidavit that you were unavailable to go to your precinct on Election Day. Back then, almost all the voters went to their precinct, and that was the only option. Unless they were going to be gone, then"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1183109138-9485",
+   "date": "2026-04-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1183109138#t=9485s",
+   "at": "2:38:05",
+   "n": 6,
+   "snippet": "or, \"I'm going to provide better service.\" And then they find themselves with the same issues that put the other business out of business. So all I would say is that as we're putting forward mandates that are unfunded, that we take a look at the mechanism to help fund the mandate that we're putting "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1209979957-18668",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1209979957#t=18668s",
+   "at": "5:11:08",
+   "n": 7,
+   "snippet": "They want to- Does every member have a copy of the ordinance? All right. Madam Clerk, could you make the e-vote application available at this time? Right. Very well. They are working on it. Members of City Council, please record your vote at this time. He's just finishing typing in the data. Be crea"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1204268397-3313",
+   "date": "2026-07-07",
+   "body": "Committee on Ethics and Government Oversight",
+   "video_url": "https://vimeo.com/1204268397#t=3313s",
+   "at": "0:55:13",
+   "n": 8,
+   "snippet": "DISCLOSE Act. Chicago should not wait for the state to act or for the next election cycle to produce even larger, more sophisticated dark money operations that erode public trust and further entrench this problem in our political system. Thank you. Thank you very much. Next up, we will hear from Pri"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-bc7289a440695d44-4",
+   "date": "2026-07-09",
+   "body": "Committee on Committees and Rules",
+   "doc_name": "7.9.26 CCR  Meeting Summary Report.pdf",
+   "page": 3,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/225f7645-b98d-4e89-ba68-d9a01c082eeb.pdf",
+   "n": 9,
+   "snippet": "15. Submission of public question by referendum to Chicago voters at March 17, 2026 primary\n election on whether City of Chicago should adopt ranked-choice voting system for Mayor,\n Treasurer, Clerk and Alderperson.\n R2025-0018786\n RE-REFERRED TO THE COMMITTEE ON COMMITTEES AND RULES\n\n16. Submission"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-36679dd599ecbac7-6",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "doc_name": "2026-09-23 Council Agenda V3 optimized bookmarked.pdf",
+   "page": 5,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3c45558c-4276-444e-8e33-940aedd27693.pdf",
+   "n": 10,
+   "snippet": "18. Roll call on omnibus.\n An omnibus vote is a single roll call vote taken and applied to all items not voted\n upon separately, or for which another vote was not employed during the course\n of the meeting.\n\n19. Adjournment.\n If no further business is to be considered and the meeting is concluded, t"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-98a72a3af33b897a-0",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "doc_name": "7.15.26 CCR Report to Council - Item 9.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/matterattachmentspublic/050b5f59-ca9b-458a-b671-eb85aeb73a1c.pdf",
+   "n": 11,
+   "snippet": "City Council Meeting\nJuly 15, 2026\n\nTo the President and Members of the City Council:\n\nYour Committee on Committees and Rules, which met on July 9, 2026, considered the following\nresolution:\n\n 9. Submission of public question by referendum to Chicago voters at November 3, 2026\n general election on w"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-e82ad6410b03b43b-97",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "doc_name": "2026-05-20 City Council Agenda v2.pdf",
+   "page": 30,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f8c22e31-f40d-40dd-80a7-2b57a0e7c10f.pdf",
+   "n": 12,
+   "snippet": "d voters in the SU\uffffdiStriCt. A city Ot-lorge candidate 5holl\n\n--- Page 108 (OCR) ---\nbe o Chicogo \uffffgIStered voter ond sholl submit ot leost 5(XXJ condldocy petition\n5ignotures. The condidory petition circulotion sholl begin 224 doys before\nthe election ond cgndidarypetitions shall befiled with the C"
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}

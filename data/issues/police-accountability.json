@@ -1,0 +1,406 @@
+{
+ "name": "Police Accountability",
+ "slug": "police-accountability",
+ "description": "Changes to police oversight, COPA powers, and department policies.",
+ "queries": [
+  "Civilian Office of Police Accountability powers",
+  "COPA investigations amendment",
+  "police department policy changes"
+ ],
+ "title_keywords": [
+  "Civilian Office of Police Accountability",
+  "Chicago Police Department",
+  "Police Station",
+  "2-78-120"
+ ],
+ "status": "voted",
+ "summary": "The most contested item was O2025-0020004, which amended Municipal Code Section 2-78-120 to expand COPA's powers to investigate complaints against CPD members alleging Welcoming City Ordinance violations. At the 2026-01-27 joint committee hearing, COPA testified it lacked jurisdiction over such complaints, had received roughly 40 ICE-related complaints (28 potentially involving Welcoming City violations), and was prepared to begin investigations immediately upon passage [2][4][12]. A motion to defer and publish was made at the 2026-02-18 City Council meeting [3], but the ordinance passed 50 Yea / 0 Nay on 2026-03-18 [7]. Separately, SO2025-0015584, amending Section 2-78-120 (e-5) and adding Section 2-84-530 restricting CPD members, passed 28 Yea / 21 Nay on 2026-05-20 after being on the Committee on Workforce Development agenda 2026-04-13. The City Council also approved Lakenya White as COPA Chief Administrator 50 Yea / 0 Nay on 2026-03-18 (A2026-0023341). Oversight activity continued: the Inspector General reported 15 recommendations to reopen COPA investigations in 2024, of which COPA accepted 10 and declined 5 [5], and declined to reopen an FTO use-of-force case despite OIG's recommendation [6]. COPA's FY2027 proposed budget (~$17 million, a 7.58% increase, with a 22.67% vacancy rate as of 2026-10-21) was presented at the 2026-11-05 budget hearing [1], and remains subject to approval. Routine appropriation amendments for CPD within Fund No. 925 (O2026-0025214, O2026-0026183, O2026-0026839) all passed with 49-50 Yea and 0 Nay between 2026-05-20 and 2026-07-15.",
+ "one_line": "Council expanded COPA's Welcoming City investigative powers (50-0), passed CPD restrictions (28-21), approved new COPA chief; FY2027 budget pending.",
+ "cited_excerpts": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  12
+ ],
+ "records_cited_not_in_trail": [],
+ "trail": [
+  {
+   "record_number": "SO2025-0015584",
+   "title": "Amendment of Municipal Code Title 2 by amending Section 2-78-120 (e-5) and adding new Section 2-84-530 prohibiting members of Chicago Police Department from participating in any extremist activity",
+   "sponsor": "Martin, Matthew J.",
+   "date": "2025-02-19",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Workforce Development"
+  },
+  {
+   "record_number": "O2025-0020004",
+   "title": "Amendment of Municipal Code Section 2-78-120 to modify powers and duties of Civilian Office of Police Accountability to include conducting investigations into complaints made against members of Police Department",
+   "sponsor": "Fuentes, Jessica L.",
+   "date": "2025-09-25",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Joint Committee: Police and Fire; Immigrant and Refugee Rights"
+  },
+  {
+   "record_number": "O2025-0020484",
+   "title": "Grant of goods agreement with Commercial Club Foundation to support Chicago Police Department",
+   "sponsor": "Johnson, Brandon",
+   "date": "2025-10-16",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Police and Fire"
+  },
+  {
+   "record_number": "O2025-0020484",
+   "title": "Grant of goods agreement with Commercial Club Foundation to support Chicago Police Department",
+   "sponsor": "Johnson, Brandon",
+   "date": "2025-12-11",
+   "body": "Committee on Police and Fire",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "Agenda 12.11.2025.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/27ba4f0f-c097-40f2-af51-50eb4e51b01b.pdf"
+  },
+  {
+   "record_number": "O2025-0020484",
+   "title": "Grant of goods agreement with Commercial Club Foundation to support Chicago Police Department",
+   "sponsor": "Johnson, Brandon",
+   "date": "2025-12-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Robinson, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2025-0020484",
+   "title": "Grant of goods agreement with Commercial Club Foundation to support Chicago Police Department",
+   "sponsor": "Johnson, Brandon",
+   "date": "2025-12-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Recommended to Pass",
+   "action_text": "The matter was recommended to Pass by controlling legislative body.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2025-0020004",
+   "title": "Amendment of Municipal Code Section 2-78-120 to modify powers and duties of Civilian Office of Police Accountability to include conducting investigations into complaints made against members of Police Department",
+   "sponsor": "Fuentes, Jessica L.",
+   "date": "2026-01-27",
+   "body": "Joint Committee: Police and Fire; Immigrant and Refugee Rights",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "AGENDA 1.27.2026.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4f381578-85de-437b-b953-036e3e58e46a.pdf"
+  },
+  {
+   "record_number": "A2026-0023341",
+   "title": "Appointment of Lakenya White as Chief Administrator of Civilian Office of Police Accountability",
+   "sponsor": "",
+   "date": "2026-03-13",
+   "body": "Committee on Police and Fire",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary Police & Fire.March 13. 2026.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d3000744-787e-4f3d-85cf-1c40e101d165.pdf"
+  },
+  {
+   "record_number": "A2026-0023341",
+   "title": "Appointment of Lakenya White as Chief Administrator of Civilian Office of Police Accountability",
+   "sponsor": "",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Approved",
+   "action_text": "On motion of Alderperson Robinson, and unsuccessful motion to reconsider by Alderperson Mitchell, the appointment was Approved.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2025-0020004",
+   "title": "Amendment of Municipal Code Section 2-78-120 to modify powers and duties of Civilian Office of Police Accountability to include conducting investigations into complaints made against members of Police Department",
+   "sponsor": "Fuentes, Jessica L.",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Fuentes, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "R2026-0024085",
+   "title": "Call on Chicago Police Department and Department of Assets, Information and Services to rename 3rd District Police Station as \"Police Officer Dorelle C. Brandon 3rd District Station\"",
+   "sponsor": "Hall, William E.",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Police and Fire"
+  },
+  {
+   "record_number": "SO2025-0015584",
+   "title": "Amendment of Municipal Code Title 2 by amending Section 2-78-120 (e-5) and adding new Section 2-84-530 prohibiting members of Chicago Police Department from participating in any extremist activity",
+   "sponsor": "Martin, Matthew J.",
+   "date": "2026-04-13",
+   "body": "Committee on Workforce Development",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "Workforce April 13th 2026 Agenda.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/417db1b5-b4f7-4a32-bda5-85c08c62059b.pdf"
+  },
+  {
+   "record_number": "R2026-0024085",
+   "title": "Call on Chicago Police Department and Department of Assets, Information and Services to rename 3rd District Police Station as \"Police Officer Dorelle C. Brandon 3rd District Station\"",
+   "sponsor": "Hall, William E.",
+   "date": "2026-05-06",
+   "body": "Committee on Police and Fire",
+   "step": "committee",
+   "action": "Listed in committee agenda",
+   "source": "Agenda 5.6.2026.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/9ec8bbf4-a8cf-43f1-8b91-66d60c24ab53.pdf"
+  },
+  {
+   "record_number": "O2026-0025214",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Mayor's Office for People with Disabilities and Chicago Police Department",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-13",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0025214",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Mayor's Office for People with Disabilities and Chicago Police Department",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-13",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/eeafffc8-4d4a-4317-b76d-02ef60e518d5.pdf"
+  },
+  {
+   "record_number": "O2026-0025214",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Mayor's Office for People with Disabilities and Chicago Police Department",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "R2026-0024085",
+   "title": "Call on Chicago Police Department and Department of Assets, Information and Services to rename 3rd District Police Station as \"Police Officer Dorelle C. Brandon 3rd District Station\"",
+   "sponsor": "Hall, William E.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Adopted",
+   "action_text": "On motion of Alderperson Taliafero, and unsuccessful motion to reconsider by Alderperson Mitchell, the resolution was Adopted.",
+   "tally": "50 Yea / 0 Nay"
+  },
+  {
+   "record_number": "SO2025-0015584",
+   "title": "Amendment of Municipal Code Title 2 by amending Section 2-78-120 (e-5) and adding new Section 2-84-530 prohibiting members of Chicago Police Department from participating in any extremist activity",
+   "sponsor": "Martin, Matthew J.",
+   "date": "2026-05-20",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Martin, and unsuccessful motion to reconsider by Alderperson Martin, the matter was Passed.",
+   "tally": "28 Yea / 21 Nay"
+  },
+  {
+   "record_number": "O2026-0026183",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Family and Support Services, Chicago Police Department, Department of the Environment, Department of Streets and Sanitation and Department of Water Management",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-06-15",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0026183",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Family and Support Services, Chicago Police Department, Department of the Environment, Department of Streets and Sanitation and Department of Water Management",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-06-15",
+   "body": "Committee on Budget and Government Operations",
+   "step": "committee",
+   "action": "Listed in committee summary",
+   "source": "Summary.pdf, p. 1",
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/088a2dc6-2e23-4ff6-a939-402ba4e81d63.pdf"
+  },
+  {
+   "record_number": "O2026-0026183",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Family and Support Services, Chicago Police Department, Department of the Environment, Department of Streets and Sanitation and Department of Water Management",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-06-17",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  },
+  {
+   "record_number": "O2026-0026839",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health, Department of Family and Support Services, Chicago Police Department, Department of Environment, Department of Transportation and Chicago Public Library",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-07-08",
+   "body": "City Council",
+   "step": "introduced",
+   "action": "Introduced, referred to Committee on Budget and Government Operations"
+  },
+  {
+   "record_number": "O2026-0026839",
+   "title": "Annual Appropriation Ordinance Year 2026 amendment within Fund No. 925 for Department of Public Health, Department of Family and Support Services, Chicago Police Department, Department of Environment, Department of Transportation and Chicago Public Library",
+   "sponsor": "Ervin, Jason C.",
+   "date": "2026-07-15",
+   "body": "City Council",
+   "step": "council action",
+   "action": "Passed",
+   "action_text": "On motion of Alderperson Ervin, and unsuccessful motion to reconsider by Alderperson Mitchell, the matter was Passed.",
+   "tally": "49 Yea / 0 Nay"
+  }
+ ],
+ "trail_records": 8,
+ "citywide_records": 8,
+ "unverified_in_summary": [
+  "2026-10-21",
+  "49-50"
+ ],
+ "evidence": [
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1243534584-32987",
+   "date": "2026-11-05",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1243534584#t=32987s",
+   "at": "9:09:47",
+   "n": 1,
+   "snippet": "Okay, we're back on here with the Civilian Office of Police Accountability. We're going to have a brief overview from our team at COFA, followed by questions from members beginning with Whosoever raises their hand. So go ahead, Adrian. Good evening, Chairman Irvin and members of the City Council. Th"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1156605301-6548",
+   "date": "2026-01-27",
+   "body": "Joint Committee: Police and Fire; Immigrant and Refugee Rights",
+   "video_url": "https://vimeo.com/1156605301#t=6548s",
+   "at": "1:49:08",
+   "n": 2,
+   "snippet": "We arrive at the proposal before you today, which COPA fully supports upon passage, COPA is prepared to immediately begin administrative invest investigations of all future complaints containing allegations of this type. We have already begun building the necessary infrastructure to support this wor"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1165773679-13917",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1165773679#t=13917s",
+   "at": "3:51:57",
+   "n": 3,
+   "snippet": "duties of civilian office of police accountability to include conducting investigations into complaints made against members of the Chicago Police Department. I move passage of 02025-0020004 by the first favorable roll call vote of the committee on finance and the and the associated unsuccessful mot"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1156605301-6698",
+   "date": "2026-01-27",
+   "body": "Joint Committee: Police and Fire; Immigrant and Refugee Rights",
+   "video_url": "https://vimeo.com/1156605301#t=6698s",
+   "at": "1:51:38",
+   "n": 4,
+   "snippet": "and two referred and retained by the Inspector General across these 28 complaints. COPPA average time to reassign was less than two business days, and the vast majority of cases reassignment occurred the same day under the proposed amendment. Allegations of welcoming city ordinance violations by CPD"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1138170250-3310",
+   "date": "2025-12-01",
+   "body": "Joint Committee: Public Safety; Police and Fire",
+   "video_url": "https://vimeo.com/1138170250#t=3310s",
+   "at": "0:55:10",
+   "n": 5,
+   "snippet": "work conducted by the Public Safety Section's Investigative Analysis Unit. And that is the section or the unit of the Public Safety Section that reviews the individual closed disciplinary investigations conducted by the Civilian Office of Police Accountability, or COPA, and CPD's Bureau of Internal "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1183778059-1859",
+   "date": "2026-04-16",
+   "body": "Committee on Ethics and Government Oversight",
+   "video_url": "https://vimeo.com/1183778059#t=1859s",
+   "at": "0:30:59",
+   "n": 6,
+   "snippet": "And so I just want to make that clear as to why we treat the information related to these cases differently than our own investigative work. So COPA investigation, 14 allegations into a field training officer arising out of an interaction with a juvenile subject. A wide range of allegations here, in"
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1174131349-15669",
+   "date": "2026-03-18",
+   "body": "City Council",
+   "video_url": "https://vimeo.com/1174131349#t=15669s",
+   "at": "4:21:09",
+   "n": 7,
+   "snippet": "with Internal Affairs and with IPRA, who was the, the predecessor to COPA, which you may, you may recall. And COPA itself is, is a bit of a unique instrument in the sense that actually the results of it find their way to the superintendent. So this actually does require, allow for a little bit more "
+  },
+  {
+   "kind": "transcript",
+   "chunk_id": "t-1135569237-16136",
+   "date": "2025-11-12",
+   "body": "Committee on Budget and Government Operations",
+   "video_url": "https://vimeo.com/1135569237#t=16136s",
+   "at": "4:28:56",
+   "n": 8,
+   "snippet": "I have Acting Director of Investigations for Intake Wilbert Neal. I have Acting Assistant General Counsel, Cindy Erno. I have Director of Information Services, Sal Va. I have Director of Public Affairs, Carlos Revis. I have Director of training, Charlotte Seiler. And then I have Chief Investigative "
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-b4e4dc4043a6edf8-1",
+   "date": "2026-10-26",
+   "body": "Committee on Budget and Government Operations",
+   "doc_name": "FY2027 BUDGET HEARINGS AGENDA (Final) (Amended) 10.19.26.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c6ebaa40-43ce-412a-9d8e-b2a0a58b5d87.pdf",
+   "n": 9,
+   "snippet": "ntrol\n \u2022 Office of Public Safety Administration\n \u2022 Civilian Office of Police Accountability"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-3fcf9d4347a0138f-72",
+   "date": "2026-02-18",
+   "body": "City Council",
+   "doc_name": "2026-02-18 City Council Agenda v4.pdf",
+   "page": 72,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e5924021-db08-4541-97d9-a6a01a0c9586.pdf",
+   "n": 10,
+   "snippet": "Joint Committee(s)\n\n--- Page 73 (OCR) ---\nCTfY OF CHtCAGO\nPhone: (312) 744_8805\nCO)LiIfiTEE ON POLICE FIRE\nCity HaJL 305\n121 N. Lasalle Street\nJoi\uffffrCOMmITfEE ON POLICE AND FIRE &\nIMMIGRATION & REFUGEE RIGHTS\nTuesday. January 27. 2026.\nIn-Person Meeting\nI:oop.\nMEETING SUMMARY\n1. 0202541020004 - Amend"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-36679dd599ecbac7-200",
+   "date": "2026-09-23",
+   "body": "City Council",
+   "doc_name": "2026-09-23 Council Agenda V3 optimized bookmarked.pdf",
+   "page": 123,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3c45558c-4276-444e-8e33-940aedd27693.pdf",
+   "n": 11,
+   "snippet": " The Commissioner shall prepare and make available a form\nnotice that satisfies the requirements of this section. Such form notice shall ensure that Outdoor\nWorkers who have limited proficiency in the English language have meaningful notice of their\nrights under this chapter in accordance with Chapt"
+  },
+  {
+   "kind": "document",
+   "chunk_id": "d-1e2e1c7cacb60d36-0",
+   "date": "2026-01-27",
+   "body": "Joint Committee: Police and Fire; Immigrant and Refugee Rights",
+   "doc_name": "Summary JT P&F and Immigrant. 1.27. 2026.pdf",
+   "page": 1,
+   "doc_url": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ea5af31a-979f-4c35-af15-222ba117dd0e.pdf",
+   "n": 12,
+   "snippet": "CITY OF CHICAGO\n\n ALD. CHRIS TALIAFERRO Phone: (312) 744-8805\n Chairman COMMITTEE ON POLICE AND FIRE\n City Hall, Room 305\n 121 N. LaSalle Street\n Chicago, Illinois 60602\n\n\n JOINT COMMITTEE ON POLICE AND FIRE &\n IMMIGRATION & REFUGEE RIGHTS\n Tuesday, January 27, 2026,\n In-Person Meeting\n\n 1:00 P.M.\n\n"
+  }
+ ],
+ "model_profile": "cloud",
+ "model": "glm-5.3-flash",
+ "source_note": "Trail: official City Clerk records. Excerpts: Vimeo auto-captions (may contain errors) and council documents."
+}
